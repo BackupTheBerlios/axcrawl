@@ -1,0 +1,41 @@
+ Dungeon Crawl version Ax-Crawl v.0.2 character file.
+
+dher the Grave Robber (Deep Elf)
+(Level 1 Necromancer)
+Experience : 1/0
+Strength 6     Dexterity 15     Intelligence 18
+Hit Points : 8          Magic Points : 4
+AC : 1          Evasion : 10          Shield : 0
+GP : 12
+
+You are on level 1
+You are not hungry.
+
+  Inventory:
+Hand weapons
+ a - a +0 elven dagger (weapon)
+Armour
+ b - a +0 elven robe (worn)
+Comestibles
+ d - a bread ration
+Books
+ c - a book of Necromancy
+
+
+ You have 25 experience left.
+
+   Skills:
+ + Level 1 Short Blades
+ + Level 1 Staves
+ + Level 1 Dodging
+ + Level 2 Stealth
+ + Level 2 Spellcasting
+ + Level 5 Necromancy
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+  Your Spells                       Type                  Success   Level
+ a - Pain                         Necromancy              Great       1
+

@@ -1,0 +1,319 @@
+NI:53
+ID:0
+NM:ring of regeneration
+GD:525
+DC:This wonderful ring greatly increases the recuperative powers of its wearer, but also considerably speeds his or her metabolism. $
+
+
+ID:1
+NM:+0 ring of protection
+GD:70
+DC:This ring either protects its wearer from harm or makes them more vulnerable to injury, to a degree dependent on its power. $
+
+
+ID:2
+NM:ring of protection from fire
+GD:210
+DC:This ring provides protection from heat and fire. $
+
+
+ID:3
+NM:ring of poison resistance
+GD:210
+DC:This ring provides protection from the effects of poisons and venom. $
+
+
+ID:4
+NM:ring of protection from cold
+GD:210
+DC:This ring provides protection from cold. $
+
+
+ID:5
+NM:+0 ring of strength
+GD:70
+DC:This ring increases or decreases the physical strength of its wearer, to a degree dependent on its power. $
+
+
+ID:6
+NM:+0,+0 ring of slaying
+GD:210
+DC:This ring increases the hand-to-hand and missile combat skills of its wearer.$
+
+
+ID:7
+NM:ring of see invisible
+GD:140
+DC:This ring allows its wearer to see those things hidden from view by magic. $
+
+
+ID:8
+NM:ring of invisibility
+GD:700
+DC:This powerful ring can be activated to hide its wearer from the view of others, but increases the speed of his or her metabolism greatly while doing so. $
+
+
+ID:9
+NM:ring of hunger
+GD:1
+DC:This accursed ring causes its wearer to hunger considerably more quickly. $
+
+
+ID:10
+NM:ring of teleportation
+GD:1
+DC:This ring occasionally exerts its power to randomly translocate its wearer to another place, and can be deliberately activated for the same effect. $
+
+
+ID:11
+NM:+0 ring of evasion
+GD:70
+DC:This ring makes its wearer either more or less capable of avoiding attacks, depending on its degree of enchantment. $
+
+
+ID:12
+NM:ring of sustain abilities
+GD:175
+DC:This ring protects its wearer from the loss of their strength, dexterity and intelligence. $
+
+
+ID:13
+NM:ring of sustenance
+GD:175
+DC:This ring provides energy to its wearer, so that they need eat less often. $
+
+
+ID:14
+NM:+0 ring of dexterity
+GD:70
+DC:This ring increases or decreases the dexterity of its wearer, depending on the degree to which it has been enchanted. $
+
+
+ID:15
+NM:+0 ring of intelligence
+GD:70
+DC:This ring increases or decreases the mental ability of its wearer, depending on the degree to which it has been enchanted. $
+
+
+ID:16
+NM:ring of wizardry
+GD:245
+DC:This ring increases the ability of its wearer to use magical spells. $
+
+
+ID:17
+NM:ring of magical power
+GD:280
+DC:This ring increases its wearer's reserves of magical power. $
+
+
+ID:18
+NM:ring of levitation
+GD:210
+DC:This ring allows its wearer to hover above the floor. $
+
+
+ID:19
+NM:ring of life protection
+GD:420
+DC:This blessed ring protects the life-force of its wearer from negative energy, making them partially immune to the draining effects of undead and necromantic magic. $
+
+
+ID:20
+NM:ring of protection from magic
+GD:280
+DC:This ring increases its wearer's resistance to hostile enchantments. $
+
+
+ID:21
+NM:ring of fire
+GD:434
+DC:This ring brings its wearer more in contact with the powers of fire. He or she gains resistance to heat and can use fire magic more effectively, but becomes more vulnerable to the effects of cold. $
+
+
+ID:22
+NM:ring of ice
+GD:434
+DC:This ring brings its wearer more in contact with the powers of cold and ice. He or she gains resistance to cold and can use ice magic more effectively, but becomes more vulnerable to the effects of fire. $
+
+
+ID:23
+NM:ring of teleport control
+GD:294
+DC:This ring allows its wearer to control the destination of any teleportation, although without perfect accuracy.  Trying to teleport into a solid object will result in a random teleportation, at least in the case of a normal teleportation.  Also be wary that controlled teleports will contaminate the subject with residual magical energy.$
+
+
+ID:24
+NM:questionable item (cl:7,ty:24,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:25
+NM:questionable item (cl:7,ty:25,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:26
+NM:questionable item (cl:7,ty:26,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:27
+NM:questionable item (cl:7,ty:27,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:28
+NM:questionable item (cl:7,ty:28,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:29
+NM:questionable item (cl:7,ty:29,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:30
+NM:questionable item (cl:7,ty:30,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:31
+NM:questionable item (cl:7,ty:31,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:32
+NM:questionable item (cl:7,ty:32,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:33
+NM:questionable item (cl:7,ty:33,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:34
+NM:questionable item (cl:7,ty:34,pl:0,pl2:0,sp:0,qu:1)
+GD:1
+DC:$
+
+
+ID:35
+NM:amulet of rage
+GD:140
+DC:This amulet enables its wearer to attempt to enter a state of berserk rage, and increases their chance of successfully doing so.  It also partially protects the user from passing out when coming out of that rage. $
+
+
+ID:36
+NM:amulet of resist slowing
+GD:210
+DC:This amulet protects its wearer from some magically induced forms of slowness, and increases the duration of enchantments which speed his or her actions. $
+
+
+ID:37
+NM:amulet of clarity
+GD:210
+DC:This amulet protects its wearer from some forms of mental confusion. $
+
+
+ID:38
+NM:amulet of warding
+GD:210
+DC:This amulet repels some of the attacks of creatures which have been magically summoned. $
+
+
+ID:39
+NM:amulet of resist corrosion
+GD:210
+DC:This amulet protects the armour and weaponry of its wearer from corrosion caused by acids, although not infallibly so. $
+
+
+ID:40
+NM:amulet of the gourmand
+GD:105
+DC:This amulet allows its wearer to consume meat in various states of decay without suffering unduly as a result. Poisonous or cursed flesh is still not recommended. $
+
+
+ID:41
+NM:amulet of conservation
+GD:175
+DC:This amulet protects some of the possessions of its wearer from outright destruction, but not infallibly so. $
+
+
+ID:42
+NM:amulet of controlled flight
+GD:175
+DC:Should the wearer of this amulet be levitated by magical means, he or she will be able to exercise some control over the resulting motion. This allows the descent of staircases and the retrieval of items lying on the ground, for example, but does not deprive the wearer of the benefits of levitation. $
+
+
+ID:43
+NM:amulet of inaccuracy
+GD:1
+DC:This amulet makes its wearer less accurate in hand combat. $
+
+
+ID:44
+NM:amulet of resist mutation
+GD:210
+DC:This amulet protects its wearer from mutations, although not infallibly so. $
+
+
+ID:45
+NM:amulet of death evader
+GD:1
+DC:This amulet pulses plenty of life. Long time ago, a wizard discovered the essence of life and put it inside this amulet. When the wearer of the amulet dies, sometimes The Death is confused and takes the essence of the amulet instead the life of the wearer. Remember that Death is very very old and sometimes won't be confused.$
+
+
+ID:46
+NM:amulet of life suply
+GD:1
+DC:This amulet stores life. When necessary, the user drains some life from the amulet.The amulet, sometimes, uses gained experience to recharge itself. $Also, it partially protects you from negative energy. 0$
+
+
+ID:47
+NM:amulet of adornament
+GD:1
+DC:This is a beatiful amulet, uselessness to nothing, only to decorate your neck and improve your appearance.$
+
+
+ID:48
+NM:amulet of life eater
+GD:1
+DC:If you don't want die, don't wear this amulet.$ Each turn has a chance of eat a bit of your life.$Also, each turn, it can cursed itself$
+
+
+ID:49
+NM:amulet of gif of The Fatality
+GD:1
+DC:Only very stupid people would wear this amulet. It raises the experiencefor each kill, but also increases the probability of being death.It gives you a malediction that calls a nasty bad luck over your.The amulet auto-cursed and when removed, the malediction remains 1000 turns at minumun$
+
+
+ID:50
+NM:amulet of gif of The Fortune
+GD:1
+DC:The unpredictible goddess Fortune kissed the amulet, and offered to the mortals as a gift ... and as a joke. Only the stupid or the really very valient would rely on it to survive. It will help you but, like Fortune, it will does capriciously and it will fail you in the worst moment.$
+
+
+ID:51
+NM:ring of aggravate
+GD:1
+DC:The ring alerts the creatures of the dungeon of your presence.$
+
+
+ID:52
+NM:ring of conflict
+GD:1
+DC:All the creatures will see an enemy in the others.$
+
+

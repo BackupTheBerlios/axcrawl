@@ -1,0 +1,33 @@
+NI:33
+bubbling red $:NAME:$
+fuming blue $:NAME:$
+smoky black $:NAME:$
+fizzy while $:NAME:$
+sedimented cyan $:NAME:$
+metallic silvery $:NAME:$
+slimy yellow $:NAME:$
+clear $:NAME:$
+viscous inky $:NAME:$
+oily purple $:NAME:$
+emulsified orange $:NAME:$
+murky green $:NAME:$
+gluggy black $:NAME:$
+lumpy pink $:NAME:$
+fizzy brown $:NAME:$
+glowing silvery $:NAME:$
+murky cyan $:NAME:$
+sedimented yellow $:NAME:$
+slimy black $:NAME:$
+smoky green $:NAME:$
+gluggy blue $:NAME:$
+oily pink $:NAME:$
+metallic clear $:NAME:$
+murky white $:NAME:$
+fizzy red $:NAME:$
+viscous purple $:NAME:$
+slimy brown $:NAME:$
+emuldified silvery $:NAME:$
+fumming orange $:NAME:$
+oily inky $:NAME:$
+sedimented purple $:NAME:$
+viscous black $:NAME:$

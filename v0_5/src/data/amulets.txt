@@ -1,0 +1,80 @@
+NI:15
+ID:0 
+NM:amulet of rage
+GD:140
+DC:This amulet enables its wearer to attempt to enter a state of berserk rage, and increases their chance of successfully doing so.  It also partially protects the user from passing out when coming out of that rage. 
+
+ID:1 
+NM:amulet of resist slowing
+GD:210
+DC:This amulet protects its wearer from some magically induced forms of slowness, and increases the duration of enchantments which speed his or her actions. 
+
+ID:2 
+NM:amulet of clarity
+GD:210
+DC:This amulet protects its wearer from some forms of mental confusion. 
+
+ID:3 
+NM:amulet of warding
+GD:210
+DC:This amulet repels some of the attacks of creatures which have been magically summoned. 
+
+ID:4 
+NM:amulet of resist corrosion
+GD:210
+DC:This amulet protects the armour and weaponry of its wearer from corrosion caused by acids, although not infallibly so. 
+
+ID:5 
+NM:amulet of the gourmand
+GD:105
+DC:This amulet allows its wearer to consume meat in various states of decay without suffering unduly as a result. Poisonous or cursed flesh is still not recommended. 
+
+ID:6 
+NM:amulet of conservation
+GD:175
+DC:This amulet protects some of the possessions of its wearer from outright destruction, but not infallibly so. 
+
+ID:7 
+NM:amulet of controlled flight
+GD:175
+DC:Should the wearer of this amulet be levitated by magical means, he or she will be able to exercise some control over the resulting motion. This allows the descent of staircases and the retrieval of items lying on the ground, for example, but does not deprive the wearer of the benefits of levitation. 
+
+ID:8 
+NM:amulet of inaccuracy
+GD:1
+DC:This amulet makes its wearer less accurate in hand combat. 
+
+ID:9 
+NM:amulet of resist mutation
+GD:210
+DC:This amulet protects its wearer from mutations, although not infallibly so. 
+
+ID:10
+NM:amulet of death evader
+GD:1
+DC:This amulet pulses plenty of life. Long time ago, a wizard discovered the essence of life and put it inside this amulet. When the wearer of the amulet dies, sometimes The Death is confused and takes the essence of the amulet instead the life of the wearer. Remember that Death is very very old and sometimes won't be confused.
+
+ID:11
+NM:amulet of life suply
+GD:1
+DC:This amulet stores life. When necessary, the user drains some life from the amulet.The amulet, sometimes, uses gained experience to recharge itself. Also, it partially protects you from negative energy. 0
+
+ID:12
+NM:amulet of adornament
+GD:10
+DC:This is a beatiful amulet, uselessness to nothing, only to decorate your neck and improve your appearance.
+
+ID:13
+NM:amulet of life eater
+GD:1
+DC:If you don't want die, don't wear this amulet. Each turn has a chance of eat a bit of your life.Also, each turn, it can cursed itself
+
+ID:14
+NM:amulet of gif of The Fatality
+GD:1
+DC:Only very stupid people would wear this amulet. It raises the experiencefor each kill, but also increases the probability of being death.It gives you a malediction that calls a nasty bad luck over your.The amulet auto-cursed and when removed, the malediction remains 1000 turns at minumun
+
+ID:15
+NM:amulet of gif of The Fortune
+GD:100
+DC:The unpredictible goddess Fortune kissed the amulet, and offered to the mortals as a gift ... and as a joke. Only the stupid or the really very valient would rely on it to survive. It will help you but, like Fortune, it will does capriciously and it will fail you in the worst moment.

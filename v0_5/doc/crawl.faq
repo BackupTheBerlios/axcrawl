@@ -1,0 +1,114 @@
+                       Crawl FAQ (last updated 13/10/1998)
+
+                         Copyright 1998, Linley Henzell
+
+This is a list of a few questions which keep popping up among people who play
+Crawl, as well as some others which I feel could be made more obvious, but
+don't really fit in the standard documentation. They aren't in any particular
+order beyond a few very general headings, but the list is quite short and
+further organisation won't be necessary for a while.
+
+ 1)
+How does the skill system work?
+<best broken down into several different questions>
+
+ 1a - How do I exercise a skill?
+The simple answer is: use it. Any skill can be gained simply by performing the
+activity which it affects. So if you want to increase your Fighting or Long
+Swords skill, hit something with a long sword. You can increase passive skills
+like Stealth, Dodging and Armour by choosing appropriate equipment to be
+stealthy (ie light body armour), agile (ie light body armour again), or well-
+armoured (the heaviest body armour you can find), and just walking around and
+fighting in it. Methods of improving other skills should become obvious with a
+little thought.
+
+ 1b - How do I get a skill I don't currently have?
+Again: use it. Eventually it will appear on the skills screen.
+
+ 1c - What does that "unallocated experience" thing at the top of the skills
+  screen actually mean?
+When you earn experience points (xp) by killing things, they go into a pool of
+'available (unallocated) xp'. When you exercise a skill, your stock of
+available xp is reduced and you gain one or more points in that skill. When
+all of your available xp is gone, go and kill something to get some more so
+you can start exercising skills again.
+
+ 1d - How can I tell what skills I've been exercising and how much?
+When you have enough points in a particular skill, that skill will increase in
+level. This is your indication of progress.
+
+ 1e - I "greyed out" a skill on the skills screen, and I still gained a level
+  in it. Huh?
+Deselecting ("greying out") a skill doesn't stop you from exercising it, it
+just reduces the speed at which you practise the skill in question by about a
+factor of 4.
+
+
+2)
+ Other things:
+
+ 2a - How come the stairs don't connect?
+They do. If you go up or down a particular stair, you will always appear on a
+particular stair on the next level, and no other stair will lead to that one.
+Climbing any ladder will, however, always lead to staircase Number One on the
+next level (up or down), and never to another ladder (funny that). Branch
+dungeon staircases are another matter, but they should be pretty obvious. Or
+at least this is what should happen. Any other behaviour is a bug.
+
+ 2b - I was wandering around on level 2 when a huge and scary yak appeared
+  and tore me to pieces. Is this fair?
+No, it probably isn't. Welcome to life.
+
+ 2c - What systems is Crawl available for?
+Currently, Crawl is being developed for DOS and should run on any platform
+which supports DOS (like Win 95/98/NT and other variants). Svante Gerhard
+(svante@algonet.se) has written a Linux port, which works on any Linux-like
+system with only minor modifications. As much as I would like to make Crawl
+available for other platforms, such as the Mac, the Commodore 64 and the ZX80,
+I have neither experience with or access to any of those systems. Any offers
+of help porting-wise would be greatly appreciated.
+
+ 2d - What can I do with Crawl apart from play it?
+Crawl is covered by the same GPL licence as Nethack, so you can modify the
+source code to your heart's delight, and (with some restrictions) release the
+results. Just read the file LICENCE.TXT first.
+
+ 2e - Why are there so many spelling errors in Crawl? Surely you know how to
+  spell armor, color, license, artifact etcetera?
+Here in Australia we generally use British English (as opposed to USA
+English). In UK English armour and colour contain the letter u, and license
+is the verb form of the noun licence (likewise practise and practice).
+
+ 2f - Do you appreciate being sent unsolicited save files?
+No. Please do not send me save files without asking. At the very least, try to
+work out the *relevant* files and zip them, but please ask first in any case;
+usually save files only tell me the symptoms and not the causes.
+
+ 2h - I want to express my gratitude for your tireless work in bringing this
+  work of art to the world, but I don't know how. Do you have any suggestions?
+Here are a few ideas:
+a) Send me lots of money or food (raw sugar is always appreciated)
+b) Send me lots of money or beer (especially if you live near a brewery in
+ Germany, Belgium or Ireland)
+c) Buy me a new car to replace the one I wrote off a few months ago.
+d) Promise to give me a job when I graduate (difficult, unless you happen to
+be a partner in a law firm)
+e) Pay for my medical expenses when I finally come down with some kind of
+disease from spending too much time in front of a computer, writing this game.
+f) Convince the Australian government to resign and hand power to the Natural
+Law party (purely for the comedy value)
+
+If you lack the time for any of these, you could do much worse than sending a
+friendly email to zel@olis.net.au telling me what you think of Crawl.
+Suggestions and comments are always welcome, and can also be directed to the
+newsgroup rec.games.roguelike.misc. Several people have also in the past sent
+me bugfixes, bits of new code, and even the occasional whole new module
+(thanks, $pellbinder!) written in C far more proficient than I could ever
+dream of producing - this is appreciated very much, but please warn me before
+making any radical changes so I can go into code freeze for a few days.
+
+Thanks for reading, and happy crawling!
+
+Linley Henzell
+
+

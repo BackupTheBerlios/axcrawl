@@ -1,0 +1,133 @@
+NI:22
+ID:0
+NM:meat ration
+GD:80
+DC:A filling ration of dried and preserved meats. $
+
+
+ID:1
+NM:bread ration
+GD:80
+DC:A filling ration of breads. $
+
+
+ID:2
+NM:pear
+GD:24
+DC:A delicious juicy fruit. $
+
+
+ID:3
+NM:apple
+GD:24
+DC:A delicious red or green fruit. $
+
+
+ID:4
+NM:choko
+GD:40
+DC:An almost tasteless green vegetable, which grows on a vine. $
+
+
+ID:5
+NM:honeycomb
+GD:112
+DC:A lump of the delicious honeycomb made by giant bees. $
+
+
+ID:6
+NM:royal jelly
+GD:280
+DC:A lump of the magical substance produced by giant bees to be fed to their queens. $
+
+
+ID:7
+NM:snozzcumber
+GD:8
+DC:A repulsive cucumber-shaped vegetable. $
+
+
+ID:8
+NM:slice of pizza
+GD:40
+DC:A slice of pizza. Don't tell me you don't know what that is! $
+
+
+ID:9
+NM:apricot
+GD:24
+DC:A delicious orange fruit. $
+
+
+ID:10
+NM:orange
+GD:32
+DC:A delicious juicy orange fruit. $
+
+
+ID:11
+NM:banana
+GD:24
+DC:A delicious yellow fruit, probably grown and imported by some amoral multinational as the result of a corrupt trade deal. $
+
+
+ID:12
+NM:strawberry
+GD:8
+DC:A small but delicious red fruit. $
+
+
+ID:13
+NM:rambutan
+GD:8
+DC:A small but delicious tropical fruit. How it got into this dungeon is anyone's guess. $
+
+
+ID:14
+NM:lemon
+GD:32
+DC:A yellow fruit. $
+
+
+ID:15
+NM:grape
+GD:8
+DC:A small fruit. $
+
+
+ID:16
+NM:sultana
+GD:8
+DC:A dried fruit of some sort, possibly a grape. $
+
+
+ID:17
+NM:lychee
+GD:16
+DC:A tropical fruit. $
+
+
+ID:18
+NM:beef jerky
+GD:56
+DC:A strip of preserved dead cow or bull. $
+
+
+ID:19
+NM:cheese
+GD:48
+DC:A lump of cheese. $
+
+
+ID:20
+NM:sausage
+GD:32
+DC:An elongated lump of low-grade gristle, entrails and cereal products encased in an intestine. Yum! $
+
+
+ID:21
+NM:rotting chunk of giant ant flesh
+GD:8
+DC:A piece of dungeon meat. It looks rather unpleasant. In fact, it is rotting away before your eyes. Eating it would probably be unwise. $
+
+

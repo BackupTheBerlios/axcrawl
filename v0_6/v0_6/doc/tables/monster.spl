@@ -1,0 +1,318 @@
+Name                      HP             AC EV Holy Int Use Eat  R.Mag Dam
+--------------------------------------------------------------------------
+program bug               0[D0+0]+0    0   0  n   0  N    no ok      0 0
+giant ant                 3[D3+5]+0    4  10  n   1  N    ok        18 8
+giant bat                 1[D2+3]+0    1  14  n   2  N    ok         2 1
+centaur                   4[D3+5]+0    3   7  n   3  Y    ok        24 10
+red devil                 5[D3+5]+0   10  10  d   3  Y              70 18
+ettin                     7[D3+5]+0    3   4  n   3  Y              42 30
+fungus                    8[D3+5]+0    1   0  n   0  N            5000 0
+goblin                    1[D2+4]+0    1  13  n   3  Y    no ok      2 4
+hound                     3[D3+5]+0    2  13  n   2  N    ok        18 6
+imp                       3[D3+3]+0    3  14  d   4  Y              54 4
+jackal                    1[D3+5]+0    2  12  n   2  N    no ok      2 3
+killer bee                3[D3+5]+0    2  18  n   1  N    poison    18 10
+killer bee larva          1[D3+5]+0    1   5  n   1  N    poison     6 3
+manticore                 9[D3+5]+0    5   7  n   3  Y    no ok     54 30
+necrophage                5[D3+5]+0    2  10  u   3  Y              50 8
+orc                       1[D4+6]+0    0  10  n   3  Y    no ok      6 5
+phantom                   7[D3+5]+0    3  13  u   3  Y              56 10
+quasit                    3[D2+6]+0    5  17  n   1  N    poison    50 7
+rat                       1[D1+3]+0    1  10  n   2  N    ok         2 3
+scorpion                  3[D3+5]+0    5  10  n   1  N    poison    18 10
+ugly thing                8[D3+5]+0    3  10  n   3  Y    no ok     48 12
+fire vortex               3[D3+5]+0    0   5  n   0  N            5000 30
+worm                      5[D3+5]+0    1   5  n   1  N    ok        20 12
+abomination               6[D2+5]+0    0   0  d   0  N              60 23
+yellow wasp               4[D3+5]+0    5  14  n   1  N    poison    24 13
+Angel                     9[D3+5]+0   10  10  h   4  Y             144 20
+giant beetle              5[D7+6]+0   10   3  n   1  N    poison    30 20
+cyclops                   9[D3+5]+0    5   3  n   3  Y    ok        54 35
+dragon                    12[D5+5]+0  10   8  n   3  Y    ok        96 46
+two-headed ogre           6[D3+5]+0    1   4  n   3  Y    no ok     48 30
+Fiend                     18[D3+5]+0  15   6  d   4  Y             432 55
+giant spore               1[D0+0]+1    0  10  n   0  N               6 1
+hobgoblin                 1[D4+5]+0    0  10  n   3  Y    no ok      2 5
+ice beast                 5[D3+5]+0    5  10  n   5  N              30 5
+jelly                     3[D5+5]+0    0   2  n   0  N              18 8
+kobold                    1[D2+3]+0    2  12  n   3  Y    poison     2 4
+lich                      20[D2+4]+0  10  10  u   4  Y             440 15
+mummy                     3[D5+3]+0    3   6  u   2  Y              30 20
+guardian naga             8[D3+5]+0    6  14  n   4  Y              96 19
+ogre                      5[D3+5]+0    1   6  n   3  Y    no ok     30 17
+plant                     10[D3+5]+0  10   0  n   0  N            5000 0
+queen bee                 7[D3+5]+0   10  10  n   1  N    poison    42 20
+rakshasa                  10[D3+5]+0  10  14  n   4  Y             200 20
+snake                     2[D3+5]+0    1  15  n   6  N    ok        12 5
+troll                     7[D3+5]+0    3  10  n   3  Y    no ok     42 50
+unseen horror             7[D3+5]+0    5  10  n   5  N              42 12
+vampire                   6[D3+5]+0   10  10  u   3  Y              72 22
+wraith                    6[D3+5]+0   10  10  u   3  Y              84 13
+abomination               11[D2+5]+0   0   0  d   0  N             154 40
+yak                       7[D3+5]+0    4   7  n   2  N    ok        42 18
+orc warrior               4[D4+6]+0    0  13  n   3  Y    no ok     24 20
+kobold demonologist       4[D3+5]+0    2  13  n   3  Y    poison    40 4
+orc wizard                3[D3+4]+0    1  12  n   3  Y    no ok     30 5
+orc knight                9[D4+7]+0    2  13  n   3  Y    no ok     54 25
+wyvern                    5[D3+5]+0    5  10  n   2  N    ok        30 20
+big kobold                5[D3+5]+0    3  12  n   3  Y    poison    30 7
+giant eyeball             3[D3+5]+0    0   1  n   0  N    ok        18 0
+wight                     3[D3+5]+0    4  10  u   3  Y              24 8
+oklob plant               10[D3+5]+0  10   0  n   0  N              60 0
+wolf spider               8[D3+5]+0    3  10  n   1  N    poison    48 20
+shadow                    3[D3+5]+0   12  10  u   2  Y              30 5
+hungry ghost              7[D3+5]+0    0  17  u   3  Y              56 5
+eye of draining           7[D3+5]+0    3   1  n   0  N            5000 0
+butterfly                 1[D3+5]+0    0  25  n   1  N    ok         6 0
+wandering mushroom        8[D3+5]+0    5   0  n   0  N              48 20
+efreet                    7[D3+5]+0   10   5  n   4  Y              42 12
+brain worm                5[D3+3]+0    1   5  n   6  N    poison    30 0
+giant orange brain        10[D3+5]+0   2   4  n   4  Y             160 0
+boulder beetle            9[D3+5]+0   20   2  n   1  N    poison    54 35
+flying skull              2[D3+5]+0   10  17  u   2  N              12 7
+hell hound                5[D3+5]+0    6  13  d   3  N              30 13
+minotaur                  13[D3+5]+0   5   7  n   3  Y    no ok     78 35
+ice dragon                12[D5+5]+0  10   8  n   3  Y    ok        72 51
+slime creature            11[D3+5]+0   1   4  n   0  N              66 22
+freezing wraith           8[D3+5]+0   12  10  u   3  Y              64 19
+rakshasa                  1[D0+0]+1    0  30  n   0  N            5000 0
+great orb of eyes         12[D3+5]+0  10   3  n   4  Y            5000 20
+hellion                   7[D3+5]+0    5  10  d   4  Y              98 10
+rotting devil             5[D3+5]+0    2  10  d   4  Y              70 8
+tormentor                 7[D3+5]+0   12  12  d   4  Y              84 16
+reaper                    8[D3+5]+0   15  10  d   4  Y            5000 32
+soul eater                11[D3+5]+0  18  10  d   4  Y             220 25
+hairy devil               6[D3+5]+0    7  10  d   4  Y              48 18
+ice devil                 11[D3+5]+0  12  10  d   4  Y             132 16
+blue devil                7[D3+5]+0   14  10  d   4  Y              70 21
+beast                     5[D3+5]+0    0   0  d   3  Y    no ok     30 12
+iron devil                8[D3+5]+0   16   8  d   4  Y    no ok     96 28
+glowing shapeshifter      10[D3+5]+0   0  10  n   4  Y             120 15
+shapeshifter              5[D3+5]+0    0  10  n   4  Y              60 5
+giant mite                2[D3+5]+0    1   7  n   1  N    poison     4 5
+steam dragon              4[D5+5]+0    5  10  n   5  Y    ok        24 12
+very ugly thing           12[D3+5]+0   4   8  n   3  Y              72 17
+orc sorceror              8[D2+3]+0    5  12  n   4  Y    poison    48 7
+hippogriff                7[D3+5]+0    2   7  n   2  Y    ok        42 26
+griffon                   12[D3+5]+0   4   6  n   2  Y    ok        72 38
+hydra                     13[D3+5]+0   0   5  n   6  Y    poison    78 18
+hell knight               10[D3+6]+0   0  10  n   4  Y    no ok     60 13
+necromancer               10[D2+4]+0   0  13  n   4  Y    no ok     80 6
+wizard                    10[D2+4]+0   0  13  n   4  Y    no ok     80 6
+orc priest                3[D3+4]+0    1  10  n   3  Y    no ok     24 6
+orc high priest           11[D3+4]+0   1  12  n   4  Y    no ok     88 7
+human                     1[D3+5]+0    0  10  n   3  Y    no ok      6 6
+gnoll                     2[D4+5]+0    2   9  n   3  Y    no ok     12 9
+clay golem                8[D7+3]+0    7   5  n   0  Y            5000 22
+wood golem                6[D6+3]+0    5   6  n   0  Y            5000 10
+stone golem               12[D7+4]+0  12   4  n   0  Y            5000 28
+iron golem                15[D7+4]+0  15   3  n   0  Y            5000 35
+crystal golem             13[D7+4]+0  22   3  n   0  Y            5000 40
+toenail golem             9[D5+3]+0    8   5  n   0  Y            5000 13
+mottled dragon            5[D3+5]+0    5  10  n   5  Y    poison    30 15
+earth elemental           6[D5+5]+0   14   4  n   0  Y    no ok   5000 40
+fire elemental            6[D3+5]+0    4  12  n   0  Y    no ok   5000 5
+air elemental             6[D3+5]+0    2  18  n   0  Y    no ok   5000 15
+Ice Fiend                 18[D3+5]+0  15   6  d   4  Y    no ok    432 50
+Shadow Fiend              18[D3+5]+0  15   6  d   4  Y    no ok    468 55
+brown snake               4[D3+5]+0    2  15  n   6  N    poison    24 10
+giant lizard              5[D3+5]+0    4  10  n   6  N    ok        30 20
+spectral warrior          9[D3+5]+0   12  10  u   4  Y    no ok    108 18
+pulsating lump            10[D3+5]+0   2   6  n   0  N    no ok     60 13
+storm dragon              14[D5+5]+0  13  10  n   3  Y    ok       168 55
+yaktaur                   8[D3+5]+0    4   4  n   3  Y    ok        48 15
+death yak                 14[D3+5]+0   9   5  n   2  N    poison   140 30
+rock troll                11[D3+5]+0  13   6  n   3  Y    no ok     88 70
+stone giant               16[D3+5]+0  12   2  n   3  Y    no ok    128 45
+flayed ghost              11[D3+5]+0   0  14  u   0  Y    no ok    110 30
+bumblebee                 7[D3+5]+0    4  15  n   1  N    poison    42 20
+redback                   6[D3+5]+0    2  12  n   1  N    poison    36 18
+insubstantial wisp        6[D1+2]+0   20  20  n   0  N    no ok   5000 12
+vapour                    12[D2+3]+0   0  12  n   0  N    no ok   5000 0
+ogre-mage                 10[D3+5]+0   1   7  n   4  Y    no ok    120 12
+spiny worm                12[D3+5]+0  10   6  n   0  N    poison    72 32
+dancing weapon            15[D1+0]+0  10  20  n   0  N    no ok   5000 15
+titan                     20[D3+5]+0  10   3  n   4  Y    ok       280 55
+golden dragon             18[D4+4]+0  15   7  n   4  Y    poison   216 80
+elf                       3[D3+3]+0    0  12  n   0  Y    no ok     18 6
+lindworm                  9[D3+5]+0    8   6  n   6  N    ok        54 30
+elephant slug             20[D5+3]+0   2   1  n   1  N    poison   120 40
+war dog                   4[D3+5]+0    4  15  n   2  N    no ok     24 12
+grey rat                  1[D3+6]+0    2  12  n   2  N    no ok      6 5
+green rat                 2[D3+5]+0    5  11  n   2  N    poison    12 10
+orange rat                3[D3+5]+0    7  10  n   2  N    poison    18 20
+black snake               7[D3+5]+0    4  15  n   6  N    poison    42 20
+sheep                     3[D3+5]+0    2   7  n   2  N    ok        18 13
+ghoul                     4[D3+5]+0    4  10  u   3  Y              40 9
+hog                       6[D3+5]+0    2   9  n   2  N    ok        36 14
+giant mosquito            1[D3+5]+0    0  13  n   0  N    no ok      6 10
+giant centipede           2[D3+3]+0    2  14  n   1  N    poison    12 2
+iron troll                16[D3+5]+0  20   4  n   3  Y    poison   160 85
+naga                      5[D3+5]+0    6  10  n   3  Y    poison    60 6
+fire giant                16[D3+6]+0   8   4  n   3  Y    no ok    128 30
+frost giant               16[D4+5]+0   9   3  n   3  Y    no ok    128 35
+firedrake                 6[D3+5]+0    3  12  n   2  Y    no ok     36 8
+shadow dragon             17[D5+5]+0  15  10  n   4  Y    ok       170 50
+yellow snake              6[D3+5]+0    4  14  n   6  N    poison    36 15
+grey snake                11[D3+5]+0   4  16  n   6  N    ok        66 30
+deep troll                10[D3+5]+0   6  10  n   3  Y    no ok     60 67
+giant blowfly             5[D3+5]+0    2  15  n   0  N    no ok     30 13
+red wasp                  8[D3+5]+0    7  14  n   0  N    poison    48 23
+swamp dragon              9[D5+5]+0    7   7  n   5  Y    no ok     54 31
+swamp drake               4[D5+5]+0    3  11  n   5  Y    no ok     24 11
+soldier ant               6[D3+5]+0    8  10  n   1  N    poison    36 14
+hill giant                11[D3+5]+0   3   4  n   3  Y    no ok     66 30
+queen ant                 13[D3+5]+0  14   3  n   1  N    poison    78 20
+ant larva                 2[D3+5]+0    2   6  n   1  N    poison    12 5
+giant frog                4[D3+5]+0    0  12  n   2  N    ok        24 9
+giant brown frog          8[D3+5]+0    2  11  n   2  N    ok        48 14
+spiny frog                7[D3+5]+0    6   9  n   2  N    ok        42 26
+blink frog                6[D3+5]+0    3  12  n   2  N    ok        60 20
+giant cockroach           1[D3+4]+0    3  10  n   1  N    no ok      2 2
+small snake               1[D2+3]+0    0  11  n   6  N    ok         2 2
+white imp                 2[D3+5]+0    4  10  d   3  Y    no ok     12 4
+lemure                    2[D3+5]+0    1  12  d   3  Y    no ok     12 12
+ufetubus                  1[D4+6]+0    2  15  d   3  Y    no ok      6 10
+manes                     3[D3+5]+0    2   8  d   3  Y    no ok     18 11
+midge                     2[D3+5]+0    4  10  d   3  Y    no ok     12 8
+neqoxec                   6[D3+5]+0    4  12  d   3  Y    no ok     72 15
+orange demon              8[D4+5]+0    3   7  d   3  N    no ok     96 15
+hellwing                  7[D4+5]+0    8  10  d   3  Y    no ok     84 27
+smoke demon               7[D3+5]+0    5   9  d   3  Y    no ok     84 18
+ynoxinul                  6[D3+5]+0    3  10  d   3  Y    no ok     72 12
+Executioner               12[D3+5]+0  10  10  d   4  Y    no ok    216 50
+Green Death               13[D3+5]+0   5   7  d   4  Y    no ok    234 32
+Blue Death                12[D3+5]+0  10  10  d   4  Y    no ok    216 40
+Balrug                    14[D3+5]+0   5  12  d   4  Y    no ok    252 25
+Cacodemon                 13[D3+5]+0  11  10  d   4  Y    no ok    234 22
+demonic crawler           9[D3+5]+0   10   6  d   3  Y    no ok    108 52
+sun demon                 10[D3+5]+0  10  12  d   3  Y    no ok    120 30
+shadow imp                2[D3+5]+0    3  11  d   3  Y    no ok     12 6
+shadow demon              6[D3+5]+0    7  12  d   4  Y              84 21
+Lorocyproca               12[D3+5]+0  10  12  d   4  Y             168 50
+shadow wraith             10[D3+5]+0   7   7  u   4  Y    no ok    160 20
+giant amoeba              12[D3+5]+0   0   4  n   0  N    poison    72 25
+giant slug                10[D5+3]+0   0   2  n   1  N    poison    60 23
+giant snail               14[D5+3]+0   7   2  n   1  N    poison    84 18
+spatial vortex            6[D6+6]+0    0   5  n   0  N            5000 50
+Pit Fiend                 19[D4+5]+0  17   5  d   4  Y             456 70
+boring beetle             8[D3+5]+0   13   4  n   1  N    poison    48 26
+gargoyle                  4[D3+5]+0   18   6  n   3  Y              48 22
+metal gargoyle            8[D3+5]+0   20   4  n   4  Y              96 39
+molten gargoyle           5[D3+5]+0   14   7  n   3  Y              60 28
+Mnoleg                    17[D0+0]+19910  13  d   4  Y    no ok   5000 46
+Lom Lobon                 19[D0+0]+22310   7  d   4  Y    no ok   5000 40
+Cerebov                   21[D0+0]+25315   8  d   3  Y    no ok    252 50
+Gloorx Vloq               16[D0+0]+23410  10  d   4  Y    no ok    448 20
+naga mage                 7[D3+5]+0    6  10  n   3  Y    poison    84 5
+naga warrior              10[D5+5]+0   6  10  n   3  Y    poison   120 11
+orc warlord               15[D4+7]+0   3  10  n   3  Y    no ok     90 32
+deep elf soldier          3[D3+3]+0    0  12  n   4  Y    no ok     36 6
+deep elf fighter          6[D3+3]+0    0  13  n   4  Y    no ok     72 9
+deep elf knight           11[D3+3]+0   0  15  n   4  Y    no ok    132 14
+deep elf mage             4[D3+3]+0    0  13  n   4  Y    no ok     48 5
+deep elf summoner         6[D3+3]+0    0  13  n   4  Y    no ok     72 5
+deep elf conjurer         6[D3+3]+0    0  13  n   4  Y    no ok     72 5
+deep elf priest           5[D3+3]+0    0  13  n   4  Y    no ok     60 9
+deep elf high priest      11[D3+3]+0   3  13  n   4  Y    no ok    132 14
+deep elf demonologist     12[D3+3]+0   0  13  n   4  Y    no ok    144 12
+deep elf annihilator      15[D3+3]+0   0  13  n   4  Y    no ok    180 12
+deep elf sorceror         14[D3+3]+0   0  13  n   4  Y    no ok    168 12
+deep elf death mage       15[D3+3]+0   0  13  n   4  Y    no ok    180 12
+brown ooze                7[D3+5]+0   10   1  n   0  Y    poison    98 25
+azure jelly               15[D3+5]+0   5  10  n   0  Y    poison   120 48
+death ooze                11[D3+3]+0   2   4  u   0  Y    poison   176 64
+acid blob                 18[D3+5]+0   1   3  n   0  N    poison   252 42
+royal jelly               21[D0+0]+111 8   4  n   0  Y    poison   294 50
+Terence                   1[D0+0]+14   0  10  n   3  Y    no ok      6 3
+Jessica                   1[D0+0]+10   0  10  n   3  Y    no ok      6 4
+Ijyb                      3[D0+0]+28   0  12  n   3  Y    no ok     18 4
+Sigmund                   3[D0+0]+25   0  11  n   3  Y    no ok     18 5
+Blork the orc             3[D0+0]+32   0   9  n   3  Y    no ok     18 7
+Edmund                    4[D0+0]+27   0  10  n   3  Y    no ok     24 6
+Psyche                    5[D0+0]+24   0  12  n   3  Y    no ok     30 7
+Erolcha                   6[D0+0]+45   3   7  n   3  Y    no ok     36 20
+Donald                    5[D0+0]+33   0  10  n   3  Y    no ok     30 8
+Urug                      6[D0+0]+38   0  11  n   3  Y    no ok     36 12
+Michael                   6[D0+0]+36   0  10  n   3  Y    no ok     36 9
+Joseph                    7[D0+0]+42   0  10  n   3  Y    no ok     42 9
+Snorg                     8[D0+0]+45   0  10  n   3  Y    no ok     48 50
+Erica                     9[D0+0]+43   0  11  n   3  Y    no ok     54 10
+Josephine                 9[D0+0]+47   0  10  n   3  Y    no ok     54 11
+Harold                    9[D0+0]+51   0   8  n   3  Y    no ok     54 12
+Norbert                   10[D0+0]+53  0  10  n   3  Y    no ok     60 14
+Jozef                     11[D0+0]+60  0   9  n   3  Y    no ok     66 14
+Agnes                     11[D0+0]+64  0  10  n   3  Y    no ok     66 11
+Maud                      13[D0+0]+55  0  10  n   3  Y    no ok     78 14
+Louise                    13[D0+0]+52  0  10  n   3  Y    no ok     78 12
+Francis                   14[D0+0]+67  0  10  n   3  Y    no ok     84 12
+Frances                   14[D0+0]+70  0  10  n   3  Y    no ok     84 11
+Rupert                    16[D0+0]+80  0  10  n   3  Y    no ok     96 13
+Wayne                     17[D0+0]+78  1  10  n   3  Y    no ok    102 14
+Duane                     18[D0+0]+83  0  10  n   3  Y    no ok    108 14
+Xtahua                    19[D0+0]+13315   7  n   3  Y    no ok    114 63
+Norris                    20[D0+0]+95  1   9  n   3  Y    no ok    120 16
+Adolf                     21[D0+0]+105 0  10  n   3  Y    no ok    126 17
+Margery                   22[D0+0]+119 0  10  n   3  Y    no ok    132 18
+Boris                     22[D0+0]+99 12  10  u   4  Y    no ok    300 15
+Geryon                    15[D0+0]+24015   6  d   3  Y    no ok    150 30
+Dispater                  16[D0+0]+22215   3  d   4  Y    no ok    320 15
+Asmodeus                  17[D0+0]+24512   7  d   4  Y    no ok    408 20
+Antaeus                   22[D0+0]+25010   4  n   4  Y    no ok    396 30
+Ereshkigal                18[D0+0]+23815   6  d   4  Y    no ok    360 20
+ancient lich              27[D2+4]+0  20  10  u   4  Y             756 20
+ooze                      3[D3+5]+0    1   3  n   0  N    poison    36 5
+vault guard               13[D3+5]+0   1  13  n   3  Y    no ok     78 20
+curse skull               13[D0+0]+66 40   3  u   4  N             156 0
+vampire knight            11[D3+7]+0  10  10  u   4  Y             132 33
+vampire mage              8[D3+4]+0   10  10  u   4  Y              96 22
+shining eye               10[D3+5]+0   3   1  n   0  N    poison  5000 0
+Orb Guardian              15[D3+5]+0  13  13  n   0  Y             150 40
+Daeva                     12[D3+5]+0  10  13  h   4  Y             192 25
+greater naga              15[D3+5]+0   6  10  n   4  Y    poison  5000 18
+skeletal dragon           20[D8+8]+0  20   4  u   0  Y    ok       160 70
+tentacled monstrosity     25[D3+5]+0   5   5  n   3  Y             250 71
+sphinx                    16[D3+5]+0   5   5  n   4  Y    ok        96 49
+rotting hulk              10[D3+5]+0   5   7  u   3  Y             100 25
+guardian mummy            7[D5+3]+0    6   9  u   0  Y              70 30
+greater mummy             15[D5+3]+10010   6  u   0  Y            5000 35
+mummy priest              10[D5+3]+0   8   7  u   0  Y            5000 30
+centaur warrior           9[D3+5]+0    4   8  n   4  Y    ok        54 16
+yaktaur captain           14[D3+5]+0   5   5  n   4  Y    ok        84 23
+Killer Klown              20[D5+5]+0  10  15  n   4  Y    no ok   5000 30
+electric golem            15[D7+4]+0   5  20  n   0  Y            5000 48
+ball lightning            12[D0+0]+1   0  10  n   0  Y    no ok   5000 5
+orb of fire               30[D0+0]+15020  20  n   3  Y    no ok   5000 0
+quokka                    1[D3+5]+0    2  13  n   3  N    ok         2 5
+eye of devastation        10[D3+5]+0  12   1  n   0  N    poison  5000 0
+moth of wrath             9[D3+5]+0    0  10  n   3  N    ok        54 25
+death cob                 10[D4+5]+0  10  15  u   3  Y    ok        60 20
+curse toe                 14[D0+0]+77 50   1  u   4  N            5000 0
+mimic                     8[D3+5]+0    5   1  n   3  N              48 36
+mimic                     8[D3+5]+0    5   1  n   3  N              48 51
+mimic                     8[D3+5]+0   15   1  n   3  N              48 36
+mimic                     8[D3+5]+0    5   1  n   3  N              48 36
+mimic                     8[D3+5]+0    5   1  n   3  N              48 36
+hell-hog                  11[D3+5]+0   2   9  d   2  N    ok        66 20
+Serpent of Hell           20[D4+4]+0  12   9  d   4  Y    ok       520 65
+boggart                   2[D3+5]+0    0  12  n   3  Y    no ok     28 5
+quicksilver dragon        16[D3+5]+0  10  15  n   4  Y    no ok    224 45
+iron dragon               18[D5+3]+0  20   6  n   4  Y    no ok    252 75
+skeletal warrior          10[D5+3]+0  15  10  u   3  Y    no ok    140 25
+&                         4[D2+3]+0    1   2  d   4  Y    no ok     40 5
+lava worm                 6[D3+5]+0    1  10  n   5  N              36 15
+lava fish                 4[D3+5]+0    4  15  n   5  N              24 10
+lava snake                3[D3+5]+0    2  17  n   5  N              18 7
+salamander                14[D3+5]+0   5   5  n   4  Y              84 23
+big fish                  4[D3+5]+0    1  12  n   5  N              24 8
+giant goldfish            7[D3+5]+0    5   7  n   5  N              42 15
+electrical eel            3[D3+5]+0    1  15  n   5  N              18 0
+jellyfish                 4[D3+5]+0    0   5  n   0  N              24 2
+water elemental           6[D5+3]+0    0   7  n   0  Y            5000 25
+swamp worm                5[D5+5]+0    3  12  n   0  N              30 20
+wolf                      4[D3+5]+0    3  15  n   2  N    ok        24 12
+warg                      4[D4+5]+0    4  12  n   2  N    no ok     48 18
+bear                      7[D3+3]+0    4   4  n   2  N    ok        42 22
+grizzly bear              7[D4+4]+0    5   8  n   2  N    ok        42 28
+polar bear                7[D5+3]+0    7   8  n   2  N    ok        42 30
+black bear                6[D3+3]+0    2   8  n   2  N    ok        36 12

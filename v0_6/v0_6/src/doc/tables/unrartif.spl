@@ -1,0 +1,674 @@
+
+
+--------------------------------------------------------------------------------
+long sword "Bloodbane"
+--------------------------------------------------------------------------------
+blackened long sword
+Weapon long sword                                 
+Colour: darkgray            +To Hit:7      +To Damage:8   
+
+Power: VORPAL
+Power: BERSERK             
+Power: ANGRY               
+
+
+--------------------------------------------------------------------------------
+ring of Shadows
+--------------------------------------------------------------------------------
+black ring
+Jewellery                                         
+Colour: darkgray                                          
+
+Power: EVASION                4
+Power: RES NEGATIVE_ENERGY    1
+Power: EYESIGHT               1
+Power: ACCURACY              -3
+
+
+--------------------------------------------------------------------------------
+long sword of Flaming Death
+--------------------------------------------------------------------------------
+smoking long sword
+Weapon long sword                                 
+Colour: red                 +To Hit:6      +To Damage:2   
+
+Power: FLAMING
+Power: RES FIRE               2
+Power: RES COLD              -1
+Power: RES POISON             2
+Power: RES MAGIC              2
+
+
+--------------------------------------------------------------------------------
+shield of Ignorance
+--------------------------------------------------------------------------------
+dull large shield
+Armour large shield                               
+Colour: brown               +To AC:5                      
+
+Power: AC                     2
+Power: EVASION                2
+Power: INTELLIGENCE          -6
+Power: RES NEGATIVE_ENERGY    1
+Power: CURSED                 1
+
+
+--------------------------------------------------------------------------------
+Holy Armour of Zin
+--------------------------------------------------------------------------------
+glowing golden plate mail
+Armour plate mail                                 
+Colour: yellow              +To AC:6                      
+
+Power: STRENGTH               3
+Power: RES NEGATIVE_ENERGY    1
+Power: RES MAGIC             50
+
+A suit of mail and large plates of golden metal.
+
+
+--------------------------------------------------------------------------------
+robe of Augmentation
+--------------------------------------------------------------------------------
+silk robe
+Armour robe                                       
+Colour: lightred            +To AC:0                      
+
+Power: STRENGTH               2
+Power: INTELLIGENCE           2
+Power: DEXTERITY              2
+
+A robe made of the finest silk.
+
+
+--------------------------------------------------------------------------------
+mace of Brilliance
+--------------------------------------------------------------------------------
+brightly glowing mace
+Weapon mace                                       
+Colour: white               +To Hit:5      +To Damage:5   
+
+Power: HOLY_WRATH
+Power: AC                     3
+Power: RES NEGATIVE_ENERGY    1
+Power: EYESIGHT               1
+
+
+--------------------------------------------------------------------------------
+cloak of the Thief
+--------------------------------------------------------------------------------
+tattered cloak
+Armour cloak                                      
+Colour: darkgray            +To AC:1                      
+
+Power: EVASION                2
+Power: DEXTERITY              2
+Power: EYESIGHT               1
+Power: INVISIBLE           
+Power: DAMAGE                -3
+
+It allows its wearer to excell in the arts of thievery.
+
+
+--------------------------------------------------------------------------------
+buckler "Bullseye"
+--------------------------------------------------------------------------------
+round buckler
+Armour buckler                                    
+Colour: red                 +To AC:10                     
+
+Power: EVASION               -3
+
+
+--------------------------------------------------------------------------------
+crown of Dyrovepreva
+--------------------------------------------------------------------------------
+jewelled bronze crown
+Armour helmet                                     
+Colour: brown               +To AC:3       wizard's hat.  
+
+Power: INTELLIGENCE           2
+Power: RES ELECTRICITY        1
+Power: EYESIGHT               1
+Power: METABOLISM             1
+
+A large crown of dull bronze, set with a dazzling array of gemstones.
+
+
+--------------------------------------------------------------------------------
+demon blade "Leech"
+--------------------------------------------------------------------------------
+runed demon blade
+Weapon demon blade                                
+Colour: magenta             +To Hit:13     +To Damage:4   
+
+Power: VAMPIRICISM
+Power: AC                    -1
+Power: EVASION               -1
+Power: STRENGTH              -1
+Power: INTELLIGENCE          -1
+Power: DEXTERITY             -1
+Power: RES NEGATIVE_ENERGY    1
+Power: CURSED                 1
+
+
+--------------------------------------------------------------------------------
+amulet of Cekugob
+--------------------------------------------------------------------------------
+crystal amulet
+Jewellery                                         
+Colour: lightgray                                         
+
+Power: AC                     1
+Power: EVASION                1
+Power: RES ELECTRICITY        1
+Power: RES POISON             1
+Power: RES NEGATIVE_ENERGY    1
+Power: PREVENT_TELEPORTATION
+Power: METABOLISM             2
+
+
+--------------------------------------------------------------------------------
+robe of misfortune
+--------------------------------------------------------------------------------
+fabulously ornate robe
+Armour robe                                       
+Colour: magenta             +To AC:-5                     
+
+Power: EVASION               -4
+Power: STRENGTH              -2
+Power: INTELLIGENCE          -2
+Power: DEXTERITY             -2
+Power: PREVENT_SPELLCASTING
+Power: CAUSE_TELEPORTATION 
+Power: MUTAGENIC              5
+Power: CURSED                 1
+
+A splendid flowing robe of fur and silk.
+
+
+--------------------------------------------------------------------------------
+dagger of Chilly Death
+--------------------------------------------------------------------------------
+saphire dagger
+Weapon dagger                                     
+Colour: lightblue           +To Hit:2      +To Damage:5   
+
+Power: FREEZING
+
+A dagger made of one huge piece of saphire.
+
+
+--------------------------------------------------------------------------------
+amulet of Four Winds
+--------------------------------------------------------------------------------
+jade amulet
+Jewellery                                         
+Colour: lightgreen                                        
+
+Power: RES NEGATIVE_ENERGY    1
+Power: RES MAGIC              1
+
+
+--------------------------------------------------------------------------------
+dagger "Morg"
+--------------------------------------------------------------------------------
+rusty dagger
+Weapon dagger                                     
+Colour: lightred            +To Hit:-1     +To Damage:4   
+
+Power: PAIN
+
+Many years ago it was property of powerful mage called Boris. He got lost in the Dungeon while seeking some kind of orb. 
+An ugly rusty dagger. 
+
+
+--------------------------------------------------------------------------------
+scythe "Finisher"
+--------------------------------------------------------------------------------
+blackened scythe
+Weapon scythe                                     
+Colour: darkgray            +To Hit:3      +To Damage:5   
+
+Power: STRENGTH               3
+Power: CURSED                 1
+
+A long and sharp scythe, specially modified for combat purposes.
+
+
+--------------------------------------------------------------------------------
+sling "Punk"
+--------------------------------------------------------------------------------
+blue sling
+Weapon sling                                      
+Colour: lightblue           +To Hit:3      +To Damage:4   
+
+Power: FROST
+
+A sling made of weird blue leather.
+
+
+--------------------------------------------------------------------------------
+Krishna's bow
+--------------------------------------------------------------------------------
+golden bow
+Weapon bow                                        
+Colour: yellow              +To Hit:8      +To Damage:8   
+
+Power: DEXTERITY              3
+Power: EYESIGHT               1
+
+It once belonged to one foreign god. It works best with some kind of special arrows which are not generally available.
+A wonderful golden bow. 
+
+
+--------------------------------------------------------------------------------
+cloak of Flash
+--------------------------------------------------------------------------------
+vibrating cloak
+Armour cloak                                      
+Colour: red                 +To AC:2                      
+
+Power: EVASION                4
+Power: CAN_TELEPORT        
+
+A vibrating cloak.
+
+
+--------------------------------------------------------------------------------
+giant club "Skullcrusher"
+--------------------------------------------------------------------------------
+brutal giant club
+Weapon giant club                                 
+Colour: brown               +To Hit:0      +To Damage:5   
+
+Power: STRENGTH               5
+
+
+--------------------------------------------------------------------------------
+boots of Assassin
+--------------------------------------------------------------------------------
+soft boots
+Armour boots                                      
+Colour: brown               +To AC:2                      
+
+Power: DEXTERITY              3
+Power: INVISIBLE           
+
+These boots were specially designed by Assasin's Guild.
+A soft boots.
+
+
+--------------------------------------------------------------------------------
+glaive of the Guard
+--------------------------------------------------------------------------------
+polished glaive
+Weapon glaive                                     
+Colour: lightcyan           +To Hit:5      +To Damage:8   
+
+Power: PROTECTION
+Power: BERSERK             
+
+This weapon once belonged to Gar Dogh the guard of king's treasures. According to legend he was lost somewhere in the Dungeon.
+
+
+--------------------------------------------------------------------------------
+sword of Jihad
+--------------------------------------------------------------------------------
+crystal sword
+Weapon long sword                                 
+Colour: white               +To Hit:4      +To Damage:4   
+
+Power: HOLY_WRATH
+Power: EVASION                3
+Power: ANGRY               
+
+This sword was Shining One's gift to one of his paladins.
+A long sword made of one huge piece of crystal.
+
+
+--------------------------------------------------------------------------------
+Lear's chain mail
+--------------------------------------------------------------------------------
+golden chain mail
+Armour chain mail                                 
+Colour: yellow              +To AC:-1                     
+
+Power: DEXTERITY             -3
+Power: PREVENT_SPELLCASTING
+Power: CURSED                 1
+
+A chain mail made of pure gold.
+
+
+--------------------------------------------------------------------------------
+skin of Zhor
+--------------------------------------------------------------------------------
+smelly skin
+Armour animal skin                                
+Colour: brown               +To AC:3                      
+
+Power: RES COLD               1
+
+A skin of some strange animal.
+
+
+--------------------------------------------------------------------------------
+crossbow "Fiery Devil"
+--------------------------------------------------------------------------------
+flaming crossbow
+Weapon crossbow                                   
+Colour: lightred            +To Hit:4      +To Damage:0   
+
+Power: FLAMING
+
+A flaming crossbow.
+
+
+--------------------------------------------------------------------------------
+salamander's hide armour
+--------------------------------------------------------------------------------
+red leather armour
+Armour leather armour                             
+Colour: red                 +To AC:2                      
+
+Power: RES FIRE               2
+
+A leather armour made of salamander's skin.
+
+
+--------------------------------------------------------------------------------
+gauntlets of War
+--------------------------------------------------------------------------------
+thick gauntlets
+Armour gloves                                     
+Colour: brown               +To AC:3                      
+
+Power: ACCURACY               3
+Power: DAMAGE                 3
+
+
+--------------------------------------------------------------------------------
+sword of Doom Knight
+--------------------------------------------------------------------------------
+adamantine great sword
+Weapon great sword                                
+Colour: blue                +To Hit:4      +To Damage:4   
+
+Power: PAIN
+Power: RES MAGIC              1
+Power: PREVENT_SPELLCASTING
+
+An adamantine great sword.
+
+
+--------------------------------------------------------------------------------
+shield of resistance
+--------------------------------------------------------------------------------
+bronze shield
+Armour shield                                     
+Colour: lightred            +To AC:3                      
+
+Power: RES FIRE               1
+Power: RES COLD               1
+Power: RES MAGIC             40
+
+A bronze shield.
+
+
+--------------------------------------------------------------------------------
+robe of folly
+--------------------------------------------------------------------------------
+foolish robe
+Armour robe                                       
+Colour: lightgray           +To AC:-1                     
+
+Power: INTELLIGENCE          -5
+Power: PREVENT_SPELLCASTING
+Power: CURSED                 1
+
+A dull gray robe.
+
+
+--------------------------------------------------------------------------------
+necklace of Bloodlust
+--------------------------------------------------------------------------------
+blood-stained necklace
+Jewellery                                         
+Colour: red                                               
+
+Power: STRENGTH               2
+Power: INTELLIGENCE          -2
+Power: RES MAGIC             20
+Power: ANGRY               
+Power: DAMAGE                 3
+Power: CURSED                 1
+
+
+--------------------------------------------------------------------------------
+"Eos"
+--------------------------------------------------------------------------------
+encrusted morningstar
+Weapon morningstar                                
+Colour: lightcyan           +To Hit:5      +To Damage:5   
+
+Power: PREVENT_TELEPORTATION
+
+
+--------------------------------------------------------------------------------
+ring of Shaolin
+--------------------------------------------------------------------------------
+jade ring
+Jewellery                                         
+Colour: lightgreen                                        
+
+
+It affects your evasion (+8).
+This ring provides the wearer with great agility and dodging.
+
+
+--------------------------------------------------------------------------------
+ring of robustness
+--------------------------------------------------------------------------------
+steel ring
+Jewellery                                         
+Colour: lightgray                                         
+
+
+It affects your AC (+8).
+This ring provides the wearer with great protection from damage.
+
+
+--------------------------------------------------------------------------------
+Edison's patent armour
+--------------------------------------------------------------------------------
+weird-looking armour
+Armour plate mail                                 
+Colour: lightgreen          +To AC:0                      
+
+Power: PREVENT_SPELLCASTING
+Power: PREVENT_TELEPORTATION
+Power: CURSED                 1
+
+A weird-looking armour.
+
+
+--------------------------------------------------------------------------------
+spear of Voo-Doo
+--------------------------------------------------------------------------------
+ebony spear
+Weapon spear                                      
+Colour: darkgray            +To Hit:2      +To Damage:4   
+
+Power: VAMPIRICISM
+Power: RES NEGATIVE_ENERGY    1
+Power: NOISES              
+
+It's really dark and malign artifact and no wise man would even touch it.
+
+
+--------------------------------------------------------------------------------
+trident of Octopus's king
+--------------------------------------------------------------------------------
+mangy trident
+Weapon trident                                    
+Colour: cyan                +To Hit:4      +To Damage:4   
+
+Power: VENOM
+
+This trident was stolen many years ago from Octopus's garden by one really unimportant and already dead man. But beware of Octopus's king's wrath!
+
+
+--------------------------------------------------------------------------------
+mask of dragon
+--------------------------------------------------------------------------------
+blue mask
+Armour helmet                                     
+Colour: blue                +To AC:0       wizard's hat.  
+
+Power: RES MAGIC              1
+Power: EYESIGHT               1
+Power: ACCURACY               2
+Power: DAMAGE                 2
+
+A blue mask.
+
+
+--------------------------------------------------------------------------------
+mithril axe "Arga"
+--------------------------------------------------------------------------------
+mithril axe
+Weapon axe                                        
+Colour: white               +To Hit:3      +To Damage:3   
+
+Power: SPEED
+
+A beautiful mithril axe, probably lost by some dwarven hero.
+
+
+--------------------------------------------------------------------------------
+elemental staff
+--------------------------------------------------------------------------------
+black staff
+Weapon quarterstaff                               
+Colour: darkgray            +To Hit:3      +To Damage:1   
+
+Power: PROTECTION
+Power: RES FIRE               1
+Power: RES COLD               1
+Power: RES MAGIC             60
+Power: NOISES              
+
+This powerful staff used to belong to leader of the Guild of Five Elements.
+A black glyphic staff.
+
+
+--------------------------------------------------------------------------------
+hand crossbow "Sniper"
+--------------------------------------------------------------------------------
+black crossbow
+Weapon hand crossbow                              
+Colour: darkgray            +To Hit:8      +To Damage:0   
+
+Power: EYESIGHT               1
+
+A hand crossbow made of some black material.
+
+
+--------------------------------------------------------------------------------
+bow "Erchidel"
+--------------------------------------------------------------------------------
+metal bow
+Weapon bow                                        
+Colour: cyan                +To Hit:5      +To Damage:3   
+
+Power: STRENGTH               3
+
+A metal bow.
+
+
+--------------------------------------------------------------------------------
+robe of Night
+--------------------------------------------------------------------------------
+black robe
+Armour robe                                       
+Colour: darkgray            +To AC:3                      
+
+Power: VENOM
+Power: RES MAGIC             20
+Power: EYESIGHT               1
+
+According to legend this robe was gift of Ratri the Goddess of the Night to one her follower.
+A long black robe made of strange flossy material.
+
+
+--------------------------------------------------------------------------------
+plutonium sword
+--------------------------------------------------------------------------------
+glowing long sword
+Weapon long sword                                 
+Colour: lightgreen          +To Hit:5      +To Damage:7   
+
+Power: MUTAGENIC              6
+Power: CURSED                 1
+
+A long sword made of weird glowing metal.
+
+
+--------------------------------------------------------------------------------
+mace "Undeadhunter"
+--------------------------------------------------------------------------------
+steel mace
+Weapon mace                                       
+Colour: lightgray           +To Hit:4      +To Damage:6   
+
+Power: DISRUPTION
+
+
+--------------------------------------------------------------------------------
+armour of Dragon's King
+--------------------------------------------------------------------------------
+shiny dragon armour
+Armour gold dragon armour                         
+Colour: yellow              +To AC:5                      
+
+Power: RES MAGIC             25
+
+
+--------------------------------------------------------------------------------
+hat of Alchemist
+--------------------------------------------------------------------------------
+dirty hat
+Armour helmet                                     
+Colour: magenta             +To AC:2       wizard's hat.  
+
+Power: RES FIRE               1
+Power: RES COLD               1
+Power: RES ELECTRICITY        1
+Power: RES MAGIC             20
+
+A dirty hat.
+
+
+--------------------------------------------------------------------------------
+Fencer's gloves
+--------------------------------------------------------------------------------
+silk gloves
+Armour gloves                                     
+Colour: white               +To AC:0                      
+
+Power: EVASION                3
+Power: ACCURACY               5
+
+A gloves made of white silk.
+
+
+--------------------------------------------------------------------------------
+ring of Mage
+--------------------------------------------------------------------------------
+saphire ring
+Jewellery                                         
+Colour: lightblue                                         
+
+Power: INTELLIGENCE           3
+Power: RES MAGIC             50

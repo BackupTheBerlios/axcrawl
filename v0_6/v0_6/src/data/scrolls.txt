@@ -1,0 +1,191 @@
+NI:25
+
+IN:0
+NM:identify
+DC:This useful magic scroll allows you to determine the properties of any object.
+CF:IDENTIFY_II
+PW:IDENTIFY
+PB:1826
+
+IN:1
+NM:teleportation
+DC:Reading the words on this scroll translocates you to a random position.
+CF:PARALISYS
+PW:TELEPORT
+PB:815
+
+IN:2
+NM:fear
+DC:This scroll causes great fear in those who see the one who reads it.
+CF:REMOVE_CURSE
+PW:MASS_FEAR
+PB:326
+
+IN:3
+NM:noise
+DC:This prank scroll, often slipped into a wizard's backpack by a devious apprentice, causes a loud noise. It is not otherwise noted for its usefulness.
+CF:CURSE_ARMOUR
+PW:NOISE
+PB:326
+
+IN:4
+NM:remove curse
+DC:Reading this scroll removes curses from the items you are using.
+CF:DETECT_CURSE
+PW:REMOVE_CURSE
+PB:1326
+
+IN:5
+NM:detect curse
+DC:This scroll allows you to detect the presence of cursed items among your possessions.
+CF:MAGIC_MAPPING
+PW:DETECT_CURSE
+PB:652
+
+IN:6
+NM:summoning
+DC:This scroll opens a conduit to the Abyss and draws a terrible beast to this world for a limited time.
+CF:NOISE
+PW:SUMMONING
+PB:163
+LV:5
+
+
+IN:7
+NM:enchant weapon I
+DC:This scroll places an enchantment on a weapon, making it more accurate in combat. It may fail to affect weapons already heavily enchanted.
+CF:CURSE
+PW:ENCHANT_TO_HIT
+PB:326
+
+IN:8
+NM:enchant armour
+DC:This scroll places an enchantment on a piece of armour.
+CF:BERSERKER
+PW:ENCHANT_ARMOUR
+PB:326
+
+IN:9
+NM:torment
+DC:This scroll calls on the powers of Hell to inflict great pain on any nearby creature - including you!
+CF:RESTORE_HP_MANA
+PW:TORMENT
+PB:163
+LV:7
+
+IN:10
+NM:random uselessness
+DC:It is easy to be blinded to the essential uselessness of this scroll by the sense of achievement you get from getting it to work at all.
+CF:CURSE_ARMOUR
+PW:RANDOM_USELESSNESS
+PB:326
+
+IN:11
+NM:curse weapon
+DC:This scroll places a curse on a weapon.
+CF:ENCHANT_TO_HIT
+PW:CURSE_WEAPON
+PB:326
+
+IN:12
+NM:curse armour
+DC:This scroll places a curse on a piece of armour.
+CF:MASS_FEAR
+PW:CURSE_ARMOUR
+PB:326
+
+IN:13
+NM:immolation
+DC:Small writing on the back of the scroll reads-> Warning: contents under pressure.  Do not use near flammable objects.
+CF:MASS_CONFUSION
+PW:IMMOLATION
+PB:326
+LV:5
+
+IN:14
+NM:blinking
+DC:This scroll allows its reader to teleport a short distance, with precise control.
+CF:TELEPORT
+PW:BLINK
+PB:326
+
+IN:15
+NM:paper
+DC:Apart from a label, this scroll is blank.
+CF:IDENTIFY
+PW:PAPER
+PB:326
+
+
+IN:16
+NM:magic mapping
+DC:This scroll reveals the nearby surroundings of one who reads it.
+CF:TORMENT
+PW:MAGIC_MAPPING
+PB:326
+
+IN:17
+NM:forgetfulness
+DC:This scroll induces an irritating disorientation.
+CF:CURSE_WEAPON
+PW:FORGETFULNESS
+PB:326
+
+IN:18
+NM:acquirement
+DC:This wonderful scroll causes the creation of a valuable item to appear before the reader. It is especially treasured by specialist magicians, as they can use it to obtain the powerful spells of their specialty.
+CF:PURIFICATION
+PW:ACQUIREMENT
+PB:163
+LV:5
+
+IN:19
+NM:enchant weapon II
+DC:This scroll places an enchantment on a weapon, making it inflict greater damage in combat. It may fail to affect weapons already heavily enchanted.
+CF:CURSE_ARMOUR
+PW:ENCHANT_TO_DAM
+PB:326
+
+IN:20
+NM:vorpalise weapon
+DC:This scroll enchants a weapon so as to make it far more effective at inflicting harm on its wielder's enemies. Using it on a weapon already affected by some kind of special enchantment (other than that produced by a normal scroll of enchant weapon) is not advised.
+CF:SURE_VORPALISE
+PW:VORPALISE
+PB:163
+LV:7
+
+IN:21
+NM:recharging
+DC:This scroll restores the charges of any magical wand wielded by its reader.
+CF:CURSE
+PW:RECHARGING
+PB:326
+
+IN:22
+NM:enchant weapon III
+DC:This scroll enchants a weapon to be far more effective in combat. Although it can be used in the creation of especially enchanted weapons, it may fail to affect those already heavily enchanted.
+CF:RANDOM_BLINK
+PW:ENCHANT_WEAPON_III
+PB:163
+LV:5
+
+IN:23
+NM:invulnerability
+DC:For a very short of period of time, you can't be harmmed.
+CF:INMATERIALITY
+PW:INVULNERABILITY
+PB:100
+
+IN:24
+NM:detect danger
+DC:It reveals to your eyes the presence of traps and creatures.
+CF:INVISIBILITY
+PW:DETECT_DANGER
+PB:326
+
+IN:25
+NM:mass confusion
+DC:This scroll tries to confuse nearby monsters.
+CF:IMMOLATION
+PW:MASS_CONFUSION
+PB:326

@@ -1,0 +1,1304 @@
+NI:210
+
+ID:0
+NM:Identify
+SC:128
+LV:6
+DC:This spell allows the caster to determine the properties of an otherwise inscrutable magic item. 
+
+
+ID:1
+NM:Teleport Self
+SC:256
+LV:5
+DC:This spell teleports the caster to a random location. 
+
+
+ID:2
+NM:Cause Fear
+SC:2
+LV:5
+DC:This spell causes fear in those near to the caster. 
+
+
+ID:3
+NM:Create Noise
+SC:2
+LV:1
+DC:This spell causes a loud noise to be heard. 
+
+
+ID:4
+NM:Remove Curse
+SC:2
+LV:5
+DC:This spell removes curses from any items which are being used by the caster. 
+
+
+ID:5
+NM:Magic Dart
+SC:1
+LV:1
+DC:This spell hurls a small bolt of magical energy. 
+
+
+ID:6
+NM:Fireball
+SC:5
+LV:6
+DC:This spell hurls an exploding bolt of fire.  This spell does not cost additional spell levels if the learner already knows Delayed Fireball. 
+
+
+ID:7
+NM:Swap
+SC:256
+LV:3
+DC:This spell allows the caster to swap positions with an adjacent being. 
+
+
+ID:8
+NM:Apportation
+SC:256
+LV:1
+DC:This spell allows the caster to pull the top item or group of similar items from a distant pile to the floor near the caster.  The mass of the target item(s) will make the task more difficult, with some items too massive to ever be moved by this spell.   Using this spell on a group of items can be risky;  insufficient power will cause some of the items to be lost in the infinite void.
+
+
+ID:9
+NM:Twist
+SC:256
+LV:1
+DC:This spell causes a slight spatial distortion around a monster in line of sight of the caster, causing injury. 
+
+
+ID:13
+NM:Conjure Flame
+SC:5
+LV:3
+DC:This spell creates a column of roaring flame. 
+
+
+ID:14
+NM:Dig
+SC:1040
+LV:4
+DC:This spell digs a tunnel through unworked rock. 
+
+
+ID:15
+NM:Bolt of Fire
+SC:5
+LV:5
+DC:This spell hurls a great bolt of flames. 
+
+
+ID:16
+NM:Bolt of Cold
+SC:9
+LV:5
+DC:This spell hurls a great bolt of ice and frost. 
+
+
+ID:17
+NM:Lightning Bolt
+SC:2049
+LV:6
+DC:This spell hurls a mighty bolt of lightning. Although this spell inflicts less damage than similar fire and ice spells, it can at once rip through whole rows of creatures. 
+
+
+ID:18
+NM:Bolt of Magma
+SC:1029
+LV:5
+DC:This spell hurls a sizzling bolt of molten rock. 
+
+
+ID:20
+NM:Polymorph Other
+SC:16
+LV:5
+DC:This spell randomly alters the form of another creature. 
+
+
+ID:21
+NM:Slow
+SC:2
+LV:3
+DC:This spell slows the actions of a creature. 
+
+
+ID:22
+NM:Haste
+SC:2
+LV:8
+DC:This spell speeds the actions of a creature. 
+
+
+ID:23
+NM:Paralyze
+SC:2
+LV:4
+DC:This spell prevents a creature from moving. 
+
+
+ID:24
+NM:Confuse
+SC:2
+LV:3
+DC:This spell induces a state of bewilderment and confusion in a creature's mind. 
+
+
+ID:25
+NM:Invisibility
+SC:2
+LV:6
+DC:This spell hides a creature from the sight of others. 
+
+
+ID:26
+NM:Throw Flame
+SC:5
+LV:2
+DC:This spell throws a small bolt of flame. 
+
+
+ID:27
+NM:Throw Frost
+SC:9
+LV:2
+DC:This spell throws a small bolt of frost. 
+
+
+ID:28
+NM:Controlled Blink
+SC:256
+LV:4
+DC:This spell allows short-range translocation, with precise control. 
+
+
+ID:29
+NM:Freezing Cloud
+SC:2057
+LV:7
+DC:This spell conjures up a large cloud of lethally cold vapour. 
+
+
+ID:30
+NM:Mephitic Cloud
+SC:2561
+LV:3
+DC:This spell conjures up a large but short-lived cloud of vile fumes. 
+
+
+ID:31
+NM:Ring of Flames
+SC:6
+LV:8
+DC:This spell surrounds the caster with a mobile ring of searing flame, and keeps other fire clouds away from the caster.  This spell attunes the caster to the forces of fire, increasing their fire magic and giving protection from fire.  However, it also makes them much more susceptable to the forces of ice. 
+
+
+ID:32
+NM:Restore Strength
+SC:4096
+LV:2
+DC:This spell restores the physical strength of the caster. 
+
+
+ID:33
+NM:Restore Intelligence
+SC:4096
+LV:2
+DC:This spell restores the intelligence of the caster. 
+
+
+ID:34
+NM:Restore Dexterity
+SC:4096
+LV:2
+DC:This spell restores the dexterity of the caster. 
+
+
+ID:35
+NM:Venom Bolt
+SC:513
+LV:5
+DC:This spell throws a bolt of deadly poison. 
+
+
+ID:36
+NM:Olgreb's Toxic Radiance
+SC:512
+LV:4
+DC:This spell bathes the caster's surroundings in poisonous green light. 
+
+
+ID:37
+NM:Teleport Other
+SC:256
+LV:5
+DC:This spell randomly translocates another creature. 
+
+
+ID:38
+NM:Lesser Healing
+SC:4096
+LV:2
+DC:This spell heals a small amount of damage to the caster's body. 
+
+
+ID:39
+NM:Greater Healing
+SC:4096
+LV:6
+DC:This spell heals a large amount of damage to the caster's body. 
+
+
+ID:40
+NM:Cure Poison
+SC:4096
+LV:3
+DC:This spell removes poison from the caster's system. 
+
+
+ID:41
+NM:Purification
+SC:4096
+LV:5
+DC:This spell purifies the caster's body, removing poison, disease, and certain malign enchantments. 
+
+
+ID:42
+NM:Death's Door
+SC:34
+LV:8
+DC:This spell is extremely powerful, but carries a degree of risk. It renders living casters nigh invulnerable to harm for a brief period, but can bring them dangerously close to death (how close depends on one's necromantic abilities). The spell can be cancelled at any time by any healing effect, and the caster will receive one warning shortly before the spell expires. Undead cannot use this spell. 
+
+
+ID:43
+NM:Selective Amnesia
+SC:2
+LV:3
+DC:This spell allows the caster to selectively erase one spell from memory to recapture the magical energy bound up with it. Casters will be able to memorise this spell should even their minds be otherwise full of magic (i.e., already possessing the maximum number of spells). 
+
+
+ID:44
+NM:Mass Confusion
+SC:2
+LV:6
+DC:This spell causes confusion in all who gaze upon the caster. 
+
+
+ID:45
+NM:Smiting
+SC:4096
+LV:4
+DC:This spell smites one creature of the caster's choice. 
+
+
+ID:46
+NM:Repel Undead
+SC:4096
+LV:3
+DC:This spell calls on a divine power to repel the unholy. 
+
+
+ID:47
+NM:Holy Word
+SC:4096
+LV:7
+DC:This spell involves the intonation of a word of power which repels and can destroy unholy creatures. 
+
+
+ID:48
+NM:Detect Curse
+SC:128
+LV:3
+DC:This spell alerts the caster to the presence of curses on his or her possessions. 
+
+
+ID:49
+NM:Summon Small Mammals
+SC:64
+LV:1
+DC:This spell summons one or more small creatures to the caster's aid. 
+
+
+ID:50
+NM:Abjuration
+SC:64
+LV:3
+DC:This spell attempts to send hostile summoned creatures to the place from whence they came, or at least shorten their stay in the caster's locality. 
+
+
+ID:51
+NM:Summon Scorpions
+SC:576
+LV:4
+DC:This spell summons one or more giant scorpions to the caster's assistance. 
+
+
+ID:52
+NM:Levitation
+SC:2050
+LV:2
+DC:This spell allows the caster to float in the air. 
+
+
+ID:53
+NM:Bolt of Draining
+SC:33
+LV:6
+DC:This spell hurls a deadly bolt of negative energy, which drains the life from any living creature it strikes. 
+
+
+ID:54
+NM:Lehudib's Crystal Spear
+SC:1025
+LV:8
+DC:This spell hurls a lethally sharp bolt of crystal. 
+
+
+ID:55
+NM:Bolt of Inaccuracy
+SC:1
+LV:2
+DC:This spell inflicts enormous damage upon any creature struck by the bolt of incandescent energy conjured into existence. Unfortunately, it is very difficult to aim and very rarely hits anything. Pity, that. 
+
+
+ID:56
+NM:Poisonous Cloud
+SC:2561
+LV:6
+DC:This spell conjures forth a great cloud of lethal gasses. 
+
+
+ID:57
+NM:Fire Storm
+SC:5
+LV:9
+DC:This spell creates a mighty storm of roaring flame. 
+
+
+ID:58
+NM:Detect Traps
+SC:128
+LV:2
+DC:This spell reveals traps in the caster's vicinity. 
+
+
+ID:59
+NM:Blink
+SC:256
+LV:2
+DC:This spell randomly translocates the caster a short distance. 
+
+
+ID:60
+NM:Iskenderun's Mystic Blast
+SC:1
+LV:4
+DC:This spell throws a crackling sphere of destructive energy. 
+
+
+ID:61
+NM:Summon Swarm
+SC:64
+LV:6
+DC:This spell summons forth a pestilential swarm. 
+
+
+ID:62
+NM:Summon Horrible Things
+SC:64
+LV:8
+DC:This spell opens a gate to the Abyss and calls through one or more hideous abominations from that dreadful place. The powers who answer this invocation require of casters a portion of their intellect in exchange for this service. 
+
+
+ID:63
+NM:Enslavement
+SC:2
+LV:4
+DC:This spell causes an otherwise hostile creature to fight on your side for a while. 
+
+
+ID:64
+NM:Magic Mapping
+SC:1152
+LV:4
+DC:This spell reveals details about the caster's surroundings. 
+
+
+ID:65
+NM:Heal Other
+SC:4096
+LV:3
+DC:This spell heals another creature from a distance. 
+
+
+ID:66
+NM:Animate Dead
+SC:32
+LV:4
+DC:This spell causes the dead to rise up and serve the caster; every corpse within a certain distance of the caster is affected. By means of this spell, powerful casters could press into service an army of the mindless undead. 
+
+
+ID:67
+NM:Pain
+SC:32
+LV:1
+DC:This spell inflicts an extremely painful injury upon one living creature. 
+
+
+ID:68
+NM:Extension
+SC:2
+LV:5
+DC:This spell extends the duration of most beneficial enchantments affecting the caster. 
+
+
+ID:69
+NM:Control Undead
+SC:34
+LV:6
+DC:This spell attempts to enslave any undead in the vicinity of the caster. 
+
+
+ID:70
+NM:Animate Skeleton
+SC:32
+LV:1
+DC:This spell raises an inert skeleton to a state of unlife. 
+
+
+ID:71
+NM:Vampiric Draining
+SC:32
+LV:3
+DC:This spell steals the life of a living creature and grants it to the caster. Life will not be drained in excess of what the caster can capably absorb. 
+
+
+ID:72
+NM:Summon Wraiths
+SC:96
+LV:7
+DC:This spell calls on the powers of the undead to aid the caster. 
+
+
+ID:73
+NM:Detect Items
+SC:128
+LV:2
+DC:This spell detects any items lying about the caster's general vicinity. 
+
+
+ID:74
+NM:Borgnjor's Revivification
+SC:32
+LV:6
+DC:This spell instantly heals any and all wounds suffered by the caster with an attendant, but also permanently lessens his or her resilience to injury -- the severity of which is dependent on (and inverse to) magical skill. 
+
+
+ID:75
+NM:Burn
+SC:4
+LV:1
+DC:This spell burns a creature. 
+
+
+ID:76
+NM:Freeze
+SC:8
+LV:1
+DC:This spell freezes a creature. This may temporarily slow the metabolism of a cold-blooded creature. 
+
+
+ID:77
+NM:Summon Elemental
+SC:64
+LV:4
+DC:This spell calls forth a spirit from the elemental planes to aid the caster. A large quantity of the desired element must be available; this is rarely a problem for earth and air, but may be for fire or water. The elemental will usually be friendly to casters -- especially those skilled in the appropriate form of elemental magic.
+
+
+ID:78
+NM:Ozocubu's Refrigeration
+SC:8
+LV:5
+DC:This spell drains the heat from the caster and her surroundings, causing harm to all creatures not resistant to cold. 
+
+
+ID:79
+NM:Sticky Flame
+SC:5
+LV:4
+DC:This spell conjures a sticky glob of liquid fire, which will adhere to and burn any creature it strikes. 
+
+
+ID:80
+NM:Summon Ice Beast
+SC:72
+LV:5
+DC:This spell calls forth a beast of ice to serve the caster. 
+
+
+ID:81
+NM:Ozocubu's Armour
+SC:10
+LV:3
+DC:This spell encases the caster's body in a protective layer of ice, the power of which depends on his or her skill with Ice magic. The caster and the caster's equipment are protected from the cold, but the spell will not function for casters already wearing heavy armour. 
+
+
+ID:82
+NM:Call Imp
+SC:64
+LV:3
+DC:This spell calls forth a minor demon from the pits of Hell. 
+
+
+ID:83
+NM:Repel Missiles
+SC:2050
+LV:2
+DC:This spell reduces the chance of projectile attacks striking the caster. Even powerful attacks such as lightning bolts or dragon breath are affected, although smaller missiles are repelled to a much greater extent. 
+
+
+ID:84
+NM:Berserker Rage
+SC:2
+LV:3
+DC:This spell sends the caster into a temporary psychotic rage. 
+
+
+ID:85
+NM:Dispel Undead
+SC:32
+LV:4
+DC:This spell inflicts a great deal of damage on an undead creature. 
+
+
+ID:86
+NM:Guardian
+SC:4096
+LV:7
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:87
+NM:Pestilence
+SC:4096
+LV:4
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:88
+NM:Thunderbolt
+SC:6144
+LV:6
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:89
+NM:Flame of Cleansing
+SC:4096
+LV:8
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:90
+NM:Shining Light
+SC:4096
+LV:7
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:91
+NM:Summon Daeva
+SC:4096
+LV:8
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:92
+NM:Abjuration
+SC:4096
+LV:4
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:110
+NM:Twisted Resurrection
+SC:32
+LV:5
+DC:This spell allows its caster to imbue a mass of deceased flesh with a magical life force. Casting this spell involves the assembling several corpses together; the greater the combined mass of flesh available, the greater the chances of success. 
+
+
+ID:111
+NM:Regeneration
+SC:34
+LV:3
+DC:This spell dramatically but temporarily increases the caster's recuperative abilities, while also increasing the rate of food consumption. 
+
+
+ID:112
+NM:Bone Shards
+SC:32
+LV:3
+DC:This spell uses the bones of a skeleton (or similar materials: the rigid exoskeleton of an insect, for example) to dispense a lethal spray of slicing fragments, allowing its caster to dispense with conjurations in favour of necromancy alone to provide a low-level yet very powerful offensive spell. The use of a large and heavy skeleton (by wielding it) amplifies this spell's effect. 
+
+
+ID:113
+NM:Banishment
+SC:256
+LV:5
+DC:This spell banishes one creature to the Abyss. Those wishing to visit that unpleasant place in person may always banish themselves. 
+
+
+ID:114
+NM:Cigotuvi's Degeneration
+SC:48
+LV:5
+DC:This spell mutates one creature into a pulsating mass of flesh. 
+
+
+ID:115
+NM:Sting
+SC:513
+LV:1
+DC:This spell throws a magical dart of poison. 
+
+
+ID:116
+NM:Sublimation of Blood
+SC:32
+LV:2
+DC:This spell converts flesh, blood, and other bodily fluids into magical energy. Casters may focus this spell on their own bodies (which can be dangerous but never directly lethal) or can wield freshly butchered flesh in order to draw power into themselves. 
+
+
+ID:117
+NM:Tukima's Dance
+SC:2
+LV:3
+DC:This spell causes a weapon held in the caster's hand to dance into the air and strike the caster's enemies. It will not function on magical staves and certain willful artefacts. 
+
+
+ID:118
+NM:Hellfire
+SC:5
+LV:9
+DC:This spell should only be available from Dispater's staff. So how are you reading this? (describe.cc)
+
+
+ID:119
+NM:Summon Demon
+SC:64
+LV:5
+DC:This spell opens a gate to the realm of Pandemonium and draws forth one of its inhabitants to serve the caster for a time. 
+
+
+ID:120
+NM:Demonic Horde
+SC:64
+LV:6
+DC:This spell calls forth a small swarm of small demons to do battle with the caster's foes. 
+
+
+ID:121
+NM:Summon Greater Demon
+SC:64
+LV:7
+DC:This spell calls forth one of the greater demons of Pandemonium to serve the caster. Beware, for the spell binding it to service may not outlast that which binds it to this world! 
+
+
+ID:122
+NM:Corpse Rot
+SC:32
+LV:2
+DC:This spell rapidly accelerates the decomposition of any corpses lying around the caster, emitting inprocess a foul miasmic vapour, which eats away at the life force of any creature it envelops. 
+
+
+ID:123
+NM:Tukima's Vorpal Blade
+SC:2
+LV:2
+DC:This spell bestows a lethal but temporary sharpness on a sword held by the caster. It will not affect weapons otherwise subject to special enchantments. 
+
+
+ID:124
+NM:Fire Brand
+SC:6
+LV:2
+DC:This spell sets a weapon held by the caster ablaze. It will not affect weapons otherwise subject to special enchantments. 
+
+
+ID:125
+NM:Freezing Aura
+SC:10
+LV:2
+DC:This spell surrounds a weapon held by the caster with an aura of freezing cold. It will not affect weapons which are otherwise subject to special enchantments. 
+
+
+ID:126
+NM:Lethal Infusion
+SC:34
+LV:2
+DC:This spell infuses a weapon held by the caster with unholy energies. It will not affect weapons which are otherwise subject to special enchantments. 
+
+
+ID:127
+NM:Crush
+SC:1024
+LV:1
+DC:This spell crushes a nearby creature with waves of gravitational force. 
+
+
+ID:128
+NM:Bolt of Iron
+SC:1025
+LV:6
+DC:This spell hurls a large and heavy metal bolt at the caster's foes. 
+
+
+ID:129
+NM:Stone Arrow
+SC:1025
+LV:3
+DC:This spell hurls a sharp spine of rock outward from the caster. 
+
+
+ID:130
+NM:Tomb of Doroklohe
+SC:1040
+LV:7
+DC:This spell entombs the caster within four walls of rock. These walls will destroy most objects in their way, but their growth is obstructed by the presence of any creature. Beware - only the unwise cast this spell without reliable means of escape. 
+
+
+ID:131
+NM:Stonemail
+SC:1026
+LV:6
+DC:This spell covers the caster with chunky scales of stone, the durability of which depends on his or her skill with Earth magic. These scales can coexist with other forms of armour, but are in and of themselves extremely heavy and cumbersome. 
+
+
+ID:132
+NM:Shock
+SC:2049
+LV:1
+DC:This spell throws a bolt of electricity. 
+
+
+ID:133
+NM:Swiftness
+SC:2050
+LV:2
+DC:This spell imbues its caster with the ability to achieve great speeds. It will not increase the speed of those who are already fleet of foot (such as centaurs). 
+
+
+ID:134
+NM:Fly
+SC:2050
+LV:4
+DC:This spell grants to the caster the ability to fly through the air. 
+
+
+ID:135
+NM:Insulation
+SC:2050
+LV:4
+DC:This spell protects the caster from electric shocks. 
+
+
+ID:136
+NM:Orb of Electrocution
+SC:2049
+LV:7
+DC:This spell hurls a crackling orb of electrical energy which explodes with immense force on impact. 
+
+
+ID:137
+NM:Detect Creatures
+SC:128
+LV:2
+DC:This spell allows the caster to detect any creatures within a certain radius. 
+
+
+ID:138
+NM:Cure Poison
+SC:512
+LV:2
+DC:This spell removes some or all toxins from the caster's system. 
+
+
+ID:139
+NM:Control Teleport
+SC:258
+LV:4
+DC:This spell allows the caster to control translocations. 
+
+
+ID:140
+NM:Poison Ammunition
+SC:514
+LV:4
+DC:This spell envenoms missile ammunition held by the caster. 
+
+
+ID:141
+NM:Poison Weapon
+SC:514
+LV:4
+DC:This spell temporarily coats any sharp bladed weapon with poison.  Will only work on weapons without an existing enchantment.
+
+
+ID:142
+NM:Resist Poison
+SC:514
+LV:4
+DC:This spell protects the caster from exposure to all poisons for a period of time. 
+
+
+ID:143
+NM:Projected Noise
+SC:2
+LV:1
+DC:This spell produces a noise emanating from a place of the caster's own choosing. 
+
+
+ID:144
+NM:Alter Self
+SC:16
+LV:7
+DC:This spell causes aberrations to form in the caster's body, leaving the caster in a weakened state (though it is not fatal in and of itself). It may fail to affect those who are already heavily mutated. 
+
+
+ID:145
+NM:Debugging Ray
+SC:1
+LV:7
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:146
+NM:Recall
+SC:320
+LV:3
+DC:This spell is greatly prized by summoners and necromancers, as it allows the caster to recall any friendly creatures nearby to a position adjacent to the caster. 
+
+
+ID:147
+NM:Portal
+SC:256
+LV:8
+DC:This spell creates a gate allowing long-distance travel in relatively ordinary environments (i.e., the Dungeon only). The portal lasts long enough for the caster and nearby creatures to enter. Casters are never taken past the level limits of the current area. 
+
+
+ID:148
+NM:Agony
+SC:32
+LV:5
+DC:This spell cuts the resilience of a target creature in half, although it will never cause death directly. 
+
+
+ID:149
+NM:Spider Form
+SC:528
+LV:3
+DC:This spell temporarily transforms the caster into a venomous, spider-like creature.  Spellcasting is slightly more difficult in this form.  This spell is not powerful enough to allow the caster to slip out of cursed equipment. 
+
+
+ID:150
+NM:Disrupt
+SC:16
+LV:1
+DC:This spell disrupts space around another creature, causing injury.
+
+
+ID:151
+NM:Disintegrate
+SC:16
+LV:6
+DC:This spell violently rends apart anything in a small volume of space.  Can be used to cause severe damage.
+
+
+ID:152
+NM:Blade Hands
+SC:16
+LV:4
+DC:This spell causes long, scythe-shaped blades to grow from the caster's hands.  It makes spellcasting somewhat difficult.  This spell is not powerful enough to force a cursed weapon from the caster's hands.
+
+
+ID:153
+NM:Statue Form
+SC:1040
+LV:5
+DC:This spell temporarily transforms the caster into a slow-moving (but extremely robust) stone statue. 
+
+
+ID:154
+NM:Ice Form
+SC:24
+LV:5
+DC:This spell temporarily transforms the caster's body into a frozen ice-creature. 
+
+
+ID:155
+NM:Dragon Form
+SC:20
+LV:8
+DC:This spell temporarily transforms the caster into a great, fire-breathing dragon. 
+
+
+ID:156
+NM:Necromutation
+SC:48
+LV:8
+DC:This spell first transforms the caster into a semi-corporeal apparition receptive to negative energy, then infuses that form with the powers of Death. The caster becomes resistant to cold, poison, magic and hostile negative energies. 
+
+
+ID:157
+NM:Death Channel
+SC:32
+LV:9
+DC:This spell raises living creatures slain by the caster into a state of unliving slavery as spectral horrors. 
+
+
+ID:158
+NM:Symbol of Torment
+SC:32
+LV:6
+DC:This spell calls on the powers of Hell to cause agonising injury to any living thing in the caster's vicinity. It carries within itself a degree of danger, for any brave enough to invoke it, for the Symbol also affects its caller and indeed will not function if he or she is immune to its terrible effects. Despite its ominous power, this spell is never lethal. 
+
+
+ID:159
+NM:Deflect Missiles
+SC:2050
+LV:6
+DC:This spell protects the caster from any kind of projectile attack, although particularly powerful attacks (lightning bolts, etc.) are deflected to a lesser extent than lighter missiles. 
+
+
+ID:160
+NM:Orb of Fragmentation
+SC:1025
+LV:7
+DC:This spell throws a heavy sphere of metal which explodes on impact into a rain of deadly, jagged fragments. It can rip a creature to shreds, but proves ineffective against heavily-armoured targets. 
+
+
+ID:161
+NM:Ice Bolt
+SC:9
+LV:4
+DC:This spell throws forth a chunk of ice. It is particularly effective against those creatures not immune to the effects of freezing, but the half of its destructive potential that comes from its weight and cutting edges cannot be ignored by even cold-resistant creatures. 
+
+
+ID:162
+NM:Ice Storm
+SC:9
+LV:9
+DC:This spell conjures forth a raging blizzard of ice, sleet and freezing gasses. 
+
+
+ID:163
+NM:Arc
+SC:2048
+LV:1
+DC:This spell zaps at random a nearby creature with a powerful electrical current.
+
+
+ID:164
+NM:Airstrike
+SC:2048
+LV:4
+DC:This spell causes the air around a creature to twist itself into a whirling vortex of meteorological fury. 
+
+
+ID:165
+NM:Shadow Creatures
+SC:64
+LV:5
+DC:This spell weaves a creature from shadows and threads of Abyssal matter. The creature thus brought into existence will recreate some type of creature found in the caster's immediate vicinity. The spell even creates appropriate equipment for the creature, which are given a lasting substance by their firm contact with reality. 
+
+
+ID:166
+NM:Confusing Touch
+SC:2
+LV:1
+DC:This spell enchants the casters hands with magical energy. This energy is released when the caster touches a monster with their bare hands, and may induce a state of confusing in the monster. 
+
+
+ID:167
+NM:Sure Blade
+SC:2
+LV:2
+DC:This spell forms a mystical bond between the caster and a wielded short blade, making the blade much easier to use. 
+
+
+ID:168
+NM:Flame Tongue
+SC:5
+LV:1
+DC:This spell creates a short burst of flame.
+
+
+ID:169
+NM:Passwall
+SC:1040
+LV:3
+DC:This spell tunes the caster's body such that it can instantly pass through solid rock. This can be dangerous, since it is possible for the spell to expire while the caster is en route, and it also takes time for the caster to attune to the rock, during which time they will be helpless. 
+
+
+ID:170
+NM:Ignite Poison
+SC:20
+LV:7
+DC:This spell attempts to convert all poison within the caster's view into liquid flame. It is very effective against poisonous creatures or those carrying poison potions. It is also an amazingly painful way to eliminate poison from one's own system. 
+
+
+ID:171
+NM:Sticks to Snakes
+SC:80
+LV:2
+DC:This spell uses wooden items in the caster's grasp as raw material for a powerful summoning. Note that highly enchanted items, such as wizard's staves, may not be affected. 
+
+
+ID:172
+NM:Call Canine Familiar
+SC:64
+LV:3
+DC:This spell summons a canine to the caster's aid.
+
+
+ID:173
+NM:Summon Dragon
+SC:68
+LV:9
+DC:This spell summons and binds a powerful dragon to perform the caster's bidding. Beware, for the summons may succeed even as the binding fails. 
+
+
+ID:174
+NM:Tame Beasts
+SC:2
+LV:5
+DC:This spell attempts to tame animals in the caster's vicinity. It works best on animals amenable to domestication. 
+
+
+ID:175
+NM:Ensorcled Hibernation
+SC:10
+LV:2
+DC:This spell tries to lower its target's metabolic rate, inducing hypothermic hibernation. It may have side effects on cold-blooded creatures. 
+
+
+ID:176
+NM:Metabolic Englaciation
+SC:10
+LV:7
+DC:This spell tries to lower the metabolic rate of every creature within the caster's view enough to induce hypothermic hibernation. It may have side effects on cold-blooded creatures. 
+
+
+ID:177
+NM:Detect Magic
+SC:128
+LV:1
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:178
+NM:Detect Secret Doors
+SC:128
+LV:1
+DC:This spell is beloved by lazy dungeoneers everywhere, for it can greatly reduce time-consuming searches. 
+
+
+ID:179
+NM:See Invisible
+SC:130
+LV:4
+DC:This spell enables the caster to perceive things that are shielded from ordinary sight. 
+
+
+ID:180
+NM:Forescry
+SC:128
+LV:5
+DC:This spell makes the caster aware of the immediate future; while not far enough to predict the result of a fight, it does give the caster ample time to get out of the way of a punch (reflexes allowing). 
+
+
+ID:181
+NM:Summon Butterflies
+SC:64
+LV:1
+DC:This spell creates a shower of colourful butterflies. How pretty!
+
+
+ID:182
+NM:Warp Weapon
+SC:258
+LV:7
+DC:This spell temporarily binds a localized warp field to the invoker's weapon. This spell is very dangerous to cast, as the field is likely to effect the caster as well. 
+
+
+ID:183
+NM:Silence
+SC:2050
+LV:3
+DC:This spell eliminates all sound near the caster. This makes reading scrolls, casting spells, praying or yelling in the caster's vicinity impossible. (Applies to caster too, of course.)  This spell will not hide your presence, since its oppressive, unnatural effect will almost certainly alert any living creature that something is very wrong. 
+
+
+ID:184
+NM:Shatter
+SC:1040
+LV:9
+DC:This spell causes a burst of concussive force around the caster, which will damage most creatures, although those composed of stone, metal or crystal, or otherwise brittle, will particularly suffer. The magic has been known to adversely affect walls. 
+
+
+ID:185
+NM:Dispersal
+SC:256
+LV:7
+DC:This spell tries to teleport away any monsters directly beside the caster. 
+
+
+ID:186
+NM:Static Discharge
+SC:2049
+LV:4
+DC:This spell releases electric charges against those next to the caster.  These may arc to adjacent monsters (or even the caster) before they eventually ground out. 
+
+
+ID:187
+NM:Bend
+SC:256
+LV:1
+DC:This spell applies a localized spatial distortion to the detriment of some nearby creature. 
+
+
+ID:188
+NM:Corona
+SC:2
+LV:1
+DC:This spell causes a halo of glowing light to surround and effectively outline a creature. This glow offsets the dark, musty atmosphere of the dungeon, and thereby makes the affected creature appreciably easier to hit.
+
+
+ID:189
+NM:Alistair's Intoxication
+SC:528
+LV:4
+DC:This spell works by converting a small portion of brain matter into alcohol. It affects all intelligent humanoids within the caster's view (presumably including the caster). It is frequently used as an icebreaker at wizard parties. 
+
+
+ID:190
+NM:Glamour
+SC:2
+LV:5
+DC:This spell is an Elvish magic, which draws upon the viewing creature's credulity and the caster's comeliness to charm, confuse or render comatose. 
+
+
+ID:191
+NM:Evaporate
+SC:20
+LV:2
+DC:This spell causes a potion held by the caster to evaporate, spreading the liquid's magical potency into surrounding air. 
+
+
+ID:192
+NM:Eringya's Surprising Bouquet
+SC:1040
+LV:4
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:193
+NM:Lee's Rapid Deconstruction
+SC:1040
+LV:5
+DC:This spell creates a concussive explosion within a large body of rock (or other hard material), to the detriment of any who happen to be standing nearby. 
+
+
+ID:194
+NM:Air Walk
+SC:2064
+LV:9
+DC:This spell transforms the caster's body into an insubstantial cloud. The caster becomes immaterial and nearly immune to physical harm, but is vulnerable to magical fire and ice. While insubstantial the caster is, of course, unable to interact with physical objects (but may still cast spells). 
+
+
+ID:195
+NM:Sandblast
+SC:1040
+LV:1
+DC:This spell creates a short blast of high-velocity particles. It works best when the caster provides some source (by wielding a stone), but will do what it can with whatever ambient grit is available. 
+
+
+ID:196
+NM:Rotting
+SC:48
+LV:5
+DC:This spell causes the flesh of all those near the caster to rot. It will affect the living and many of the corporeal undead. 
+
+
+ID:197
+NM:Shuggoth Seed
+SC:96
+LV:7
+DC:This spell implants a shuggoth seed, the larval parasitic form of the fearsome shuggoth, in a living host. The shuggoth seed will draw life from its host and then hatch, whereupon a fully grown shuggoth will burst from the unfortunate host's chest. 
+
+
+ID:198
+NM:Maxwell's Silver Hammer
+SC:1026
+LV:2
+DC:This spell bestows a lethal but temporary gravitic field to a crushing implement held by the caster. It will not affect weapons otherwise subject to special enchantments. 
+
+
+ID:199
+NM:Condensation Shield
+SC:24
+LV:4
+DC:This spell causes a disc of dense vapour to condense out of the air surrounding the caster. It acts like a normal shield, but its density (and therefore stopping power) depends upon the caster's skill with Ice Magic. The disc is controlled by the caster's mind and thus will not conflict with the wielding of a two-handed weapon. 
+
+
+ID:200
+NM:Semi-Controlled Blink
+SC:256
+LV:3
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+
+ID:201
+NM:Stoneskin
+SC:1026
+LV:2
+DC:This spell hardens the one's skin to a degree determined by one's skill in Earth Magic. This enchantment only works on relatively normal flesh; it will aid neither the undead nor the bodily transformed.
+
+
+ID:202
+NM:Simulacrum
+SC:40
+LV:7
+DC:This spell uses a piece of a flesh in hand to create a replica of the original being out of ice. This magic is unstable so eventually the replica will sublimate into a freezing cloud, if it isn't hacked or melted into a small puddle of water first. 
+
+
+ID:203
+NM:Conjure Ball Lightning
+SC:2049
+LV:8
+DC:This spell allows the conjurer to create ball lightning.  Using the spell is not without risk - ball lighting can be difficult to control. 
+
+
+ID:10
+NM:Far Strike
+SC:256
+LV:3
+DC:This spell allows the caster to transfer the force of a weapon strike to any target the caster can see.  This spell will only deliver the impact of the blow; magical side-effects and enchantments cannot be transferred in this way.  The force transferred by this spell has little to do with one's skill with weapons, and more to do with personal strength, translocation skill, and magic ability. 
+
+
+ID:11
+NM:Delayed Fireball
+SC:5
+LV:7
+DC:Successfully casting this spell gives the caster the ability to instantaneously release a fireball at a later time.  Knowing this spell allows the learner to memorise Fireball for no additional spell levels. 
+
+
+ID:210
+NM:nonexistent spell
+SC:0
+LV:0
+DC:This spell apparently does not exist. Casting it may therefore be unwise. Please contact Dungeon Tech Support at /dev/null for details. 
+
+

@@ -1,0 +1,101 @@
+NI:19
+
+ID:0
+NM:flame $:PP1:$
+DC:A magical device which throws little bits of flame.
+GD:5
+
+ID:1
+NM:frost $:PP1:$ 
+DC:A magical device which throws little bits of frost.
+GD:5
+
+ID:2
+NM:slowing $:PP1:$
+DC:A magical device which casts enchantments to slow down the actions of a creature at which it is directed.
+GD:10
+
+ID:3
+NM:hasting $:PP1:$
+DC:A magical device which casts enchantments to speed up the actions of a creature at which it is directed.
+GD:15
+
+ID:4
+NM:magic darts $:PP1:$
+DC:A magical device which throws small bolts of destructive energy.
+GD:3
+
+ID:5
+NM:healing $:PP1:$
+DC:A magical device which can heal a creature's wounds.
+GD:7
+
+ID:6
+NM:paralysis $:PP1:$
+DC:A magical device which can render a creature immobile.
+GD:12
+
+ID:7
+NM:fire $:PP1:$
+DC:A magical device which throws great bolts of fire.
+GD:15
+
+ID:8
+NM:cold $:PP1:$
+DC:A magical device which throws great bolts of cold.
+GD:15
+
+ID:9
+NM:confusion $:PP1:$
+DC:A magical device which induces confusion and bewilderment in a target creature.
+GD:10
+
+ID:10
+NM:invisibility $:PP1:$
+DC:A magical device which hides a creature from the view of others.
+GD:15
+
+ID:11
+NM:digging $:PP1:$
+DC:A magical device which drills tunnels through unworked rock.
+GD:10
+
+ID:12
+NM:fireball $:PP1:$
+DC:A magical device which throws exploding blasts of flame.
+GD:20
+
+ID:13
+NM:teleportation $:PP1:$
+DC:A magical device which causes a creature to be randomly translocated.
+GD:10
+
+ID:14
+NM:lightning $:PP1:$
+DC:A magical device which throws great bolts of lightning.
+GD:20
+
+ID:15
+NM:polymorph other $:PP1:$
+DC:A magical device which causes a creature to be transmogrified into another form. It doesn't work on you, so don't even try.
+GD:17
+
+ID:16
+NM:enslavement $:PP1:$
+DC:A magical device which causes slavish obedience in a creature.
+GD:15
+
+ID:17
+NM:draining $:PP1:$
+DC:A magical device which throws a bolt of negative energy which drains the life essences of living creatures, but is useless against the undead.
+GD:20
+
+ID:18
+NM:random effects $:PP1:$
+DC:A magical device which can produce a variety of effects.
+GD:13
+
+ID:19
+NM:disintegration $:PP1:$
+DC:A magical device which disrupts the physical structure of an object, especially a creature's body.
+GD:17

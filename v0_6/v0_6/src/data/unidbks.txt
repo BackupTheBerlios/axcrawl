@@ -1,0 +1,54 @@
+NI:54
+chunky paperback $:NAME:$
+chunky metal-bound $:NAME:$
+chunky leatherbound $:NAME:$
+chunky papyrus $:NAME:$
+chunky  $:NAME:$
+chunky hardcover $:NAME:$
+thick paperback $:NAME:$
+thick metal-bound $:NAME:$
+thick leatherbound $:NAME:$
+thick papyrus $:NAME:$
+thick  $:NAME:$
+thick hardcover $:NAME:$
+thin paperback $:NAME:$
+thin metal-bound $:NAME:$
+thin leatherbound $:NAME:$
+thin papyrus $:NAME:$
+thin  $:NAME:$
+thin hardcover $:NAME:$
+wide paperback $:NAME:$
+wide metal-bound $:NAME:$
+wide leatherbound $:NAME:$
+wide papyrus $:NAME:$
+wide  $:NAME:$
+wide hardcover $:NAME:$
+dog-eared paperback $:NAME:$
+dog-eared metal-bound $:NAME:$
+dog-eared leatherbound $:NAME:$
+dog-eared papyrus $:NAME:$
+dog-eared  $:NAME:$
+dog-eared hardcover $:NAME:$
+oblong paperback $:NAME:$
+oblong metal-bound $:NAME:$
+oblong leatherbound $:NAME:$
+oblong papyrus $:NAME:$
+oblong  $:NAME:$
+oblong hardcover $:NAME:$
+runed paperback $:NAME:$
+runed metal-bound $:NAME:$
+runed leatherbound $:NAME:$
+runed papyrus $:NAME:$
+runed  $:NAME:$
+runed hardcover $:NAME:$
+glowing paperback $:NAME:$
+glowing metal-bound $:NAME:$
+glowing leatherbound $:NAME:$
+glowing papyrus $:NAME:$
+glowing  $:NAME:$
+glowing hardcover $:NAME:$
+paperback $:NAME:$
+metal-bound $:NAME:$
+leatherbound $:NAME:$
+papyrus $:NAME:$
+hardcover $:NAME:$

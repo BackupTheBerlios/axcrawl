@@ -1,0 +1,540 @@
+----------------------------------------------------------------------------
+                                BEGINING
+----------------------------------------------------------------------------
+
+When you begin the game, a menu is shown to you.
+It list the actual savegames you have.
+
+With the cursors, you can choose one of them an then
+press:
+
+.- 'D' to delete the game
+.- 'N' to begin a new game
+.- Enter to continue the game
+
+If you press enter, you must choose one specie and
+a class or profession.
+
+
+----------------------------------------------------------------------------
+                            CHARACTER SPECIES
+----------------------------------------------------------------------------
+
+You have a number of different species to choose from. This affects several
+characteristics:
+
+     o  Your choice of classes
+     o  Your initial attributes
+     o  Occasional bonus points added to some abilities
+     o  The amount of hit points you get each level
+     o  The amount of magic points you get each level
+     o  Your initial equipment
+     o  Your rate of level advancement
+     o  Your rate of skill advancement
+     o  Various special abilities and powers
+
+Note: Some species are slower than humans in most/all skills.  For some
+classes these races may seem to have very few skills because they haven't
+quite earned the first level of several of their skills (Centaurs are
+notable in this regard... although non-human Wanderers can appear to
+start with no apparent skills at all).  This isn't a bug or an oversight,
+these species are just particularly weaker than humans at these classes.
+
+If you practise the skills you think or know are missing early on, they
+should pick up the remaining skills very quickly (and their training will be
+more complete).
+
+
+The species:
+
+Human:
+
+  Humans tend to be hardworking and industrious, and learn new things quickly.
+  The human race is the most versatile of all the species available to
+  players. Humans advance quickly in levels and have equal abilities in all
+  skills. Humans can also be of any class.
+
+Elves:
+
+  There are a number of distinct races of elf in the world. Elves are all
+  physically slight but long-lived people, quicker-witted than humans but
+  sometimes slower to learn new things. Elves are especially good at using
+  those skills which require a degree of finesse, such as stealth, sword-
+  fighting and archery, but tend to be poor at using brute force and inelegant
+  forms of combat. They find heavy armour uncomfortable, and make the finest,
+  lightest armours to be found anywhere. Elves are particularly good at using
+  elven weapons.
+
+  Due to their fey natures, all elves are good at using enchantments and air
+  elemental magic and most are poor at invoking the powers of earth and death
+  (necromancy).
+
+  Those of the most common strain are referred to simply as elves or, when
+  they're not listening, as common elves. Common elves have good intelligence
+  and dexterity, but suffer a bit in strength. They have slightly fewer HP and
+  slightly more magic than humans, and advance in experience a bit more
+  slowly.
+
+  High elves are a tall and powerful elven race who advance in levels very
+  slowly, requiring half again as much experience as do humans. They share the
+  same attributes as common elves in most respects, but their strengths and
+  weaknesses tend to be more pronounced.
+
+  Grey elves also advance slowly, but not as slowly as high elves. They excel
+  at using short and long swords and bows, but are poor at other fighting
+  skills. They are excellent at all forms of magic except for necromancy.
+
+  The deep elves are an elven race who long ago fled the overworld to live in
+  darkness underground. There they developed their mental powers, evolving a
+  natural gift for all forms of magic (including necromancy and earth magic),
+  and adapted physically to their new environment, becoming shorter and weaker
+  than other elves and losing all colouration. They are poor at hand-to-hand
+  combat but excellent at fighting from a distance.
+
+  Sludge elves are a somewhat degenerate race of elves. They are mirror images
+  of normal elves in some respects: they have no special proficiency with bows
+  or swords (long or short), nor do they have any aptitude in the traditional
+  areas of high elven magic (enchantments, conjurations and divinations). On
+  the other hand, they are superlative transmuters, and are comfortable
+  dabbling in necromantic, poison and elemental magic. As fighters they are
+  often more dangerous unarmed than armed. They advance in level slightly
+  faster than their common brethren.
+
+Dwarves:
+
+  Dwarves are short, hardy people. They love to fight, and often venture forth
+  from their subterranean cities to seek fame and fortune through battle.
+  Their armour and weapons are very well-crafted and much more durable than
+  the products of lesser artisans. Dwarves are particularly dangerous when
+  using dwarven weaponry.
+
+  Hill dwarves are extremely robust but are poor at using magic. They are
+  excellent at hand combat, especially favouring axes or bludgeoning weapons,
+  and are good at using armour and shields, but are poor at missile combat or
+  at using polearms (which are usually too big for them to wield comfortably).
+  The only forms of magic which they can use with even a minimal degree of
+  aptitude are earth, fire and conjurations. They advance in levels at a
+  similar rate to common elves.
+
+  Mountain dwarves come from the larger, more civilised communities of the
+  mountains. They advance slightly more quickly than hill dwarves and are
+  almost as robust while having similar aptitudes, but are slightly worse at
+  fighting while being slightly better at more civilised pursuits.
+
+Halflings:
+
+  Halflings, who are named for being about half the size of a human, live in
+  small villages. They live simple lives, and have simple interests. Some
+  times a particularly restless halfling will leave his or her village in
+  search of adventure.
+
+  Halflings are very small and are among the least robust of any character
+  species. Although only average at most fighting skills, they can use short
+  blades well and are good at all forms of missile combat. They are also very
+  stealthy and good at dodging and stabbing, but are poor at magic (except
+  enchantments and, for some reason, translocations). They advance in levels
+  as rapidly as humans. Halflings cannot wield large weapons.
+
+Gnomes:
+
+  Gnomes are an underground-dwelling race of creatures, related to the
+  dwarves but even more closely in touch with the earth.
+
+  They are quite small, and share many of their characteristics with
+  halflings (except for the great agility), although they advance slightly
+  more slowly in experience levels. They are okay at most skills, but
+  excellent at earth elemental magic and very poor at air magic.
+
+  Occasionally they can use their empathy with the earth to sense their
+  surroundings; this ability increases in power as they gain experience
+  levels.
+
+Orcs:
+
+  Hill orcs are orcs from the upper world who, jealous of the riches which
+  their cousins the cave orcs possess below the ground, descend in search of
+  plunder and adventure.
+
+  Hill orcs are as robust as the hill dwarves, but have very low reserves of
+  magical energy. Their forte is brute-force fighting, and they are skilled at
+  using most hand weapons (with the exception of short blades, at which they
+  are only fair), although they are not particularly good at using missile
+  weapons. They prefer to use their own weapons. Orcs are poor at using most
+  types of magic with the exception of conjurations, necromancy, and earth and
+  fire elemental magic. They advance as quickly as humans.
+
+Kobolds:
+
+  Kobolds are small, ugly creatures with few redeeming features. They are not
+  the sort of people you would want to spend much time with, unless you happen
+  to be a kobold yourself.
+
+  They have poor abilities and have similar aptitudes to halflings, without
+  the excellent agility. However, they are better than halflings at using
+  some types of magic, particularly summonings and necromancy. They often
+  live as scavengers, surviving on carrion, but are carnivorous and can
+  only eat meat. They advance in levels as quickly as humans.
+
+The Undead:
+
+  As creatures brought back from beyond the grave they are naturally immune to
+  poisons and negative energy, have little warmth left to be affected by cold,
+  and are not susceptible to reductions in their physical or mental abilities.
+
+  There are two type of undead available to players: Mummies and Ghouls.
+
+Mummies:
+
+  Mummies are undead creatures who travel into the depths in search of
+  revenge, redemption, or just because they want to.
+
+  Mummies progress very slowly in level, half again as slow as humans, and in
+  all skills except fighting, spellcasting and necromancy. As they increase in
+  level they become increasingly in touch with the powers of death, but cannot
+  use some types of necromancy which only affect living creatures. The side
+  effects of necromantic magic tend to be relatively harmless to mummies.
+  However, their dessicated bodies are highly flammable. They also do not need
+  to eat or drink, and in any case are incapable of doing so.
+
+Ghouls:
+
+  Ghouls are horrible undead creatures, slowly rotting away. Although ghouls
+  can sleep in their graves for years on end, when they rise to walk among the
+  living they must eat flesh to survive. Raw flesh is preferred, especially
+  rotting or tainted meat, and ghouls gain strength from consuming it.
+
+  They aren't very good at doing most things, although they make decent
+  fighters and, due to their contact with the grave, can use ice, earth and
+  death magic without too many difficulties.
+
+Naga:
+
+  The Naga are a race of hybrids: humanoid from the waist up, with a large
+  snake tail instead of legs.
+
+  They are reasonably good at most things and advance in experience levels at
+  a decent rate. They are naturally immune to poisons, can see invisible
+  creatures, and have tough skin, but their tails are relatively slow and
+  cannot move them around as quickly as can other creatures' legs (this only
+  affects their movement rate; all other actions are at normal speed). Their
+  body shape also prevents them from gaining full protection from most armour.
+
+  Every now and then, a naga can spit poison; the range, accuracy and damage
+  of this poison increases with the naga's experience level.
+
+Ogres and Ogre Mages:
+
+  Ogres are huge, chunky creatures related to orcs. They are terrible monsters
+  who usually live to do nothing more than smash, smash, smash, and destroy.
+
+  They have great physical strength, but are bad at almost everything except
+  fighting and learn quite slowly. Because of their large size they can only
+  wear loose robes, cloaks and animal skins. Although ogres can eat almost
+  anything, their size means that they need to do so more frequently than
+  smaller folk.
+
+  Ogre-mages are a separate race of ogres who are unique among the beefier
+  species in their ability to use magic, especially enchantments. Although
+  slighter than their common ogre relatives they nevertheless have great
+  strength and can survive a lot of punishment. They advance in level as
+  slowly as high elves.
+
+Trolls:
+
+  Trolls are like ogres, but even nastier. They have thick, knobbly skins of
+  any colour from putrid green to mucky brown and their mouths are full of
+  ichor-dripping fangs.
+
+  They can rip creatures apart with their claws, and regenerate very quickly
+  from even the most terrible wounds. They learn very slowly indeed - even
+  more slowly than high elves - and need a great amount of food to survive.
+
+Draconians:
+
+  Draconians are a race of human-dragon hybrids: humanoid in form and
+  approximately human-sized, with wings, tails and scaly skins. Draconians
+  start out in an immature form with brown scales, but as they grow in
+  power they take on a variety of colours.
+
+  Some types of draconians have breath weapons. Draconians advance very slowly
+  in level, but are reasonably good at all skills but armour (most types of
+  which they cannot wear) and missile weapons.
+
+Centaurs:
+
+  The Centaurs are another race of hybrid creatures: horses with a human
+  torso. They usually live in forests, surviving by hunting.
+
+  Centaurs can move very quickly on their four legs, and are excellent
+  with bows and other missile weapons; they are also reasonable at the
+  Fighting skill while being slow learners at specific weapon skills. They
+  advance quite slowly in experience level and are rather sub-average at
+  using magic. Due to their large bulk, they need a little extra food to
+  survive.
+
+Demigods:
+
+  Demigods are mortals (humans, orcs or elves, for example) with some divine
+  or angelic ancestry, however distant; they can be created by a number of
+  processes including magical experiments and the time-honoured practice of
+  interplanar miscegenation.
+
+  Demigods look more or less like members of their mortal part's race, but
+  have excellent abilities (strength, int, dex) and are extremely robust; they
+  can also draw on great supplies of magical energy. On the downside they
+  advance very slowly in experience, gain skills slightly less quickly than
+  humans, and due to their status cannot worship the various Gods and Powers
+  available to other classes of being.
+
+Spriggans:
+
+  Spriggans are small magical creatures distantly related to elves. They
+  love to frolic and cast mischevious spells.
+
+  They are poor fighters, have little physical resilience, and are terrible at
+  destructive magic - conjurations, summonings, necromancy and elemental
+  spells. On the other hand, they are excellent at other forms of magic and
+  are very good at moving silently and quickly. So great is their speed that a
+  spriggan can keep pace with a centaur.
+
+Minotaurs:
+
+  The minotaur is yet another hybrid - a human body with a bovine head. It
+  delves into the Dungeon because of its instinctive love of twisting
+  passageways.
+
+  Minotaurs are extremely good at all forms of physical combat, but are
+  awful at using any type of magic. They can wear all armour except for
+  some headgear.
+
+Demonspawn:
+
+  Demonspawn are horrible half-mortal, half-infernal creatures - the flip side
+  of the Demigods. Demonspawn can be created in any number of ways: magical
+  experiments, breeding, unholy pacts, etc. Although many demonspawn may be
+  indistinguishable from those of pure mortal stock, they often grow horns,
+  scales or other unusual features. Powerful members of this class of beings
+  also develop a range of unholy abilities, which are listed as mutations (and
+  can sometimes be activated with the 'a' command).
+
+  Demonspawn advance quite slowly in experience and learn most skills at about
+  the same rate as do Demigods. However, they are a little better at fighting
+  and much better at conjurations, summonings, necromancy and invocations.
+
+Kenku:
+
+  The Kenku are an ancient and feared race of bird-people with a legendary
+  propensity for violence. Basically humanoid with bird-like heads and clawed
+  feet, the kenku can wear all types of armour except helmets and boots.
+  Despite their lack of wings, powerful kenku can fly and very powerful
+  members of this race can stay in the air for as long as they wish to do so.
+
+  They are experts at all forms of fighting, including the magical arts of
+  combat (conjurations, summonings and, to a lesser extent, necromancy). They
+  are good at air and fire elemental magic, but poor at ice and earth magic.
+  Kenku do not appreciate any form of servitude, and so are poor at using
+  invocations. Their light avian bodies cannot sustain a great deal of injury.
+
+Merfolk:
+
+  The Merfolk are a hybrid race of half-human, half-fish that typically
+  live in the oceans and rivers and seldom come onto the land.  The merfolk
+  aren't as limited on land as some myths suggest, their tails will quickly
+  reform into legs once they leave the water (and, likewise, their legs
+  will quickly reform into a tail should they ever enter water).  Their
+  agility is often misjudged, and they tend to be surprising nimble on
+  land as well as in the water.  Experts at swimming they need not fear
+  drowning as they can quickly slip out of any encumbering armour during
+  the transformation into their half-fish form.
+
+  The Merfolk have developed their martial arts strongly on thrusting
+  and grappling, since those are the most efficient ways to fight
+  underwater.  They, therefore, prefer polearms and short swords above
+  all other weapons, although they can also use longer swords quite well.
+
+  As spellcasters, they tend to be quite good in specific areas.  Their
+  mystical relationship with water makes it easier for them to use
+  divination, poison, and ice magics... which use water occasionally
+  as a material component.  The legendary water magic of the merfolk
+  was lost in ancient times, but some of that affinity still remains.
+  The instability of their own morphogenic matrix has made them very
+  accomplished transmuters, but most other magics seem foreign to them.
+
+Note:
+
+  Some species have special abilities which can be accessed by the 'a'
+  abilities menu. Some also have physical characteristics which allow them
+  to make extra attacks using the Unarmed Combat skill.
+
+----------------------------------------------------------------------------
+                            CHARACTER CLASSES
+----------------------------------------------------------------------------
+
+In your quest, you play as one of a number of different types of characters.
+Although each has its own strengths and weaknesses, some are definitely
+easier than others, at least to begin with. The best classes for a beginner
+are probably Gladiators, fighters and Berserkers; if you really want to play
+a magician, try a Conjurer. Each class starts out with a different set of
+skills and items, but from there you can shape them as you will.
+
+Fighters:
+
+  Fighters start with a decent weapon, a suit of armour and a shield. They
+  have a good general grounding in the arts of fighting.
+
+Gladiators:
+
+  The Gladiator is trained to fight in the ring, and so is an expert in the
+  art of fighting but is not so good at anything else. In fact, Gladiators are
+  pretty terrible at anything except bashing monsters with heavy things. They
+  start with a nasty weapon, a small shield, and armour.
+
+Berserkers:
+
+  Berserkers are hardy warriors who worship Trog the Wrathful, from whom they
+  get the power to go berserk (as well as a number of other powers should they
+  prove worthy) but who forbids the use of spell magic. They enter the dungeon
+  with an axe and a set of leather armour.
+
+Hunters:
+
+  The Hunter is a type of fighter who specialises in missile weapons. A Hunter
+  starts with a bow and some arrows, as well as a hunting knife and a set of
+  leathers.
+
+Monks:
+
+  The Monk is a member of an ascetic order dedicated to the perfection of
+  one's body and soul through the discipline of the martial arts. Monks start
+  with very little equipment, but can survive without the weighty weapons and
+  spellbooks needed by other classes.
+
+Thieves:
+
+  The Thief is one of the trickiest classes to play. Thieves start out with a
+  large variety of useful skills, and need to use all of them to survive.
+  Thieves start with a short sword, some throwing darts, and light armour.
+
+Assassin:
+
+  An Assassin is a thief who is especially good at killing. Assassins are like
+  thieves in most respects, but are more dangerous in combat.
+
+Stalkers:
+
+  The stalker is an assassin who has trained in the use of poison magic.
+
+Crusaders:
+
+  The Crusader is a decent fighter who can use the magical art of enchantment
+  to become more dangerous in battle. Crusaders start out lightly armed and
+  armoured, but equipped with a book of martial spells.
+
+Reavers:
+
+  Reavers are warriors who learn the magics of destruction in order to
+  complement their deadliness in hand combat.
+
+Death Knights:
+
+  The Death Knight is a fighter who aligns him or herself with the powers of
+  death. There are two types of Death Knights: those who worship and draw
+  their abilities from the Demon-God Yredelemnul, and those who study the
+  fearsome arts of necromancy.
+
+Chaos Knights:
+
+  The Chaos Knight is a fighter who chooses to serve one of the fearsome and
+  unpredictable Gods of Chaos. He or she has two choices: Xom or Makhleb.
+  Xom is a very unpredictable (and possibly psychotic) entity who rewards
+  or punishes according to whim. Makhleb the Destroyer is a more purposeful
+  God, who appreciates destruction and offers a variety of very violent
+  powers to the faithful.
+
+Paladins:
+
+  The Paladin is a servant of the Shining One, and has many of the abilities
+  of the Fighter and the Priest. He or she enters the dungeon with a sword,
+  a shield, a robe, and a healing potion.
+
+Priests:
+
+   Priests serve either Zin, the ancient and revered God of Law, or the
+   rather less pleasant Death-God Yredelemnul. Although priests enter the
+   dungeon with a mace (as well as a priestly robe and a few healing
+   potions), this is purely the result of an archaic tradition the reason
+   for which has been lost in the mists of time; Priests are not in any way
+   restricted in their choice of weapon skills.
+
+Healers:
+
+  The Healer is a priest of Elyvilon. Healers begin with minor healing
+  powers, but can gain far greater abilities in the long run.
+
+Magicians:
+
+  The magician is not a class, but a type of class. A magician is the best
+  at using magic. Magicians start with a dagger, a robe, and a book of
+  spells which should see them through the first several levels. There are
+  various kinds of magicians:
+
+  A Wizard is a magician who does not specialise in any area of magic.
+  Wizards start with a variety of magical skills and the magic dart spell in
+  memory.
+
+  The Conjurer specialises in the violent and destructive magic of
+  conjuration spells. Like the Wizard, the Conjurer starts with the magic
+  dart spell.
+
+  The Enchanter specialises in the more subtle area of enchantment magic.
+  Although not as directly powerful as conjurations, high-level enchantments
+  offer a wide range of very handy effects. The Enchanter begins with
+  lightly enchanted weapons and armour, but no direct damage spell (since
+  enchantments does not deal with direct attacks).  Instead they begin
+  with the "confusing touch" spell and some enchanted darts, which should
+  help them out until they can use the higher level enchantment spells.
+
+  The Summoner specialises in calling creatures from this and other worlds
+  to give assistance. Although they can at first summon only very wimpy
+  creatures, the more advanced summoning spells allow summoners to call on
+  such powers as elementals and demons.
+
+  The Necromancer is a magician who specialises in the less pleasant side of
+  magic. Necromantic spells are a varied bunch, but many involve some degree
+  of risk or harm to the caster.
+
+  Elementalists are magicians who specialise in one of the four types of
+  elemental magic: air, fire, earth, or ice.
+
+    Fire Magic tends towards destructive conjurations.
+
+    Ice Magic offers a balance between destructive conjurations and
+    protective enchantments.
+
+    Air Magic provides many useful enchantments in addition to some
+    unique destructive capabilities.
+
+    Earth Magic is a mixed bag, with destructive, defensive and utility
+    spells available.
+
+  Venom mages specialise in poison magic, which is extremely useful in the
+  shallower levels of the dungeon where few creatures are immune to it. Poison
+  is especially effective when used against insects.
+
+  Transmuters specialise in transmigrations, and can cause strange changes
+  in themselves and others.
+
+  Warpers specialise in translocations, and are experts in travelling long
+  distances and positioning themselves precisely.
+
+Wanderers:
+
+  Wanderers are people who have not learned a specific trade.  Instead,
+  they've travelled around becoming "Jacks-of-all-trades, master of none".
+  They start the game with a large assortment of skills and maybe some
+  small items they picked up along the way, but other than that they're
+  pretty much on their own.  Non-human wanderers might not even know which
+  skills they have (since they haven't quite learned enough for one full
+  level), and therefore make for an additional challenge.  You shouldn't
+  expect human wanderers to be easy either, as this class is typically
+  harder to play than the other classes.

@@ -1,0 +1,20 @@
+$:LIGHTGREEN:$
+    ======================================================================    
+                Welcome to the Ax-Crawl Online Help System
+    ======================================================================    
+$:YELLOW:$
+
+          Please choose one of the following online help files:
+$:WHITE:$
+
+This "spoilers" are very incompletes and really useless, but I provide them
+as example:
+
+             (1) List of items
+             (2) List of monsters
+             (3) Combat routines
+             
+             
+***** [1] doc/tables/items.spl
+***** [2] doc/tables/monster.spl
+***** [3] doc/tables/combat.txt

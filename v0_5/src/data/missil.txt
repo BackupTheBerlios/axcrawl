@@ -1,0 +1,57 @@
+NI:7
+
+ID:0
+NM:arrow
+DG:2
+HT:6
+WG:10
+DC:An arrow.
+GD:2
+
+ID:1
+NM:bolt
+DG:2
+HT:8
+WG:12
+DC:A crossbow bolt.
+GD:2
+
+ID:2
+NM:needle
+DG:0
+HT:1
+WG:1
+DC:A needle.
+GD:2
+
+ID:3
+NM:dart
+DG:2
+HT:4
+WG:5
+DC:A small throwing weapon.
+GD:1
+
+ID:4
+NM:stone
+DG:2
+HT:4
+WG:5
+DC:A stone.
+GD:1
+
+ID:5
+NM:large rock
+DG:20
+HT:10
+WG:1000
+DC:A rock, used by giants as a missile.
+GD:1
+
+ID:6
+NM:magic ball
+DG:0
+HT:4
+WG:2
+DC:A little ball with magic properties.
+GD:5

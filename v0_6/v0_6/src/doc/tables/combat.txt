@@ -1,0 +1,605 @@
+==============================================================================
+COMBAT SYSTEM
+
+Dungeon Crawl 4b20
+AX-Crawl 1.0
+==============================================================================
+
+1.   System combats to determine base damage and accuracity.
+1.1    Classic
+1.2    New
+1.2.1    Damage
+1.2.2    Accuracity
+
+2.   Concepts
+2.1    Armed and un-armed combat
+2.2    To hit
+2.3    Heavy armour
+2.4    Unarmed attacks
+2.5    Slaying bonus
+
+3.   Calculating Damage 
+3.1    When wielding a weapon or stave
+3.2    When bare-hand
+3.3    Second attack
+
+4.   Calculating accuracity
+4.1    Regular attack
+4.2    Second attack
+
+
+1.- System combats to determine base damage and accuracity
+===========================================================
+
+
+Your damage ans accuracity base are calculated in function
+of your stats.
+
+They are two system to do this.
+
+Vainilla Crawl uses the new system.
+
+AX-Crawl lets youy choose between them in the init.txt
+or in the options screen. For more info see the document
+"Configuring AX-Crawl".
+
+
+
+1.1.- Classic
+-------------------------------------
+ 
+Your damage in function of your stats equals to your strength.
+Accuracity to your dexterity.
+
+
+
+1.2.- New
+-------------------------------------
+
+Damage and accuracity depends of the weapon and your stats. 
+They are weapons for the strong and weapons for the dexterous.
+                        
+1.2.1 Damage
+      towards_dex_avg = (you.dex - you.strength) / 2;
+      damage=(you.strength+towards_dex_avg * (10-player_weap_str_weight) / 10)
+      
+      if (damage > 11)
+         damage=78+(1D[Damage]-11)*2
+      else if (dam_stat_val < 9)
+         damage=78-(1D[(9 - damage] * 3)
+      else 
+         (when damage in [9..11]
+         damage=78+damage    
+      end if
+      
+      
+      damage=damage/78
+                  
+      For the the second attack, change the 78 by 11
+ 
+      player_weap_str_weight:
+      
+          case SHORT_BLADES  ->  2
+          case LONG_SWORDS   ->  3
+          case STAVES        ->  3, really 5 after 2-hand bonus
+          case POLEARMS      ->  3, most are 5 for 2-hands
+          case AXES          ->  6
+          case MACES_FLAILS  ->  7
+          case WHIPS         ->  2
+          case QUICK_BLADE   ->  1
+          OTHER              ->  5
+      
+          If two hands required, then +2 up to a maximun of 8
+          except for giants (spiked or normal) clubs that is 9.
+
+1.2.2 Accuracity 
+       
+      towards_dex_avg = (you.dex - you.strength) / 2;
+      to_hit=(you.strength+towards_dex_avg *(10-player_weap_str_weight) / 10)
+      to_hit=15+to_hit/2
+
+
+2.- Concepts
+===========================================================     
+
+
+2.1 Armed and un-armed combat
+-------------------------------------
+
+In a combat each one of your turns has two "rounds". 
+The first is your regular attack and the second is to try to dodge the 
+attack of the monster. 
+
+You can change this second round from doging to attack.
+But you must renounce to the shield, heavy armour and the 
+possibility to dodge the monster attack.
+
+For a second attack you can use a weapon or your base hands (or claws).
+If you don't use weapon, you exercise your unarmed combat two times,
+one for the regular attack and other for the second (if any).
+Higher values of this skill increases the probability of a second attack.
+Also, it increases the damage of the regular attack.
+
+
+
+
+2.2 To hit
+-------------------------------------
+
+To hit a monster your accuracity must be greater
+that the evasion of the monster.
+
+
+2.3 Heavy armour
+-------------------------------------
+
+They are penalties to wear heavy armour.
+Heavy armour difficults a second attack in the your turn 
+and increases the dificult to advance your stealth skill.
+
+
+a) When wearing a shield
+   
+   If you wear a shield and you.skills(SK_SHIELDS) < 1D7
+
+       heavy_armour=1
+  
+  
+   If you wear a large shield
+      
+      heavy_armour=0
+      
+      if (you.species = OGRE or TROLL or OGRE_MAGE or DRACONIAN) then
+          if you.skills(SK_SHIELDS) < 1D13  then heavy_armour=heavy_armour+1
+      else           
+        repeat 3 times:
+          if you.skills(SK_SHIELDS) < 1D13 then heavy_armour=heavy_armour+1
+
+b) Body armour
+
+   if evasion(body_armour) < 0  then
+      if 1D[you.skills(SK_ARMOUR)] < abs(evasion(body_armour) then
+            heavy_armour += random2( abs(ev_pen) ) 
+   
+   (abs(x) returns the absolute value of "x". 
+    abs(-1) returns 1
+    abs(1)  also returns 1)
+    
+c)  if bare hand
+  
+    50% of times, heavy_armour = heavy_armour * 3
+    50% of times, heavy_armour = heavy_armour * 2
+
+
+
+2.4 Unarmed attacks
+-------------------------------------
+
+
+.- if you UNENCUMBERED                            
+
+.- if you have enough skills in unarmed combat
+   
+   1D20 < you.skills[UNARMED_COMBAT]
+   
+.- if not wearing heavy armour
+
+   1D(heavy_armour) < 2
+        
+        
+THEN you cand do a second attack in the same
+turn. See section 3.3 for more info
+
+
+2.5    Slaying bonus
+-------------------------------------
+   
+You have slaying bonus to hit and to damage given by a ring of slaying.
+The bonuses are those of the ring.
+
+Also, some artifacts have pluses to hit and/or damage.
+
+  
+       
+3.- Calculating damage
+===========================================================
+
+
+3.1 When wielding a weapon or stave
+-------------------------------------
+
+a) First, calculate your base damage (see section 1. of this document).
+   
+   If you wield a weapon
+     
+      damage=damage*damage_base_of_the_weapon
+   else
+   
+        damage=damage*pluses
+        
+        pluses are for transformations, claws, 
+        confusing touch, merkfolk swiming    
+        
+   Finally, add the slaying bonus of your rings or 
+   other artifacts.
+
+b) This damage is randomized: 
+
+   damage=1D[Damage Base]
+   
+c) Skills of the  stave or the weapon
+
+   damage= damage* 25 + 1D[you.skills(weapon)];
+   damage= damage/25   
+   
+d) Skills fighting
+
+   damage= damage* 30 + 1D[you.skills(FIGHTING)];
+   damage= damage/30   
+   
+e) If mighty
+
+   damage=damage+1+1D10
+   
+f) When starving
+
+   damage=damage-1D5
+   
+g) Pluses of the weapon
+
+   if weapon_plus>-1 then
+      damage=damage+1D[PlusWeapon]
+   else
+      damage=damage+PlusWeapon  
+      
+h) Plus for not wearing a shield nor heavy armour
+   and you not getting potential unarmed attacks
+      
+   if not shield, 
+     uncumbered, 
+     1D20<you.skills(UNARMED_COMBAT)  (not unarmed attacks)     
+     not bare hand
+     uncursed weapon  
+     hands_reqd == HANDS_ONE_OR_TWO_HANDED
+   then
+      damage=damage+1D3
+      
+      
+i) Race/weapon bonus
+
+   Dwarven wielding a dwarven weapon
+   
+      damage=damage+1D3
+   
+   Hill Orc wielding a orcish weapon
+  
+     50% of times, damage=damage+1 
+     50% of times, no bonus
+    
+j) Stab bonus
+
+k) Hurting monsters
+
+   damage=damage-1D[Monster armour class]
+   
+l) Apply special powers of the weapon
+     
+
+
+3.2    When bare-hand
+-------------------------------------
+
+a) damage base = 3
+
+
+b) if you.confusing_touch damage = 0
+  (damage when simply touching is zero)
+
+c) case you.transformation
+    spider          : damage = 9;
+    blade_hands     : damage = 12 + (you.strength / 4) + (you.dex / 4)
+    statue          : damage = 12 + you.strength;
+    ice_beast       : damage = 10
+    serpent of hell : damage = 20 + you.strength
+    dragon          : damage = 20 + you.strength
+    lich            : damage = 5
+    air             : damage = 0
+  
+    not transformed:
+      (damage for claws)
+      if you wear gloves  then      
+         if you.species = TROLL then
+               damage = damage + 5 
+          else if (you.species =GHOUL
+               damage = damage+2
+          damage = damage+ (you.mutation[CLAWS] * 2)
+
+d) Skills unarmed combat
+
+   damage = damage + you.skills[UNARMED_COMBAT]
+   
+e) Merfolks
+
+   if you.species = MERFOLK and swiming
+        damage = damage+ (1D10+1D10)/2
+    
+f) Calculate your base damage plus (see section 1. of this document)
+and then add the slaying bonus of your rings.
+
+   damage=damage*Your_Damage_Base/78
+   damage=damage+slaying_bonus
+
+g) This damage is randomized: 
+
+   damage=1D[Damage Base]
+   
+      
+i) Skills fighting
+
+   damage= damage* 30 + 1D[you.skills(FIGHTING)];
+   damage= damage/30   
+   
+j) If mighty
+
+   damage=damage+1+1D10
+   
+k) When starving
+
+   damage=damage-1D5
+   
+
+l) Stab bonus
+
+m) Hurting monsters
+
+   damage=damage-1D[Monster armour class]
+ 
+
+
+3.3    Second attack
+-----------------------------------------
+
+In the proper conditions (see section 2.4), you can do a second
+attack in the same turn with a tailslap, headbutt,
+kick or punch.
+
+If not specified, you can't be transformed in:
+
+	SERPENT_OF_HELL
+	SPIDER
+	ICE_BEAST
+	DRAGON
+
+a) Type of the attack
+
+   if you.species == NAGA) 
+       second_attack = HEADBUTT;
+   else
+       50% of times second_attack = HEADBUTT 
+       50% of times second_attack = KICK
+       
+   if  (you.transformacion= DRAGON
+         or you.species=DRACONIAN
+         or you.species == MERFOLK and swimming
+         or you.mutation[STING])
+        and one_chance_in(3)) 
+   then    
+        second_attack = TAILSLAP;
+    
+   50% of times, second_attack=PUNCH
+   
+b) Damage base of the attack
+
+     b.1) Kick
+     
+          If centaurs or you.mutation[HOOVES],
+             damage=10
+          else
+             damage=5
+             
+     b.2) Headbutt
+       
+          damage = 5 + you.mutation[HORNS] * 3        
+          
+          if you.species=MINOTAUR then damage=damage+5
+          
+          If you wear a helmet then damage=damage+2
+          
+          If your helm as horns then damage=damage+3
+                  
+             
+     b.3) Tailslap       
+     
+          You can be transformed in SERPENT_OF_HELL or SPIDER
+          
+          damage=6
+          
+          if you.mutation[STINGER ] > 0) then 
+            damage=Damage+you.mutation[STINGER]*2-1
+            
+          if (you.species = GREY_DRACONIAN and you.experience_level >= 7)  
+            damage=12
+            
+     b.4) Punch
+     
+          No punching with a shield or 2-handed wpn, except staves       
+          
+          damage = 5 + you.skills[UNARMED_COMBAT] / 3
+          
+          if you.tranformation = TRAN_BLADE_HANDS then
+            damage=damage+6
+       
+c) Damage is afected by your stats
+
+   See section 1.2 of this document  
+   
+   damage=damage*Your_Damage_Base/10
+   
+d) Add slaying pluses and randomize the damage
+
+   damage=damage+slaying_pluses
+   damage=1D[damage]
+   
+e) Skills fighting
+
+   damage= damage* 40 + 1D[you.skills(FIGHTING)];
+   damage= damage/40   
+
+f) Skills unarmed combat
+
+   damage= damage*25 + 1D[you.skills(UNARMED_COMBAT)];
+   damage= damage/25   
+   
+j) If mighty
+
+   damage=damage+1+1D10
+   
+k) When starving
+
+   damage=damage-1D5
+
+   
+m) Hurting monsters
+
+   damage=damage-1D[Monster armour class]
+        
+          
+    
+4.- Calculating accuracity
+===========================================================     
+
+
+
+4.1    Regular attack
+-----------------------------------------
+
+a) Calculate hit base 
+
+   See section 1 of this document
+      
+b) Amulet of INACCURACY
+
+   to_hit = to_hit - 5
+
+
+c) if you can't see yourself, you're a little less acurate
+
+   if you.invis and player can't see invisible
+        to_hit = to_hit - 5
+        
+d) Skills fighting
+
+   to_hit = to_hit + 1D[you.skills(FIGHTING)]
+
+e) Weapon/hands/claws/unarmed Skills 
+
+   if wielding a weapon then
+     to_hit=to_hit+1D[you.skills(weapon)]
+   else 
+        (racial bonus when un-armed)
+        if you.species=TROLL then 
+           to_hit=to_hit+4
+        else if you.species=GHOUL then
+           to_hit=to_hit+2
+        
+        (unarmed skill when unarmed)
+        to_hit=to_hit+1D[you.skills(UNARMED_COMBAT)]   
+        
+f) Weapon pluses
+
+   If you wield a weapon
+   
+      to_hit=to_hit+weapon_pluses_to_hit
+      to_hit=to_hit+accuracity_base_of_the_type_of_weapon
+      
+g) Racial plues
+ 
+   if you are an elf and you wield an elf weapon
+   
+      50% of times, to_hit=to_hit+1
+      50% of times, to_hit=to_hit+2
+      
+   if you are a merfolk 
+       swiming 
+       against a non water creature
+       against a monster in water
+       against a monster not flying
+   then
+      to_hit = to_hit + 5
+      
+h) Slaying bonus of your rings
+
+      to_hit=to_hit+slaying_bonus_to_hit
+      
+            
+i) Heavy armour
+
+       to_hit=to_hit-heavy_armour
+       
+j) Randomize
+
+       to_hit=1D[to_hit]
+       
+       
+k) Plus for not wearing a shield nor heavy armour
+   and you not getting potential unarmed attacks
+      
+   if not shield, 
+     uncumbered, 
+     1D20<you.skills(UNARMED_COMBAT)  (not unarmed attacks)     
+     not bare hand
+     uncursed weapon  
+     hands_reqd == HANDS_ONE_OR_TWO_HANDED
+   then
+      to_hit=to_hit+1D3
+
+  
+l) Sure blade
+
+   if your wield a short blade and you.sure_blade then
+        to_hit= 5 + Minimun(1D[you.sure_blade],10)
+        
+        
+m) Transformations
+
+   if you.confusing_touch then
+            to_hit += 1D[you.dexterity]
+   
+   
+   Case you.transformation      
+       spider          :  hit=hit+1D10   
+       blade_hands     :  hit=hit+1D12
+       statue          :  hit=hit+1D9   
+       ice_beast       :  hit=hit+1D10
+       serpent of hell :  hit=hit+1D10   
+       dragon          :  hit=hit+1D10   
+       lich            :  hit=hit+1D10   
+       air             :  hit=0   
+        
+        
+4.2    Second attack
+-----------------------------------------        
+
+a) Accuracity Base:
+
+       to_hit = 13 + you.dex / 2 + you.skills(UNARMED_COMBAT) / 2
+                                 + you.skills(FIGHTING) / 5
+                             
+b) Amulet of INACCURACY
+
+       to_hit = to_hit - 5
+
+c) If starving
+
+      to_hit= to_hit-3
+   
+d) Slaying bonus of your rings
+
+      to_hit=to_hit+slaying_bonus_to_hit
+      
+                   
+e) Randomize
+
+      to_hit=1D[to_hit]
+
+   

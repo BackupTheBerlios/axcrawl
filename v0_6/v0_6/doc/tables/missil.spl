@@ -1,0 +1,8 @@
+MISSIL                        HIT   DAMAGE         MASS
+-------------------------------------------------------
+stone                           2      4              5
+arrow                           2      6             10
+bolt                            2      8             12
+dart                            2      4              5
+needle                          0      1              1
+large rock                     20     10           1000

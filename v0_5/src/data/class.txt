@@ -1,0 +1,272 @@
+Fighter:
+
+Fighters start with a decent weapon, a suit of armour
+and a shield. They have a good general grounding in
+the arts of fighting.
+/Fighter
+
+Gladiator:
+
+The Gladiator is trained to fight in the ring, and so
+is an expert in the art of fighting but is not so good
+at anything else. In fact, Gladiators are pretty
+terrible at anything except bashing monsters with
+heavy things.
+
+They start with a nasty weapon, a small shield,
+and armour.
+/Gladiator
+
+Berserker:
+
+Berserkers are hardy warriors who worship Trog the
+Wrathful, from whom they get the power to go berserk
+(as well as a number of other powers should they
+prove worthy) but who forbids the use of spell magic.
+
+They enter the dungeon with an axe and a set of
+leather armour.
+/Berseker
+
+Hunter:
+
+The Hunter is a type of fighter who specialises in
+missile weapons.
+
+A Hunter starts with a bow and some arrows, as well
+as a hunting knife and a set of leathers.
+/Hunter
+
+Monk:
+
+The Monk is a member of an ascetic order dedicated
+to the perfection of one's body and soul through the
+discipline of the martial arts. Monks start with very
+little equipment, but can survive without the weighty
+weapons and spellbooks needed by other classes.
+/Monk
+
+Thief:
+
+The Thief is one of the trickiest classes to play.
+Thieves start out with a large variety of useful
+skills, and need to use all of them to survive.
+
+Thieves start with a short sword, some throwing
+darts, and light armour.
+/Thief
+
+Assassin:
+
+An Assassin is a thief who is especially good
+at killing. Assassins are like thieves in most
+respects, but are more dangerous in combat.
+/Thief
+
+Stalker:
+
+The stalker is an assassin who has trained in
+the use of poison magic.
+/Stalker
+
+Crusader:
+
+The Crusader is a decent fighter who can use the
+magical art of enchantment to become more dangerous
+in battle.
+
+Crusaders start out lightly armed and
+armoured, but equipped with a book of martial spells.
+/Crusader
+
+Reaver:
+
+Reavers are warriors who learn the magics of
+destruction in order to complement their deadliness
+in hand combat.
+
+/Death Knight:
+
+The Death Knight is a fighter who aligns him or 
+herself with the powers of death. There are two 
+types of Death Knights:
+
+those who worship and draw their abilities from the
+Demon-God Yredelemnul,
+
+and those who study the fearsome arts of necromancy.
+/Death Knight
+
+Chaos Knight:
+
+The Chaos Knight is a fighter who chooses to serve
+one of the fearsome and unpredictable Gods of Chaos.
+
+He or she has two choices: Xom or Makhleb.
+
+Xom is a very unpredictable (and possibly psychotic)
+creature who rewards or punishes according to whim.
+
+Makhleb the Destroyer is a more purposeful God, who
+appreciates destruction and offers a variety of very
+violent powers to the faithful.
+/Chaos Knigh
+
+Paladin:
+
+The Paladin is a servant of the Shining One, and has
+many of the abilities of the Fighter and the Priest.
+
+He or she enters the dungeon with a sword, a shield,
+a robe, and a healing potion.
+/Paladin
+
+Priest:
+
+Priests serve either Zin, the ancient and revered
+God of Law, or the rather less pleasant Death-God
+Yredelemnul.
+
+Although priests enter the dungeon with a mace
+(as well as a priestly robe and a few healing
+potions), this is purely the result of an archaic
+tradition the reason for which has been lost in the
+mists of time. Priests are not in any way
+restricted in their choice of weapon skills.
+/Priest
+
+Healer:
+
+The Healer is a priest of Elyvilon. Healers begin
+with minor healing powers, but can gain far
+greater abilities in the long run.
+/Healer
+
+Magician:
+
+The magician is not a class, but a type of class.
+A magician is the best at using magic. Magicians
+start with a dagger, a robe, and a book of
+spells which should see them through the first
+several levels. There are various kinds
+of magicians:
+/Magician
+
+Wizard:
+
+A Wizard is a magician who does not specialise in
+any area of magic.
+
+Wizards start with a variety of magical skills and the
+magic dart spell in memory.
+/Wizard
+
+Conjurer:
+
+The Conjurer specialises in the violent and 
+destructive magic of conjuration spells. 
+Like the Wizard, the Conjurer starts with 
+the magic dart spell.
+/Conjurer
+
+Enchanter:
+
+The Enchanter specialises in the more subtle area
+of enchantment magic.
+
+Although not as directly powerful as conjurations,
+high-level enchantments offer a wide range of very
+handy effects. The Enchanter begins with lightly
+enchanted weapons and armour, but no direct damage
+spell (since enchantments does not deal with direct
+attacks). Instead they begin  with the
+"confusing touch" spell and some enchanted darts,
+which should help them out until they can use the
+higher level enchantment spells.
+/Enchanter
+
+Summoner:
+
+The Summoner specialises in calling creatures
+from this and other worlds to give assistance.
+Although they can at first summon only very wimpy
+creatures, the more advanced summoning spells allow
+summoners to call on such powers as elementals and
+demons.
+/Summoner
+
+Necromancer:
+
+The Necromancer is a magician who specialises in
+the less pleasant side of magic. Necromantic spells
+are a varied bunch, but many involve some degree
+of risk or harm to the caster.
+/Necromancer
+
+
+Fire Elementalis:
+
+Fire Elementalists are magicians who specialise
+in one of the four types of elemental magic: fire
+/Fire Elementalist
+
+
+Ice Elementalist:
+
+Ice Elementalists are magicians who specialise 
+in one of the four types of elemental magic: ice
+/Ice Elementalist
+
+
+Air Elementalist:
+
+Air Elementalists are magicians who specialise 
+in one of the four types of elemental magic: air
+/Air Elementalist
+
+
+Earth Elemental:
+
+Earth Elementalists are magicians who specialise
+in one of the four types of elemental magic: earth
+/Fire Elementalist
+
+Venom Mage:
+
+Venom mages specialise in poison magic, which is
+extremely useful in the  shallower levels of the
+dungeon where few creatures are immune to it. Poison
+is especially effective when used against insects.
+/Venom Mage
+
+Transmuter:
+
+Transmuters specialise in transmigrations, and can
+cause strange changes in themselves and others.
+/Transmuter
+
+Warper:
+
+Warpers specialise in translocations, and are experts
+in travelling long distances and positioning 
+themselves precisely.
+/Warper
+
+Wanderer:
+
+Wanderers are people who have not learned a specific
+trade. Instead, they've travelled around become a
+"Jack-of-all-trades, master of none".
+
+They start the game with a large assortment of skills
+and maybe some small items they picked up along the
+way, but other than that they're pretty much on their
+own.  Non-human wanderers might not even know which
+skills they have (since they haven't quite learned
+enough for one full level), and therefore make for
+an additional challenge... although, you
+shouldn't expect human wanderers to be easy either
+
+(this class is typically harder to play than the 
+other classes).
+/Wanderer  
