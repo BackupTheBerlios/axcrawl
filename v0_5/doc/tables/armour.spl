@@ -1,0 +1,35 @@
+ARMOUR                       AC   EVASION       MASS
+----------------------------------------------------
+robe                            1      0          60
+leather armour                  2     -1         150
+ring mail                       4     -2         300
+scale mail                      5     -2         400
+chain mail                      6     -3         450
+splint mail                     8     -5         550
+banded mail                     7     -4         500
+plate mail                      9     -5         650
+shield                          0      0         100
+cloak                           1      0          20
+helmet                          1      0          80
+pair of gloves                  1      0          20
+pair of boots                   1      0          40
+buckler                         0      0          50
+large shield                    0      0         250
+dragon hide                     2     -2         220
+troll hide                      1     -1         180
+crystal plate mail             16     -8         1200
+dragon armour                   8     -2         220
+troll leather armour            3     -1         180
+ice dragon hide                 2     -2         220
+ice dragon armour               9     -2         220
+steam dragon hide               0      0         120
+steam dragon armour             3      0         120
+mottled dragon hide             1     -1         150
+mottled dragon armour           5     -1         150
+storm dragon hide               2     -5         400
+storm dragon armour            10     -5         400
+gold dragon hide                2    -10         1100
+gold dragon armour             13    -10         1100
+animal skin                     1      0         100
+swamp dragon hide               1     -2         200
+swamp dragon armour             7     -2         200

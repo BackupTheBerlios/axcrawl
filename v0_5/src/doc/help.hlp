@@ -1,0 +1,33 @@
+$:LIGHTGREEN:$
+    ======================================================================    
+                Welcome to the Ax-Crawl Online Help System
+    ======================================================================    
+$:YELLOW:$
+
+          Please choose one of the following online help files:
+$:WHITE:$
+            (1) General Information          (general.txt)
+            (2) Creating a Character         (birth.txt)
+            (3) Commands and Options         (command.txt)
+            (4) Playing Dungeon Crawl        (playing.txt)
+            
+            (5) What is new in this version  (axnews_v10.txt)
+             
+            (8) Spoilers                     (spoilers.hlp)     
+            (9) Credits                      (intro.txt) 
+            (0) Using help                   (help.txt)  
+
+
+
+
+            ESC: leave help        ?: return to this screen
+ 
+
+***** [1] doc\general.txt
+***** [2] doc\birth.txt
+***** [3] doc\command.txt
+***** [4] doc\playing.txt
+***** [5] doc\axnews_v10.txt
+***** [8] doc\spoilers.hlp
+***** [9] data\intro.txt
+***** [0] doc\help.txt

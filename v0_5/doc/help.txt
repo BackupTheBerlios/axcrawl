@@ -1,0 +1,20 @@
+The help system accepts the following commands:
+
+Esc   : leave the system help and return to the game
+?     : return to the main help
+
+!     : toggle case sensitive on/off
+
+&     : highlite some text
+/     : search 
+#     : go to specific line
+%     : show specific file
+
+=     : back up one line
+-     : back up one full page
++     : advance one half page
+_     : back up one half page
+
+Enter : advance one line
+space : advance one full page
+

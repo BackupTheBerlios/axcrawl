@@ -1,0 +1,64 @@
+a    : use special ability
+d(#) : drop (exact quantity of) items
+e    : eat food                 
+f    : fire first available missile
+i    : inventory listing
+m    : check skills
+o/c  : open / close a door
+p    : pray
+q    : quaff a potion
+r    : read a scroll or book
+s    : search adjacent tiles
+t    : throw/shoot an item
+v    : view item description
+w    : wield an item
+x    : examine visible surroundings
+z    : zap a wand
+A    : list abilities/mutations
+C    : check experience
+D    : dissect a corpse
+I    : invoke power of wielded item
+M    : memorise a spell
+O    : view level map
+P/R  : put on / remove jewelry
+Q    : quit without saving
+S    : save game and exit
+V    : version information
+W/T  : wear / take off armour
+X    : examine level map
+Z    : cast a spell
+,/g  : pick up items
+./del: rest one turn
+</>  : ascend / descend a staircase
+;    : examine occupied tile
+\    : check item knowledge
+                                                      
+&    : invoke your Wizardly powers 
+       (only if compiled with wizard options)
+                                                      
++/-  : scroll up/down [level map only
+!    : shout or command allies
+^    : describe religion
+@    : status
+#    : dump character to file
+=    : reassign inventory/spell letters
+\'    : wield item a, or switch to b
+                                                      
+`    : add macro
+~    : save macros
+                                                      
+]    : display worn armour
+\"    : display worn jewelry
+
+Shift & direction   : long walk
+Shift & 5 on keypad : rest 100 turns
+
+Ctrl-P : see old messages                                                      
+Ctrl-S : Redraw screen
+
+Ctrl-R : Resting                                                      
+
+Ctrl-A : toggle autopickup
+
+Ctrl-X : Save game without query
+Ctrl & dir : door; untrap; attack

@@ -1,0 +1,449 @@
+Human:
+
+  Humans tend to be hardworking and
+  industrious, and learn new things
+  quickly.
+  The human race is the most versatile
+  of all the species available to
+  players.
+  Humans advance quickly in levels and
+  have equal abilities in all skills.
+
+  Humans can also be of any class.
+/Human:
+
+Elf:
+
+  Elves are especially good at using
+  those skills which require a degree
+  of finesse, such as stealth,
+  sword-fighting and archery, but tend
+  to be poor at using brute force and
+  inelegant forms of combat. They find
+  heavy armour uncomfortable, and make
+  the finest, lightest armours to be found
+  anywhere.
+  Elves are particularly good at using
+  elven weapons.
+
+  Are good at using enchantments and air
+  elemental magic and are poor at invoking
+  the powers of earth and death
+
+  They have slightly fewer HP and
+  slightly more magic than humans, and advance
+  in experience a bit more slowly.
+/Elf
+
+High Elf:
+
+  High elves are advance in levels very
+  slowly, requiring half again as much experience
+  as do humans.
+/High Elf:
+
+Grey Elf:
+
+  Grey elves also advance slowly, but not as slowly
+  as high elves. They excel at using short and long
+  swords and bows, but are poor at other fighting
+  skills. They are excellent at all forms of magic
+  except for necromancy.
+/Grey Elf
+
+Deep Elf:
+
+  The deep elves are an elven race who long ago fled
+  the overworld to live in darkness underground.
+  There they developed their mental powers, evolving a
+  natural gift for all forms of magic
+  (including necromancy and earth magic),
+  and adapted physically to their new environment,
+  becoming shorter and weaker than other elves and
+  losing all colouration. They are poor at
+  hand-to-hand combat but excellent at fighting
+  from a distance.
+/Deep Elf
+
+Sludge Elf:
+
+  Sludge elves are a somewhat degenerate race
+  of elves.
+
+  They are mirror images of normal elves in some
+  respects: they have no special proficiency
+  with bows or swords (long or short), nor do
+  they have any aptitude in the traditional areas
+  of high  elven magic (enchantments, conjurations
+  and divinations). On the other hand, they are
+  superlative transmuters, and are comfortable
+  dabbling in necromantic, poison
+  and elemental magic. As fighters they are
+  often more dangerous unarmed than armed.
+  They advance in level slightly faster than
+  their common brethren.
+/Sludge Elf
+
+Hill Dwarf:
+
+  Dwarves are short, hardy people that love to fight.
+
+  Their armour and weapons are very well-crafted
+  and much more durable. Dwarves are particularly
+  dangerous when using dwarven weaponry.
+
+  Hill dwarves are extremely robust but are poor
+  at using magic. They are excellent at hand
+  combat, especially favouring axes or
+  bludgeoning weapons, and are good at using
+  armour and shields, but are poor at missile combat
+  or at using polearms.
+
+  The only forms of magic which they can use
+  with even a minimal degree of aptitude are earth,
+  fire and conjurations.
+
+  They advance in levels as fast a common elves.
+/Hill Dwarf
+
+Mountain Dwarf:
+
+  Mountain dwarves come from the larger, more
+  civilised communities of the mountains. They
+  advance slightly more quickly than hill dwarves
+  and are almost as robust while having similar
+  aptitudes, but are slightly worse at fighting
+  while being slightly better at more civilised
+  pursuits.
+/Mountain Dwarf
+
+Halfling:
+
+  Halflings, who are named for being about half
+  the size of a human, live in small villages.
+  They live simple lives, and have simple
+  interests. Some times a particularly restless
+  halfling will leave his or her village in search
+  of adventure.
+
+  Halflings are very small and are among the least
+  robust of any character species. Although only
+  average at most fighting skills, they can use
+  short blades well and are good at all forms of
+  missile combat. They are also very stealthy and
+  good at dodging and stabbing, but are poor
+  at magic (except enchantments and, for some
+  reason, translocations). They advance in levels
+  as rapidly as humans. Halflings cannot
+  wield large weapons.
+/Halfling
+
+Gnome:
+
+  Gnomes are an underground-dwelling race of
+  creatures, related to the dwarves but even
+  more closely in touch with the earth.
+
+  They are quite small, and share many of their
+  characteristics with halflings
+  (except for the great agility), although they
+  advance slightly more slowly in experience levels.
+  They are okay at most skills, but excellent at
+  earth elemental magic and very poor at air magic.
+
+  Occasionally they can use their empathy with the
+  earth to sense their surroundings; this ability
+  increases in power as they gain experience
+  levels.
+/Gnome
+
+Hill Orc:
+
+  Hill orcs are orcs from the upper world who,
+  jealous of the riches which their cousins the
+  cave orcs possess below the ground, descend in
+  search of plunder and adventure.
+
+  Hill orcs are as robust as the hill dwarves, but
+  have  very low reserves of magical energy. Their
+  forte is brute-force fighting, and they are skilled
+  at using most hand weapons (with the exception of
+  short blades, at which they are only fair), although
+  they are not particularly good at using missile
+  weapons. They prefer to use their own weapons.
+  Orcs are poor at using most types of magic with the
+  exception of conjurations, necromancy, and
+  earth and fire elemental magic. They advance as
+  quickly as humans.
+/Hill Orc
+
+Kobold:
+
+  Kobolds are small, ugly creatures with few redeeming
+  features. They are not the sort of people you would
+  want to spend much time with, unless you happen to
+  be a kobold yourself.
+
+  They have poor abilities and have similar aptitudes
+  to halflings, without the excellent agility.
+  However, they are better than halflings at using
+  some types of magic, particularly summonings and
+  necromancy.
+
+  They often live as scavengers, surviving on
+  carrion, but are carnivorous and can only eat meat.
+  They advance in levels as quickly as humans.
+/Kobold
+
+
+Mummy:
+
+  Mummies are undead creatures naturally immune to
+  poisons and negative energy, have little warmth
+  left to be affected by cold, and are not susceptible
+  to reductions in their physical or mental abilities.
+
+  Mummies progress very slowly in level, half again
+  as slow as humans, except fighting,
+  spellcasting and necromancy. As they increase in
+  level they become increasingly in touch with the
+  powers of death, but cannot use some types of
+  necromancy which only affect living creatures. The
+  side effects of necromantic magic tend to be
+  relatively harmless to mummies.
+
+  However, their dessicated bodies are highly
+  flammable. They also do not need to eat or drink,
+  and in any case are incapable of doing so.
+/Mummy
+
+Ghoul:
+
+  Ghouls are horrible undead creatures, slowly rotting
+  away. They have little warmth left to be affected by
+  cold, and are not susceptible to reductions in their
+  physical or mental abilities.
+
+  Although ghouls can sleep in their graves for
+  years on end, when they rise to walk among the
+  living they must eat flesh to survive. Raw flesh is
+  preferred, especially rotting or tainted meat, and
+  ghouls gain strength from consuming it.
+
+  They aren't very good at doing most things, although
+  they make decent fighters and, due to their contact
+  with the grave, can use ice, earth and death magic
+  without too many difficulties.
+/Ghoul
+
+Naga:
+
+  The Naga are a race of hybrids: humanoid from the
+  waist up, with a large snake tail instead of legs.
+
+  They are reasonably good at most things and advance
+  in experience levels at a decent rate. They are
+  naturally immune to poisons, can see invisible
+  creatures, and have tough skin, but their tails are
+  relatively slow and cannot move them around as
+  quickly as can other creatures' legs (this only
+  affects their movement rate; all other actions
+  are at normal speed). Their body shape also prevents
+  them from gaining full protection from most armour.
+
+  Every now and then, a naga can spit poison; the
+  range, accuracy and damage
+  of this poison increases with the naga's
+  experience level.
+/Naga:
+
+Ogres and Ogre Mages:
+
+Ogre:
+
+  Ogres are huge, chunky creatures related to orcs.
+  They are terrible monsters who usually live to do
+  nothing more than smash, smash, smash, and destroy.
+
+  They have great physical strength, but are bad at
+  almost everything except fighting and learn quite
+  slowly. Because of their large size they can only
+  wear loose robes, cloaks and animal skins.
+
+  Although ogres can eat almost anything, their size
+  means that they need to do so more frequently than
+  smaller folk.
+/Ogre
+
+Ogre-Mage:
+
+  Ogre-mages are a separate race of ogres who are 
+  unique among the beefier species in their ability 
+  to use magic, especially enchantments. Although
+  slighter than their common ogre relatives they 
+  nevertheless have great strength and can survive 
+  a lot of punishment.
+
+  They advance in level as slowly as high elves.
+/Ogre
+
+Troll:
+
+  Trolls are like ogres, but even nastier. They have
+  thick, knobbly skins of any colour from putrid green
+  to mucky brown and their mouths are full of
+  ichor-dripping fangs.
+
+  They can rip creatures apart with their claws, and
+  regenerate very quickly from even the most terrible
+  wounds. They learn very slowly indeed - even  more
+  slowly than high elves - and need a great amount
+  of food to survive.
+/Troll
+
+Draconian:
+
+  Draconians are a race of human-dragon hybrids:
+  humanoidin form and approximately human-sized,
+  with wings, tails and scaly skins.
+
+  Draconians start out in an immature form with brown
+  scales, but as they grow in power they take on a
+  variety of colours.
+
+  Some types of draconians have breath weapons.
+
+  Draconians advance very slowly in level, but are
+  reasonably good at all skills but armour
+  (most types of which they cannot wear)
+  and missile weapons.
+/Draconian
+
+Centaur:
+
+  The Centaurs are another race of hybrid creatures:
+  horses with a human torso. They usually live in
+  forests, surviving by hunting.
+
+  Centaurs can move very quickly on their four legs,
+  and  are excellent with bows and other missile
+  weapons; they are also reasonable at the Fighting
+  skill while being slow learners at specific weapon
+  skills.  They advance quite slowly in experience
+  level and are rather sub-average at using magic.
+
+  Due to their large bulk, they need a little extra
+  food to survive.
+/Centaur
+
+Demigod:
+
+  Demigods are mortals (humans, orcs or elves,
+  for example) with some divine or angelic ancestry,
+  however distant; they can be created by a number of
+  processes including magical experiments and the
+  time-honoured practice of interplanar miscegenation.
+
+  Demigods look more or less like members of their
+  mortal part's race, but  have excellent abilities
+  (strength,int, dex) and are extremely robust; they
+  can also draw on great supplies of magical energy.
+  On the downside they advance very slowly in
+  experience, gain skills slightly less quickly than
+  humans, and  due to their status cannot worship
+  the various Gods and Powersavailable to other
+  classes of being.
+/Demigod
+
+Spriggan:
+
+  Spriggans are small magical creatures distantly
+  related to elves. They love to frolic and cast
+  mischevious spells. They are poor fighters, have
+  little physical resilience, and are terrible at
+  destructive magic - conjurations, summonings,
+  necromancy and elemental spells. On the other
+  hand, they are excellent at other forms of magic
+  and are very good at moving silently and quickly.
+  So great is their speed that a spriggan can keep
+  pace with a centaur.
+/Spriggan
+
+Minotaur:
+
+  The minotaur is yet another hybrid - a human body
+  with a bovine head. It delves into the Dungeon
+  because of its instinctive love of twisting
+  passageways.
+
+  Minotaurs are extremely good at all forms of
+  physical combat, but are awful at using any type
+  of magic.
+
+  They can wear all armour except for some headgear.
+/Minotaur
+
+Demonspawn:
+
+  Demonspawn are horrible half-mortal, half-infernal
+  creatures - the flip side of the Demigods.
+
+  Demonspawn can be created in any number of ways:
+  magical experiments, breeding, unholy pacts, etc.
+  Although many demonspawn may be indistinguishable
+  from those of pure mortal stock, they often grow
+  horns, scales or other unusual features. Powerful
+  members of this class of beings also develop a
+  range of unholy abilities (mutations).
+
+  Demonspawn advance quite slowly in experience and
+  learn most skills at about the same rate as do
+  Demigods. However, they are a little better at
+  fighting and much better at conjurations,
+  summonings, necromancy and invocations.
+/Demonspawn
+
+Kenku:
+
+  The Kenku are an ancient and feared race of
+  bird-people with a legendary propensity for
+  violence. Basically  humanoid with bird-like
+  heads and clawed feet, the kenku can wear all
+  types of armour except helmets and boots.
+
+  Powerful kenku can fly and very powerful members
+  of this race can stay in the air for as long as
+  they wish to do so.
+
+  They are experts at all forms of fighting, including
+  the magical arts of combat (conjurations, summonings
+  and, to a lesser extent, necromancy). They are good
+  at air and fire elemental magic, but poor at ice and
+  earth magic.
+
+  Kenku do not appreciate any form of servitude, and
+  so are poor at using invocations. Their light avian
+  bodies cannot sustain a great deal of injury.
+/Kenku
+
+Merfolk:
+
+  The Merfolk are a hybrid race of half-human,
+  half-fish. Their tails will quickly reform into
+  legs once they leave the water.T hey tend to be
+  surprising nimble on land as well as in the water.
+  They can quickly slip out of any encumbering armour
+  during the transformation into their half-fish form.
+
+  The Merfolk have developed their martial arts
+  on thrusting and grappling prefering polearms and
+  short swords above all other weapons,although they
+  can also use longer swords quite well.
+
+  Their  mystical relationship with water makes it
+  easier for them to use divination, poison, and
+  ice magics...The instability of their own 
+  morphogenic matrix has made them very accomplished
+  transmuters, but most other magics seem foreign 
+  to them.
+/Merfolk

@@ -1,0 +1,109 @@
+NI:18
+ID:0
+NM:bottled efreet
+GD:400
+DC:A mighty efreet, captured by some wizard and bound into a bronze flask. Breaking the flask's seal will release it to wreak havoc - possibly on you. $
+
+
+ID:1
+NM:crystal ball of seeing
+GD:500
+DC:A magical device which allows one to see the layout of their surroundings. It requires a degree of magical ability to be used reliably, otherwise it can produce unpredictable and possibly harmful results. $
+
+
+ID:2
+NM:air elemental fan
+GD:500
+DC:A magical device for summoning air elementals. It is rather unreliable, and usually requires several attempts to function correctly. Using it carries an element of risk, which is reduced if one is skilled in the appropriate elemental magic. $
+
+
+ID:3
+NM:lamp of fire
+GD:500
+DC:A magical device for summoning fire elementals. It is rather unreliable, and usually requires several attempts to function correctly. Using it carries an element of risk, which is reduced if one is skilled in the appropriate elemental magic.$
+
+
+ID:4
+NM:stone of earth elementals
+GD:500
+DC:A magical device for summoning earth elementals. It is rather unreliable, and usually requires several attempts to function correctly. Using it carries an element of risk, which is reduced if one is skilled in the appropriate elemental magic.$
+
+
+ID:5
+NM:lantern of shadows
+GD:500
+DC:An unholy device which calls on the powers of darkness to assist its user, with a small cost attached. $
+
+
+ID:6
+NM:horn of Geryon
+GD:5000
+DC:The horn belonging to Geryon, guardian of the Vestibule of Hell. Legends say that a mortal who desires access into one of the Hells must use it in order to gain entry. $
+
+
+ID:7
+NM:box of beasts
+GD:500
+DC:A magical box containing many wild beasts. One may allow them to escape by opening the box's lid. $
+
+
+ID:8
+NM:deck of wonders
+GD:500
+DC:A deck of highly mysterious and magical cards. One may draw a random card from it, but should be prepared to suffer the possible consequences! $
+
+
+ID:9
+NM:deck of summonings
+GD:500
+DC:A deck of magical cards, depicting a range of weird and wondrous creatures. $
+
+
+ID:10
+NM:crystal ball of energy
+GD:500
+DC:A magical device which can be used to restore one's reserves of magical energy, but the use of which carries the risk of draining all of those energies completely. This risk varies inversely with the proportion of their maximum energy which the user possesses; a user near his or her full potential will find this item most beneficial. $
+
+
+ID:11
+NM:empty ebony casket
+GD:20
+DC:A magical box after its power is spent. $
+
+
+ID:12
+NM:crystal ball of fixation
+GD:20
+DC:A dangerous item which hypnotises anyone so unwise as to gaze into it, leaving them helpless for a significant length of time. $
+
+
+ID:13
+NM:disc of storms
+GD:2000
+DC:This extremely powerful item can unleash a destructive storm of electricity. It is especially effective in the hands of one skilled in air elemental magic, but cannot be used by one who is not a conductor. $
+
+
+ID:14
+NM:buggy rune of Zot
+GD:5000
+DC:A talisman which allows entry into Zot's domain. $
+
+
+ID:15
+NM:deck of tricks
+GD:500
+DC:A deck of magical cards, full of amusing tricks. $
+
+
+ID:16
+NM:deck of power
+GD:500
+DC:A deck of powerful magical cards. $
+
+
+ID:17
+NM:portable altar of Nemelex
+GD:500
+DC:An altar to Nemelex Xobeh, built for easy assembly and disassembly. Invoke it to place it on a clear patch of floor, then pick it up again when you've finished. $
+
+

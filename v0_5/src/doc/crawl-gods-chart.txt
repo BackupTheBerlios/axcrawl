@@ -1,0 +1,156 @@
+This is a small spoiler for Crawl 3.20; it indicates which gods like
+or dislike which actions, in a small and compact form, for those
+players, who aren't already familiar with the various deities. I've
+also included some notes on the gifts the gods may grant and the
+effects of high piety. All this is from the source; I hope I've read
+the relevant parts correctly.
+
+I hope some may find this useful. Additions and corrections are
+welcome.
+
+The gods:
+
+1: Zin
+2: The Shining One
+3: Kikubaaqudgha
+4: Yredelemnul
+5: Xom
+6: Vehumet
+7: Okawaru
+8: Makhleb
+9: Sif Muna
+A: Trog
+B: Nemelex Xobeh
+C: Elyvilon
+
++: may have positive effect on your piety;
+-: may have negative effect on your piety.
+
+
+                                           |1|2|3|4|5|6|7|8|9|A|B|C|
+killed a living monster in god's name      | | |+|+| |+|+|+| |+| |-|
+killed an undead in god's name             |+|+| | | |+| |+| | | | |
+killed a demon in god's name               |+|+| | | |+| |+| | | | |
+killed an angel (any time)                 |-|-| | | | | | | | | |-|
+killed an angel in god's name              |-|-| | | | | | | | | |-|
+hacked up a corpse in god's name           |-|-|+| | | |+|+| |+| |-|
+offered inanimate stuff at an altar        |+|+|+|+|+|+|+|+|+|+|+|+|
+undead slaves killed a living thing        | | |+|+| |+| | | | | | |
+any servants kill anything                 | | | | | |+| | | | | | |
+cards                                      | | | | | | | | | | |+| |
+using necromancy (spell or device)         |-|-| | | | | | | | | |-|
+using unholy stuff (eg call imp,           |-|-| | | | | | | | | |-|
+        summon horrible things)            | | | | | | | | | | | | |
+killing in the name of peaceful diety      | | | | | | | | | | | |-|
+attacking holy things                      |-|-| | | | | | | | | |-|
+attacking friendly                         |-|-| | | | |-| | | | |-|
+allowing friendly to die                   |-|-| | | | |-| | | | |-|
+butchering in the name of peaceful diety   |-|-| | | | | | | | | |-|
+stabbing                                   | |-| | | | | | | | | | |
+spellcasting                               | | | | | | | | | |-| | |
+sacrificing of corpses or valuable items   |+| | | | | |+|+| | |+| |
+sacrificing of valuable items              | | | | | | | | |+| | | |
+sacrificing of corpses                     | | |+| | | | | | |+| | |
+sacrificing of weapons or ammunition       | | | | | | | | | | | |+|
+
+Note that the effects are not cumulative; if you kill an angel in the
+name of Elyvion, you will be punished only once, as far as I
+understand the source.
+
+
+What items can you get from the gods:
+
+Trog: Weapons.
+
+Okawaru: Jewellery or weapons.
+
+Yredelemnul: Undead servants.
+
+Kikubaaqudgha: Book of Necromancy, Book of Death, Book of Unlife,
+         Necronomicon; the first one that the character doesn't have.
+
+Vehumet: 
+ If the skill in Conjurations is better than the skill in Summoning:
+   Book of Conjurations, Book of Annihilations, Book of Summonings,
+   Book of Invocations, Book of Demonology.
+ else:
+   Book of Summonings, Book of Invocations, Book of Demonology,
+   Book of Conjurations, Book of Annihilations.
+
+Sif Muna: Spellbooks.
+
+Nemex: Cards.
+
+
+Effects of high piety:
+
+Zin:
+ You can now repel the undead.
+ You can now call upon Zin for minor healing.
+ You can now call a plague of pestilential beasts upon your enemies!
+ You can now speak a Holy Word.
+ You can now summon a guardian angel.
+
+The Shining One:
+ You can now repel the undead.
+ You can now smite your foes.
+ You can now dispel the undead.
+ You can now hurl bolts of divine anger.
+ You can now summon a divine warrior!
+
+Kikubaaqudgha:
+ You can now recall your undead servants at will.
+ You now have some protection from the side-effects of necromantic
+	magic.
+ You can now permanently enslave the undead.
+ You can now summon an emissary of Death! /* ie a reaper */
+
+Yredelemnul:
+ You can now animate corpses.
+ You can now recall your undead slaves.
+ You can now animate whole legions of the undead.
+ You can now drain life from all living things around you.
+ You can now control the undead.
+
+Vehumet:
+ You can gain power by killing in Vehumet's name, or by your servants'
+	kills.
+ Your destructive magics cast in Vehumet's name will rarely fail.
+ During prayer you are protected from summoned creatures.
+ You can channel ambient magical energy for your own uses.
+
+Okawaru:
+ You can now give your body great, if temporary, strength.
+ You can now call upon Okawaru for minor healing.
+ You can now haste yourself.
+
+Makhleb:
+ You can now gain power by killing in Makhleb's name.
+ You can now call on Makhleb's destructive powers.
+ You can now summon a lesser servant of Makhleb.
+ You can now call on the greater of Makhleb's destructive powers.
+ You can now summon a greater servant of Makhleb.
+
+Sif Muna:
+ You can now forget spells at will.
+ You now have some protection from the side-effects of magic.
+
+Trog:
+ You can now go berserk at will.
+ You can now give your body great, if temporary, strength.
+ You can now haste yourself.
+
+Elyvilon:
+ You now have minor healing powers.
+ You now have the power to cure poison, disease and decay.
+ You now have more powerful healing abilities.
+ You have gained the power of Restoration.
+ You now have incredible healing powers.
+
+
+-- 
+Philipp Lucas
+phlucas@online-club.de
+
+
+--------------------------------------------------------------------------------

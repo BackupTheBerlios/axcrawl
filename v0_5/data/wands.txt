@@ -1,0 +1,121 @@
+NI:20
+ID:0
+NM:wand of flame (0)
+GD:3
+DC:A magical device which throws little bits of flame. Unfortunately, it has no charges left. 
+
+
+ID:1
+NM:wand of frost (0)
+GD:3
+DC:A magical device which throws little bits of frost. Unfortunately, it has no charges left. 
+
+
+ID:2
+NM:wand of slowing (0)
+GD:3
+DC:A magical device which casts enchantments to slow down the actions of a creature at which it is directed. Unfortunately, it has no charges left. 
+
+
+ID:3
+NM:wand of hasting (0)
+GD:3
+DC:A magical device which casts enchantments to speed up the actions of a creature at which it is directed. Unfortunately, it has no charges left. 
+
+
+ID:4
+NM:wand of magic darts (0)
+GD:3
+DC:A magical device which throws small bolts of destructive energy. Unfortunately, it has no charges left. 
+
+
+ID:5
+NM:wand of healing (0)
+GD:3
+DC:A magical device which can heal a creature's wounds. Unfortunately, it has no charges left. 
+
+
+ID:6
+NM:wand of paralysis (0)
+GD:3
+DC:A magical device which can render a creature immobile. Unfortunately, it has no charges left. 
+
+
+ID:7
+NM:wand of fire (0)
+GD:3
+DC:A magical device which throws great bolts of fire. Unfortunately, it has no charges left. 
+
+
+ID:8
+NM:wand of cold (0)
+GD:3
+DC:A magical device which throws great bolts of cold. Unfortunately, it has no charges left. 
+
+
+ID:9
+NM:wand of confusion (0)
+GD:3
+DC:A magical device which induces confusion and bewilderment in a target creature. Unfortunately, it has no charges left. 
+
+
+ID:10
+NM:wand of invisibility (0)
+GD:3
+DC:A magical device which hides a creature from the view of others. Unfortunately, it has no charges left. 
+
+
+ID:11
+NM:wand of digging (0)
+GD:3
+DC:A magical device which drills tunnels through unworked rock. Unfortunately, it has no charges left. 
+
+
+ID:12
+NM:wand of fireball (0)
+GD:3
+DC:A magical device which throws exploding blasts of flame. Unfortunately, it has no charges left. 
+
+
+ID:13
+NM:wand of teleportation (0)
+GD:3
+DC:A magical device which causes a creature to be randomly translocated. Unfortunately, it has no charges left. 
+
+
+ID:14
+NM:wand of lightning (0)
+GD:3
+DC:A magical device which throws great bolts of lightning. Unfortunately, it has no charges left. 
+
+
+ID:15
+NM:wand of polymorph other (0)
+GD:3
+DC:A magical device which causes a creature to be transmogrified into another form. It doesn't work on you, so don't even try. Unfortunately, it has no charges left. 
+
+
+ID:16
+NM:wand of enslavement (0)
+GD:3
+DC:A magical device which causes slavish obedience in a creature. Unfortunately, it has no charges left. 
+
+
+ID:17
+NM:wand of draining (0)
+GD:3
+DC:A magical device which throws a bolt of negative energy which drains the life essences of living creatures, but is useless against the undead. Unfortunately, it has no charges left. 
+
+
+ID:18
+NM:wand of random effects (0)
+GD:3
+DC:A magical device which can produce a variety of effects. Unfortunately, it has no charges left. 
+
+
+ID:19
+NM:wand of disintegration (0)
+GD:3
+DC:A magical device which disrupts the physical structure of an object, especially a creature's body. Unfortunately, it has no charges left. 
+
+

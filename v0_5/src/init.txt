@@ -1,0 +1,3 @@
+ax_allow_all_combos = true
+ax_no_stair_delay = true
+ax_show_dam = true

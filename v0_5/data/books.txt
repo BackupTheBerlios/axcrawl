@@ -1,0 +1,289 @@
+NI:48
+
+ID:0
+NM:book of Minor Magic
+GD:200
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:1
+
+ID:1
+NM:book of Minor Magic
+GD:200
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:1
+
+ID:2
+NM:book of Minor Magic
+GD:200
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:1
+
+ID:3
+NM:book of Conjurations
+GD:300
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:3
+
+ID:4
+NM:book of Conjurations
+GD:300
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:3
+
+ID:5
+NM:book of Flames
+GD:350
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:4
+
+ID:6
+NM:book of Frost
+GD:350
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:4
+
+ID:7
+NM:book of Summonings
+GD:1050
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:18
+
+ID:8
+NM:book of Fire
+GD:650
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:10
+
+ID:9
+NM:book of Ice
+GD:650
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:10
+
+ID:10
+NM:book of Surveyances
+GD:200
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:1
+
+ID:11
+NM:book of Spatial Translocations
+GD:650
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:10
+
+ID:12
+NM:book of Enchantments
+GD:500
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:7
+
+ID:13
+NM:Young Poisoner's Handbook
+GD:400
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:5
+
+ID:14
+NM:book of the Tempests
+GD:700
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:11
+
+ID:15
+NM:book of Death
+GD:700
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:11
+
+ID:16
+NM:book of Hinderance
+GD:200
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:1
+
+ID:17
+NM:book of Changes
+GD:250
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:2
+
+ID:18
+NM:book of Transfigurations
+GD:550
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:8
+
+ID:19
+NM:book of Practical Magic
+GD:300
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:3
+
+ID:20
+NM:book of War Chants
+GD:400
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:5
+
+ID:21
+NM:book of Clouds
+GD:450
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:6
+
+ID:22
+NM:book of Healing
+GD:5150
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:3
+
+ID:23
+NM:book of Necromancy
+GD:300
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:3
+
+ID:24
+NM:Necronomicon
+GD:1150
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:20
+
+ID:25
+NM:book of Callings
+GD:300
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:3
+
+ID:26
+NM:book of Charms
+GD:250
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:2
+
+ID:27
+NM:book of Demonology
+GD:900
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:15
+
+ID:28
+NM:book of Air
+GD:350
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:4
+
+ID:29
+NM:book of the Sky
+GD:650
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:10
+
+ID:30
+NM:book of Divinations
+GD:550
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:8
+
+ID:31
+NM:book of the Warp
+GD:900
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:15
+
+ID:32
+NM:book of Envenomations
+GD:900
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:15
+
+ID:33
+NM:book of Annihilations
+GD:1000
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:17
+
+ID:34
+NM:book of Unlife
+GD:650
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:10
+
+ID:35
+NM:tome of Destruction
+GD:1650
+DC:An extremely powerful but unpredictable book of magic. $It weighs around 7.0 aum. 
+LV:15
+
+ID:36
+NM:book of Control
+GD:650
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:10
+
+ID:37
+NM:book of Morphology
+GD:750
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:12
+
+ID:38
+NM:book of Tukima
+GD:950
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:16
+
+ID:39
+NM:book of Geomancy
+GD:350
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:4
+
+ID:40
+NM:book of the Earth
+GD:650
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:10
+
+ID:41
+NM:manual
+GD:1150
+DC:A valuable book of magic which allows one to practise a certain skill greatly. As it is used, it gradually disintegrates and will eventually fall apart. $It weighs around 7.0 aum. 
+LV:12
+
+ID:42
+NM:book of Wizardry
+GD:300
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:3
+
+ID:43
+NM:book of Power
+GD:450
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:6
+
+ID:44
+NM:book of Cantrips
+GD:200
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:1
+
+ID:45
+NM:book of Party Tricks
+GD:500
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:7
+
+ID:46
+NM:Monster Manual
+GD:750
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:12
+
+ID:47
+NM:book of Stalking
+GD:400
+DC:A book of magic spells. Beware, for some of the more powerful grimoires are not to be toyed with. $It weighs around 7.0 aum. 
+LV:5

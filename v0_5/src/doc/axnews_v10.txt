@@ -1,0 +1,63 @@
+DUNGEON AX-CRAWL
+
+v.01.00
+
+$:CYAN:$About$:LIGHTGREY:$
+
+I'm developping my own version of Crawl, Ax-Crawl, based in Dungeon Crawl 4.0.0 beta 20.
+
+It's taking a lot of time and sometimes it seems impossible to finish.
+
+While I finish, I'm planning to realease some bits of code, hopping someome find them helpful. 
+
+You can contact me at agarcim@bigfoot.com 
+
+Home page: http://ttt.upv.es/agarcim/index.htm
+
+
+$:CYAN:$List of available patches$:LIGHTGREY:$
+
+This patches are for Dungeon Crawl 4.0.0 beta 20.
+In next days, I will provide them for Dungeon Crawl 4.0.0 beta 23. 
+
+$:CYAN:$Solutions to some bugs$:LIGHTGREY:$ 
+      Bug with long names 
+      Fast and slow at the same time 
+      Autopickup don't pick all items that can be picked 
+      Confusing message when buchering with gloves 
+      Dwarf begins with elven equip 
+      Confusing touch uses the correct name of your hands (leg, claw, etc) 
+
+$:CYAN:$Killed by a program bug$:LIGHTGREY:$ 
+     When killed by some spells, in the score list entry you are 
+     killed by "a program bug". 
+
+$:CYAN:$Enhacements to score list$:LIGHTGREY:$
+     It shows how (more) exactly ho you died. Also corrects the
+      "killed by a program bug" entry in the score list 
+
+$:CYAN:$Online help system $:LIGHTGREY:$
+     An online help system based in external text files ala angband.
+     The help files are in "doc" subdirectory
+
+$:CYAN:$User defined screens$:LIGHTGREY:$ 
+     The user can define, by external .txt files, four screens:
+          an intro screen 
+          the screen that ask the name of the player 
+          the screen to say "see you soon" 
+          a screen to say "you are death" 
+     The files are in subdirectory "data"     
+
+$:CYAN:$New start game changes$:LIGHTGREY:$ 
+          Only elves begin with elven equipment 
+          allow (by init.txt or command line) all combinations classes/races 
+          changes in select class and race 
+          changes in start equipment 
+          new command line params and init.txt entries 
+
+$:CYAN:$Resting$:LIGHTGREY:$ 
+     A system to rest until recovered magic, hp, both or disturbed. 
+
+$:CYAN:$Other new commands$:LIGHTGREY:$ 
+          command 'k' to destroy objects 
+          command 'Ctrl+S' to save without query and without exit 

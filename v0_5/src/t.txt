@@ -1,0 +1,20 @@
+monmem.cc: In function `void ActEstadisticas(int, int, int)':
+monmem.cc:99: `mon_entry' undeclared (first use this function)
+monmem.cc:99: (Each undeclared identifier is reported only once
+monmem.cc:99: for each function it appears in.)
+monmem.cc: In function `void MonsterRecall(int, string &)':
+monmem.cc:153: implicit declaration of function `int level_name(...)'
+monmem.cc:206: passing `int' to argument 1 of `mons_see_invis(monsters *)' lacks a cast
+monmem.cc:218: passing `int' to argument 1 of `mons_res_elec(monsters *)' lacks a cast
+monmem.cc:219: passing `int' to argument 1 of `mons_res_poison(monsters *)' lacks a cast
+monmem.cc:220: passing `int' to argument 1 of `mons_res_fire(monsters *)' lacks a cast
+monmem.cc:221: passing `int' to argument 1 of `mons_res_cold(monsters *)' lacks a cast
+monmem.cc:230: passing `int' to argument 1 of `mons_flies(monsters *)' lacks a cast
+monmem.cc: In function `int show_item(tMenu &, int)':
+monmem.cc:315: implicit declaration of function `int monster(...)'
+monmem.cc:315: base operand of `->' is not a pointer
+monmem.cc:321: base operand of `->' is not a pointer
+monmem.cc:322: base operand of `->' is not a pointer
+monmem.cc:328: base operand of `->' is not a pointer
+make.exe[1]: *** [monmem.o] Error 1
+make.exe: *** [all] Error 2

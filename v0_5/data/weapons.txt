@@ -1,0 +1,560 @@
+NI:43
+ID:0
+NM:club
+DG:5
+HT:4
+SP:12
+WG:50
+HN:1
+ST:S
+GD:10
+DC:A heavy piece of wood. $
+SK:maces_flails
+
+
+ID:1
+NM:mace
+DG:8
+HT:3
+SP:14
+WG:140
+HN:1
+ST:S
+GD:30
+DC:A long handle with a heavy lump on one end. $
+SK:maces_flails
+
+
+ID:2
+NM:flail
+DG:9
+HT:2
+SP:15
+WG:150
+HN:1
+ST:S
+GD:35
+DC:Like a mace, but with a length of chain between the handle and the lump of metal. $
+SK:maces_flails
+
+
+ID:3
+NM:dagger
+DG:3
+HT:6
+SP:11
+WG:20
+HN:1
+ST:D+
+GD:20
+DC:A long knife or a very short sword, which can be held or thrown. $
+SK:short_blades
+
+
+ID:4
+NM:morningstar
+DG:10
+HT:2
+SP:15
+WG:150
+HN:1
+ST:S
+GD:40
+DC:A mace covered in spikes. $
+SK:maces_flails
+
+
+ID:5
+NM:short sword
+DG:6
+HT:5
+SP:12
+WG:100
+HN:1
+ST:D+
+GD:32
+DC:A sword with a short, slashing blade. $
+SK:short_blades
+
+
+ID:6
+NM:long sword
+DG:10
+HT:3
+SP:14
+WG:160
+HN:1
+ST:D
+GD:45
+DC:A sword with a long, slashing blade. $
+SK:long_swords
+
+
+ID:7
+NM:great sword
+DG:16
+HT:-1
+SP:17
+WG:250
+HN:2
+ST:D
+GD:60
+DC:A sword with a very long, heavy blade and a long handle. $
+SK:long_swords
+
+
+ID:8
+NM:scimitar
+DG:11
+HT:1
+SP:14
+WG:170
+HN:1
+ST:D
+GD:45
+DC:A long sword with a curved blade. $
+SK:long_swords
+
+
+ID:9
+NM:hand axe
+DG:7
+HT:2
+SP:13
+WG:110
+HN:1
+ST:S
+GD:28
+DC:An axe designed for either hand combat or throwing.  It might also make a good tool.$
+SK:axes
+
+
+ID:10
+NM:battleaxe
+DG:17
+HT:-2
+SP:18
+WG:200
+HN:2
+ST:S+
+GD:65
+DC:A large axe with a double-headed blade. $
+SK:axes
+
+
+ID:11
+NM:spear
+DG:5
+HT:3
+SP:13
+WG:50
+HN:3
+ST:D
+GD:32
+DC:A long stick with a pointy blade on one end, to be held or thrown. $
+SK:polearms
+
+
+ID:12
+NM:halberd
+DG:13
+HT:-3
+SP:19
+WG:200
+HN:2
+ST:D
+GD:52
+DC:A long pole with a spiked axe head on one end. $
+SK:polearms
+
+
+ID:13
+NM:sling
+DG:1
+HT:-1
+SP:11
+WG:10
+HN:1
+ST:D
+GD:15
+DC:A piece of cloth and leather for launching stones, which do a small amount of damage on impact. $
+SK:sling
+
+
+ID:14
+NM:bow
+DG:2
+HT:-3
+SP:11
+WG:100
+HN:1
+ST:S
+GD:31
+DC:A curved piece of wood and string, for shooting arrows. It does good damage in combat, and a skilled user can use it to great effect. $
+SK:bow
+
+
+ID:15
+NM:crossbow
+DG:2
+HT:-1
+SP:15
+WG:250
+HN:1
+ST:S
+GD:41
+DC:A piece of machinery used for firing bolts, which takes some time to load and fire. It does very good damage in combat. $
+SK:crossbow
+
+
+ID:16
+NM:hand crossbow
+DG:1
+HT:-1
+SP:15
+WG:70
+HN:1
+ST:S
+GD:51
+DC:A small crossbow, for firing darts. $
+SK:crossbow
+
+
+ID:17
+NM:glaive
+DG:15
+HT:-3
+SP:18
+WG:200
+HN:2
+ST:S
+GD:55
+DC:A pole with a large, heavy blade on one end. $
+SK:polearms
+
+
+ID:18
+NM:quarterstaff
+DG:7
+HT:6
+SP:12
+WG:130
+HN:2
+ST:S
+GD:25
+DC:A sturdy wooden pole. $
+SK:staves
+
+
+ID:19
+NM:scythe
+DG:14
+HT:-4
+SP:22
+WG:230
+HN:2
+ST:S
+GD:30
+DC:A farm implement, usually unsuited to combat. $
+SK:polearms
+
+
+ID:20
+NM:giant club
+DG:15
+HT:-5
+SP:16
+WG:750
+HN:2
+ST:S+
+GD:17
+DC:A giant lump of wood, shaped for an ogre's hands. $
+SK:maces_flails
+
+
+ID:21
+NM:giant spiked club
+DG:18
+HT:-6
+SP:17
+WG:850
+HN:2
+ST:S+
+GD:19
+DC:A giant lump of wood with sharp spikes at one end. $
+SK:maces_flails
+
+
+ID:22
+NM:eveningstar
+DG:12
+HT:2
+SP:15
+WG:150
+HN:1
+ST:S
+GD:65
+DC:The opposite of a morningstar. $
+SK:maces_flails
+
+
+ID:23
+NM:quick blade
+DG:5
+HT:6
+SP:7
+WG:100
+HN:1
+ST:D+
+GD:250
+DC:A small and magically quick sword. $
+SK:short_blades
+
+
+ID:24
+NM:katana
+DG:13
+HT:4
+SP:13
+WG:160
+HN:3
+ST:D
+GD:300
+DC:A very rare and extremely effective imported weapon, featuring a long single-edged blade. $
+SK:long_swords
+
+
+ID:25
+NM:executioner's axe
+DG:20
+HT:-4
+SP:20
+WG:320
+HN:2
+ST:S+
+GD:100
+DC:A huge axe. $
+SK:axes
+
+
+ID:26
+NM:double sword
+DG:15
+HT:3
+SP:16
+WG:220
+HN:3
+ST:D
+GD:200
+DC:A magical weapon with two razor-sharp blades. $
+SK:long_swords
+
+
+ID:27
+NM:triple sword
+DG:19
+HT:-1
+SP:19
+WG:300
+HN:2
+ST:D
+GD:300
+DC:A magical weapon with three great razor-sharp blades. $
+SK:long_swords
+
+
+ID:28
+NM:hammer
+DG:7
+HT:2
+SP:13
+WG:130
+HN:1
+ST:S
+GD:30
+DC:The kind of thing you hit nails with, adapted for battle. $
+SK:maces_flails
+
+
+ID:29
+NM:ancus
+DG:9
+HT:1
+SP:14
+WG:160
+HN:1
+ST:S
+GD:40
+DC:A large and vicious toothed club. $
+SK:maces_flails
+
+
+ID:30
+NM:whip
+DG:3
+HT:1
+SP:14
+WG:30
+HN:1
+ST:D+
+GD:25
+DC:A whip. $
+SK:maces_flails
+
+
+ID:31
+NM:sabre
+DG:7
+HT:4
+SP:12
+WG:110
+HN:1
+ST:D+
+GD:40
+DC:A sword with a medium length slashing blade. $
+SK:short_blades
+
+
+ID:32
+NM:demon blade
+DG:13
+HT:2
+SP:15
+WG:200
+HN:1
+ST:D
+GD:300
+DC:A terrible weapon, forged in the fires of Hell. $
+SK:long_swords
+
+
+ID:33
+NM:demon whip
+DG:10
+HT:1
+SP:14
+WG:30
+HN:1
+ST:D+
+GD:230
+DC:A terrible weapon, woven in the depths of the inferno. $
+SK:maces_flails
+
+
+ID:34
+NM:demon trident
+DG:15
+HT:-2
+SP:17
+WG:160
+HN:3
+ST:D
+GD:250
+DC:A terrible weapon, molded by fire and brimstone. $
+SK:polearms
+
+
+ID:35
+NM:broad axe
+DG:14
+HT:1
+SP:17
+WG:180
+HN:3
+ST:S
+GD:60
+DC:An axe with a large blade. $
+SK:axes
+
+
+ID:36
+NM:axe
+DG:11
+HT:0
+SP:16
+WG:150
+HN:3
+ST:S
+GD:40
+DC:An axe intended for hand to hand combat. $
+SK:axes
+
+
+ID:37
+NM:trident
+DG:9
+HT:-2
+SP:17
+WG:160
+HN:3
+ST:D
+GD:42
+DC:A hafted weapon with three points at one end. $
+SK:polearms
+
+
+ID:38
+NM:spiked flail
+DG:12
+HT:1
+SP:16
+WG:170
+HN:1
+ST:S
+GD:101
+DC:A flail with large spikes on the metal lump. $
+SK:maces_flails
+
+
+ID:39
+NM:great mace
+DG:16
+HT:-3
+SP:18
+WG:260
+HN:2
+ST:S+
+GD:65
+DC:A large and heavy mace. $
+SK:maces_flails
+
+
+ID:40
+NM:great flail
+DG:17
+HT:-4
+SP:19
+WG:300
+HN:2
+ST:S+
+GD:75
+DC:A large and heavy flail. $
+SK:maces_flails
+
+
+ID:41
+NM:knife
+DG:2
+HT:0
+SP:11
+WG:10
+HN:1
+ST:D+
+GD:10
+DC:A simple survival knife. Designed more for utility than combat, it looks quite capable of butchering a corpse. $
+SK:short_blades
+
+
+ID:42
+NM:blowgun
+DG:1
+HT:0
+SP:10
+WG:50
+HN:1
+ST:S
+GD:25
+DC:A long, light tube, open at both ends.  Doing very little damage,  its main use is to fire poisoned needles from afar.  It makes very little noise. $
+SK:dart
+
+

@@ -1,0 +1,298 @@
+NI:33
+ID:0
+NM:robe
+AC:1
+EV:0
+WG:60
+GD:12
+DC:A cloth robe. 
+
+
+ID:1
+NM:leather armour
+AC:2
+EV:-1
+WG:150
+GD:25
+DC:A suit made of hardened leather. 
+
+
+ID:2
+NM:ring mail
+AC:4
+EV:-2
+WG:300
+GD:45
+DC:A leather suit covered in little rings. 
+
+
+ID:3
+NM:scale mail
+AC:5
+EV:-2
+WG:400
+GD:88
+DC:A leather suit covered in little metal plates. 
+
+
+ID:4
+NM:chain mail
+AC:6
+EV:-3
+WG:450
+GD:115
+DC:A suit made of interlocking metal rings. 
+
+
+ID:5
+NM:splint mail
+AC:8
+EV:-5
+WG:550
+GD:145
+DC:A suit made of splints of metal. 
+
+
+ID:6
+NM:banded mail
+AC:7
+EV:-4
+WG:500
+GD:155
+DC:A suit made of bands of metal. 
+
+
+ID:7
+NM:plate mail
+AC:9
+EV:-5
+WG:650
+GD:235
+DC:A suit of mail and large plates of metal. 
+
+
+ID:8
+NM:shield
+AC:0
+EV:0
+WG:100
+GD:50
+DC:A piece of metal, to be strapped on one's arm. It is cumbersome to wear, and slightly slows the rate at which you may attack. 
+
+
+ID:9
+NM:cloak
+AC:1
+EV:0
+WG:20
+GD:15
+DC:A cloth cloak. 
+
+
+ID:10
+NM:helmet
+AC:1
+EV:0
+WG:80
+GD:30
+DC:A piece of metal headgear. 
+
+
+ID:11
+NM:pair of gloves
+AC:1
+EV:0
+WG:20
+GD:17
+DC:A pair of gloves. 
+
+
+ID:12
+NM:pair of boots
+AC:1
+EV:0
+WG:40
+GD:20
+DC:A pair of sturdy boots. 
+
+
+ID:13
+NM:buckler
+AC:0
+EV:0
+WG:50
+GD:30
+DC:A small shield. 
+
+
+ID:14
+NM:large shield
+AC:0
+EV:0
+WG:250
+GD:80
+DC:Like a normal shield, only larger. It is very cumbersome to wear, and slows the rate at which you may attack. 
+
+
+ID:15
+NM:dragon hide
+AC:2
+EV:-2
+WG:220
+GD:505
+DC:The scaly skin of a dragon. I suppose you could wear it if you really wanted to. 
+
+
+ID:16
+NM:troll hide
+AC:1
+EV:-1
+WG:180
+GD:135
+DC:The stiff and knobbly hide of a troll. I suppose you could wear it if you really wanted to. 
+
+
+ID:17
+NM:crystal plate mail
+AC:16
+EV:-8
+WG:1200
+GD:505
+DC:An incredibly heavy but extremely effective suit of crystalline armour. It is somewhat resistant to corrosion. 
+
+
+ID:18
+NM:dragon armour
+AC:8
+EV:-2
+WG:220
+GD:755
+DC:A magical armour, made from the scales of a fire-breathing dragon. It provides great protection from the effects of fire, but renders its wearer more susceptible to the effects of cold. 
+
+
+ID:19
+NM:troll leather armour
+AC:3
+EV:-1
+WG:180
+GD:505
+DC:A magical armour, made from the stiff and knobbly skin of a common troll. It magically regenerates its wearer's flesh at a fairly slow rate (unless already a troll). 
+
+
+ID:20
+NM:ice dragon hide
+AC:2
+EV:-2
+WG:220
+GD:505
+DC:The scaly skin of a dragon. I suppose you could wear it if you really wanted to. 
+
+
+ID:21
+NM:ice dragon armour
+AC:9
+EV:-2
+WG:220
+GD:755
+DC:A magical armour, made from the scales of a cold-breathing dragon. It provides great protection from the effects of cold, but renders its wearer more susceptible to the effects of fire and heat. 
+
+
+ID:22
+NM:steam dragon hide
+AC:0
+EV:0
+WG:120
+GD:205
+DC:The soft and supple scaley skin of a steam dragon. I suppose you could wear it if you really wanted to. 
+
+
+ID:23
+NM:steam dragon armour
+AC:3
+EV:0
+WG:120
+GD:305
+DC:A magical armour, made from the scales of a steam-breathing dragon. Although unlike the armour made from the scales of some larger dragons it does not provide its wearer with much in the way of special magical protection, it is extremely light and as supple as cloth. 
+
+
+ID:24
+NM:mottled dragon hide
+AC:1
+EV:-1
+WG:150
+GD:305
+DC:The weirdly-patterned scaley skin of a mottled dragon. I suppose you could wear it if you really wanted to. 
+
+
+ID:25
+NM:mottled dragon armour
+AC:5
+EV:-1
+WG:150
+GD:405
+DC:A magical armour made from the scales of a mottled dragon. Although unlike the armour made from the scales of some larger dragons it does not provide its wearer with much in the way of special magical protection, it is as light and relatively uncumbersome as leather armour. 
+
+
+ID:26
+NM:storm dragon hide
+AC:2
+EV:-5
+WG:400
+GD:905
+DC:The hide of a storm dragon, covered in extremely hard blue scales. I suppose you could wear it if you really wanted to. 
+
+
+ID:27
+NM:storm dragon armour
+AC:10
+EV:-5
+WG:400
+GD:1055
+DC:A magical armour made from the scales of a lightning-breathing dragon. It is heavier than most dragon scale armours, but gives its wearer great resistance to electrical discharges. 
+
+
+ID:28
+NM:gold dragon hide
+AC:2
+EV:-10
+WG:1100
+GD:1405
+DC:The extremely tough and heavy skin of a golden dragon, covered in shimmering golden scales. I suppose you could wear it if you really wanted to. 
+
+
+ID:29
+NM:gold dragon armour
+AC:13
+EV:-10
+WG:1100
+GD:1605
+DC:A magical armour made from the golden scales of a golden dragon. It is extremely heavy and cumbersome, but confers resistances to fire, cold, and poison on its wearer. 
+
+
+ID:30
+NM:animal skin
+AC:1
+EV:0
+WG:100
+GD:8
+DC:The skins of several animals. 
+
+
+ID:31
+NM:swamp dragon hide
+AC:1
+EV:-2
+WG:200
+GD:405
+DC:The slimy, smelly skin of a swamp-dwelling dragon. I suppose you could wear it if you really wanted to. 
+
+
+ID:32
+NM:swamp dragon armour
+AC:7
+EV:-2
+WG:200
+GD:655
+DC:A magical armour made from the scales of a swamp dragon. It confers resistance to poison on its wearer. 
+
+

@@ -1,0 +1,23 @@
+
+$:LIGHTRED:$
+    ,/|    y                /|    /(_)\    |\               y    |\
+   ,/  \   ,OGmm          /' `\   \`,'/   /' `\          mmGO,   / `\
+  /     \_//            /' / | `\_/\~/\_/' | \ `\            \\_/    `\
+ /    |   ||           O  |   \/'   V   `\/   |  O           ||   |    \
+|  |  |  /||          O   |,-,|   ,_;_,   |,-,|   O          ||\  |  |  |
+|  |   \ | \\        oO    \  \\ '\ I /` //  /    Oo        // | /   |  |
+|  \   /\|  M        oO     \ \`\  \ /  /'/ /     Oo        M  |/\   /  |
+|   \ |  ` //         O    /~\ \,\  |  /,/ /~\    O         \\ '  | /   |
+|  /'\|    M      _____O  /__/ /__| I |__\ \__\  O____       M    |/`\  |
+ \ |  `    \\     |     \|  '''  ''' ```  ```  |/     |     //    '  | /
+  \|    |   M     |         $:YELLOW:$DUNGEON CRAWL 4b20$:LIGHTRED:$        |     M   |    |/
+   \    \\_//     |           $:WHITE:$AX-Patch v.01$:LIGHTRED:$           |     \\_//    /
+    `    `~'      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~      `~'    '
+
+      
+      $:LIGHTGREY:$
+      Official Dungeon Crawl Home Page at "http://dungeoncrawl.org"                       
+      
+      Send comments, bug reports, and patches, to "agarcim@yahoo.es"     
+      AX-Crawl Home Page at $:CYAN:$"http://ttt.upv.es/agarcim"$:WHITE:$ 
+$:LIGHTCYAN:$$:QUOTE:data/qbegin.txt:70:4:23:75:$$:WHITE:$$:WAIT:$

@@ -1,0 +1,175 @@
+NI:29
+ID:0
+NM:potion of healing
+GD:20
+DC:A blessed fluid which heals some wounds, clears the mind, and cures diseases. If one uses it when they are at or near full health, it can also slightly repair permanent injuries. $
+
+
+ID:1
+NM:potion of heal wounds
+GD:30
+DC:A magical healing elixir which causes wounds to close and heal almost instantly. If one uses it when they are at or near full health, it can also repair permanent injuries. $
+
+
+ID:2
+NM:potion of speed
+GD:25
+DC:An enchanted beverage which speeds the actions of anyone who drinks it. $
+
+
+ID:3
+NM:potion of might
+GD:25
+DC:A magic potion which greatly increases the strength and physical power of one who drinks it. $
+
+
+ID:4
+NM:potion of gain strength
+GD:350
+DC:A potion of beneficial mutation. $
+
+
+ID:5
+NM:potion of gain dexterity
+GD:350
+DC:A potion of beneficial mutation. $
+
+
+ID:6
+NM:potion of gain intelligence
+GD:350
+DC:A potion of beneficial mutation. $
+
+
+ID:7
+NM:potion of levitation
+GD:20
+DC:A potion which confers great buoyancy on one who consumes it. $
+
+
+ID:8
+NM:potion of poison
+GD:1
+DC:A nasty poisonous liquid. $
+
+
+ID:9
+NM:potion of slowing
+GD:1
+DC:A potion which slows your actions. $
+
+
+ID:10
+NM:potion of paralysis
+GD:1
+DC:A potion which eliminates your control over your own body. $
+
+
+ID:11
+NM:potion of confusion
+GD:1
+DC:A potion which confuses your perceptions and reduces your control over your own actions. $
+
+
+ID:12
+NM:potion of invisibility
+GD:55
+DC:A potion which hides you from the sight of others. $
+
+
+ID:13
+NM:potion of porridge
+GD:10
+DC:A filling potion of sludge, high in cereal fibre. $
+
+
+ID:14
+NM:potion of degeneration
+GD:1
+DC:A noxious concoction which can do terrible things to your body, brain and reflexes. $
+
+
+ID:15
+NM:potion of decay
+GD:1
+DC:A vile and putrid cursed liquid which causes your flesh to decay before your very eyes. $
+
+
+ID:16
+NM:potion of water
+GD:1
+DC:A unique substance, vital for the existence of most life. $
+
+
+ID:17
+NM:potion of experience
+GD:500
+DC:A truly wonderful and very rare drink. $
+
+
+ID:18
+NM:potion of magic
+GD:120
+DC:A valuable potion which grants a person with an infusion of magical energy. $
+
+
+ID:19
+NM:potion of restore abilities
+GD:50
+DC:A potion which restores the abilities of one who drinks it. $
+
+
+ID:20
+NM:potion of strong poison
+GD:1
+DC:A terribly venomous potion. $
+
+
+ID:21
+NM:potion of berserk rage
+GD:30
+DC:A potion which can send one into an incoherent rage. $
+
+
+ID:22
+NM:potion of cure mutation
+GD:150
+DC:A potion which removes some or all of any mutations which may be afflicting you. $
+
+
+ID:23
+NM:potion of mutation
+GD:50
+DC:A potion which does very strange things to you. $
+
+
+ID:24
+NM:potion of ESP
+GD:1
+DC:An enchanted  which allow you sense the mind of nearby creatures.. $
+
+
+ID:25
+NM:potion of restoring
+GD:1
+DC:A blessed  which fully revify you and restores all your magic.. $
+
+
+ID:26
+NM:potion of inmateriality
+GD:1
+DC:A truly wonderful and very rare  which eables you to ignore the matery, making you invulnarable to phisic damage,but also uneables you to take objects from floor and to damage any creature with phisics ways.. $
+
+
+ID:27
+NM:potion of hunger
+GD:1
+DC:A putrid  which makes you more hunger.. $
+
+
+ID:28
+NM:potion of aggravate
+GD:1
+DC:A vile  which causes your body emmit a strange radiation that alerts of your presence all nearby creatures.. $
+
+

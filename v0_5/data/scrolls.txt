@@ -1,0 +1,217 @@
+NI:25
+
+IN:SCR_IDENTIFY
+NM:identify
+DC:This useful magic scroll allows you to determine the properties of any object.
+C1:CURSE_WEAPON
+C2:IDENTIFY_II
+PW:IDENTIFY
+PB:1826
+
+IN:SCR_TELEPORTATION
+NM:teleportation
+DC:Reading the words on this scroll translocates you to a random position.
+C1:PARALISYS
+C2:TELEPORT_II
+PW:TELEPORT
+PB:815
+
+IN:SCR_FEAR
+NM:fear
+DC:This scroll causes great fear in those who see the one who reads it.
+C1:ENCHANT_ARMOUR
+C2:REMOVE_CURSE
+PW:MASS_FEAR
+PB:326
+
+IN:SCR_NOISE
+NM:noise
+DC:This prank scroll, often slipped into a wizard's backpack by a devious apprentice, causes a loud noise. It is not otherwise noted for its usefulness.
+C1:CURSE_ARMOUR
+C2:MASS_CONFUSION
+PW:NOISE
+PB:326
+
+IN:SCR_REMOVE_CURSE
+NM:remove curse
+DC:Reading this scroll removes curses from the items you are using.
+C1:DETECT_CURSE
+C2:CURSE_WEAPON
+PW:REMOVE_CURSE
+PB:1326
+
+IN:SCR_DETECT_CURSE
+NM:detect curse
+DC:This scroll allows you to detect the presence of cursed items among your possessions.
+C1:RANDOM_BLINK
+C2:MAGIC_MAPPING
+PW:DETECT_CURSE
+PB:652
+
+IN:SCR_SUMMONING
+NM:summoning
+DC:This scroll opens a conduit to the Abyss and draws a terrible beast to this world for a limited time.
+C1:MASS_CONFUSION
+C2:NOISE
+PW:SUMMONING
+PB:163
+LV:5
+
+
+IN:SCR_ENCHANT_WEAPON_I
+NM:enchant weapon I
+DC:This scroll places an enchantment on a weapon, making it more accurate in combat. It may fail to affect weapons already heavily enchanted.
+C1:FORGETFULNESS
+C2:CURSE
+PW:ENCHANT_TO_HIT
+PB:326
+
+IN:SCR_ENCHANT_ARMOUR
+NM:enchant armour
+DC:This scroll places an enchantment on a piece of armour.
+C1:BERSERKER
+C2:FORGETFULNESS
+PW:ENCHANT_ARMOUR
+PB:326
+
+IN:SCR_TORMENT
+NM:torment
+DC:This scroll calls on the powers of Hell to inflict great pain on any nearby creature - including you!
+C1:RESTORE_HP_MANA
+C2:ENCHANT_ARMOUR
+PW:TORMENT
+PB:163
+LV:7
+
+IN:SCR_RANDOM_USELESSNESS
+NM:random uselessness
+DC:It is easy to be blinded to the essential uselessness of this scroll by the sense of achievement you get from getting it to work at all.
+C1:CURSE_ARMOUR
+C2:PURIFICATION
+PW:RANDOM_USELESSNESS
+PB:326
+
+IN:SCR_CURSE_WEAPON
+NM:curse weapon
+DC:This scroll places a curse on a weapon.
+C1:ENCHANT_TO_HIT
+C2:ENCHANT_TO_DAM
+PW:CURSE_WEAPON
+PB:326
+
+IN:SCR_CURSE_ARMOUR
+NM:curse armour
+DC:This scroll places a curse on a piece of armour.
+C1:ENCHANT_ARMOUR
+C2:MASS_FEAR
+PW:CURSE_ARMOUR
+PB:326
+
+IN:SCR_IMMOLATION
+NM:immolation
+DC:Small writing on the back of the scroll reads-> Warning: contents under pressure.  Do not use near flammable objects.
+C1:MAGIC_MAPPING
+C2:MASS_CONFUSION
+PW:IMMOLATION
+PB:326
+LV:5
+
+IN:SCR_BLINKING
+NM:blinking
+DC:This scroll allows its reader to teleport a short distance, with precise control.
+C1:TELEPORT
+C2:CURSE_WEAPON
+PW:BLINK
+PB:326
+
+IN:SCR_PAPER
+NM:paper
+DC:Apart from a label, this scroll is blank.
+C1:IDENTIFY
+C2:BLINK
+PW:PAPER
+PB:326
+
+
+IN:SCR_MAGIC_MAPPING
+NM:magic mapping
+DC:This scroll reveals the nearby surroundings of one who reads it.
+C1:TORMENT
+C2:ENCHANT_WEAPON_III
+PW:MAGIC_MAPPING
+PB:326
+
+IN:SCR_FORGETFULNESS
+NM:forgetfulness
+DC:This scroll induces an irritating disorientation.
+C1:IDENTIFY
+C2:RESTORE_HP_MANA
+PW:FORGETFULNESS
+PB:326
+
+IN:SCR_ACQUIREMENT
+NM:acquirement
+DC:This wonderful scroll causes the creation of a valuable item to appear before the reader. It is especially treasured by specialist magicians, as they can use it to obtain the powerful spells of their specialty.
+C1:REMOVE_CURSE
+C2:PURIFICATION
+PW:ACQUIREMENT
+PB:163
+LV:5
+
+IN:SCR_ENCHANT_WEAPON_II
+NM:enchant weapon II
+DC:This scroll places an enchantment on a weapon, making it inflict greater damage in combat. It may fail to affect weapons already heavily enchanted.
+C1:MASS_FEAR
+C2:PARALISYS
+PW:ENCHANT_TO_DAM
+PB:326
+
+IN:SCR_VORPALISE_WEAPON
+NM:vorpalise weapon
+DC:This scroll enchants a weapon so as to make it far more effective at inflicting harm on its wielder's enemies. Using it on a weapon already affected by some kind of special enchantment (other than that produced by a normal scroll of enchant weapon) is not advised.
+C1:SURE_VORPALISE
+C2:SURE_VORPALISE
+PW:VORPALISE
+PB:163
+LV:7
+
+IN:SCR_RECHARGING
+NM:recharging
+DC:This scroll restores the charges of any magical wand wielded by its reader.
+C1:CURSE
+C2:BERSERKER
+PW:RECHARGING
+PB:326
+
+IN:SCR_ENCHANT_WEAPON_III
+NM:enchant weapon III
+DC:This scroll enchants a weapon to be far more effective in combat. Although it can be used in the creation of especially enchanted weapons, it may fail to affect those already heavily enchanted.
+C1:INVULNERABILITY
+C2:RANDOM_BLINK
+PW:ENCHANT_WEAPON_III
+PB:163
+LV:5
+
+IN:SCR_INVULNERABILITY
+NM:invulnerability
+DC:For a very short of period of time, you can't be harmmed.
+C1:INMATERIALITY
+C2:INVISIBILITY
+PW:INVULNERABILITY
+PB:100
+
+IN:SCR_DETECT_DANGER
+NM:detect danger
+DC:It reveals to your eyes the presence of traps and creatures.
+C1:INMATERIALITY
+C2:INVISIBILITY
+PW:DETECT_DANGER
+PB:326
+
+IN:SCR_MASS_CONFUSION
+NM:mass confusion
+DC:This scroll tries to confuse nearby monsters.
+C1:BLINK
+C2:IMMOLATION
+PW:MASS_CONFUSION
+PB:326

@@ -1,0 +1,29 @@
+$:CYAN:$    
+                                    /   \      
+   _                        )      ((   ))     (
+  (@)                      /|\      ))_((     /|\
+  |-|                     / | \    (/\|/\)   / | \                      (@)
+  | | -------------------/--|-voV---\`|'/--Vov-|--\---------------------|-|
+  |-|                         '^`   (o o)  '^`                          | |
+  | |                               `\Y/'                               |-|
+  |-|                                                                   | |
+  | |                      Name of the adventurer                       |-|
+  |-|                                                                   | |
+  | |                                                                   |-|
+  |_|___________________________________________________________________| |
+  (@)              l   /\ /         ( (       \ /\   l                `\|-|
+                   l /   V           \ \       V   \ l                  (@)
+                   l/                _) )_          \I
+                                     `\ /'
+                                                                       
+$:MAGENTA:$
+Welcome to Ax-Crawl.
+Best adventures than you are tried to rescue the Orb of Zot.
+Do you want to die like they did?
+$:YELLOW:$$:QUOTE:data/qbegin.txt:70:4:23:75:$$:WHITE:$
+
+$:XY:17:11:$
+$:BACKCOLOR:GREEN:$
+                                        
+$:YELLOW:$
+$:XY:17:11:$$:ENTERPLAYERNAME:35:17:24:$$:LIGHTRED:$$:BACKCOLOR:BLACK:$

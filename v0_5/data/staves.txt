@@ -1,0 +1,169 @@
+NI:28
+ID:0
+NM:staff of wizardry
+GD:250
+DC:This staff increases the magical proficiency of its wielder by a considerable degree, increasing the power of their spells. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:1
+NM:staff of power
+GD:250
+DC:This staff provides a reservoir of magical power to its wielder. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:2
+NM:staff of fire
+GD:250
+DC:This staff increases the power of fire spells cast by its wielder, and protects him or her from the effects of heat and fire. It can burn those struck by it. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:3
+NM:staff of cold
+GD:250
+DC:This staff increases the power of ice spells cast by its wielder, and protects him or her from the effects of cold. It can freeze those struck by it. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:4
+NM:staff of poison
+GD:250
+DC:This staff increases the power of poisoning spells cast by its wielder, and protects him or her from the effects of poison. It can poison those struck by it. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:5
+NM:staff of energy
+GD:250
+DC:This staff allows its wielder to cast magical spells without hungering as a result. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:6
+NM:staff of death
+GD:250
+DC:This staff increases the power of necromantic spells cast by its wielder. It can cause great pain in those living souls its wielder strikes. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:7
+NM:staff of conjuration
+GD:250
+DC:This staff increases the power of conjurations cast by its wielder. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:8
+NM:staff of enchantment
+GD:250
+DC:This staff increases the power of enchantments cast by its wielder. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:9
+NM:staff of summoning
+GD:250
+DC:This staff increases the power of summonings cast by its wielder. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:10
+NM:rod of smiting
+GD:150
+DC:This rod allows its wielder to smite foes from afar. The wielder must be at least level four to safely use this ability, which costs 4 magic points. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:11
+NM:rod of summoning
+GD:250
+DC:This rod of spells contains spells of summoning. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:12
+NM:rod of destruction
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:13
+NM:rod of destruction
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:14
+NM:rod of destruction
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:15
+NM:rod of destruction
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:16
+NM:rod of warding
+GD:150
+DC:This rod of spells contains spells designed to repel one's enemies. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:17
+NM:rod of discovery
+GD:150
+DC:This rod of spells contains spells which reveal various aspects of an explorer's surroundings to them. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:18
+NM:rod of demonology
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:19
+NM:rod of striking
+GD:150
+DC:This rod allows its wielder to strike foes from afar. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:20
+NM:rod of bugginess
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:21
+NM:rod of bugginess
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:22
+NM:rod of bugginess
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:23
+NM:rod of bugginess
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:24
+NM:rod of bugginess
+GD:250
+DC:This rod of spells contains spells of mayhem and destruction. Casting a spell from it consumes no food, and will not fail.$
+
+
+ID:25
+NM:staff of air
+GD:250
+DC:This staff increases the power of air spells cast by its wielder. It can shock those struck by it. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:26
+NM:staff of earth
+GD:250
+DC:This staff increases the power of earth spells cast by its wielder. It can crush those struck by it. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
+ID:27
+NM:staff of channeling
+GD:250
+DC:This staff allows its caster to channel ambient magical energy for his or her own purposes. $$Damage rating: 7 $Accuracy rating: +6 $Attack delay: 120%%$$It falls into the 'staves' category. 
+
+
